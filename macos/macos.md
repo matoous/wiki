@@ -120,10 +120,9 @@ These are mostly individual and depend on personal preferences but one that I fo
 
 ```
 
-## Learn more
+## Resources
 
 - [github.com/nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os)
 - [github.com/sb2nov/mac-setup](https://sourabhbajaj.com/mac-setup/)
-[Tools](CLI%2051166fcb3e3c49f18c0f00fe0586dc08/Tools%200ba80850b8624ccc9dd31a32a1421fc2.md)
+- [Hard to discover tips and apps for making macOS pleasant](https://thume.ca/2020/09/04/macos-tips/)
 
-[Vim](CLI%2051166fcb3e3c49f18c0f00fe0586dc08/Vim%20b958a3a8bbf448c5993dc6280cb3e984.md)

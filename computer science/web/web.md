@@ -1,15 +1,16 @@
 # Web
 
-[Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 
 ## Security
 
 [So You Want to Build an End-to-End Encrypted Web App](https://www.zfnd.org/blog/so-you-want-an-e2e-encrypted-webapp/)
 
-## Landing Pages
+## Inspiration
 
 [5 Quick Hacks for High Converting Landing Pages | Hacker Noon](https://hackernoon.com/5-quick-hacks-for-high-converting-landing-pages-o2b03ye0)
 
-## Design
+## Resources
 
-[](https://images.superfamous.com/36-Gradients)
+- [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+- [Write modern websites using only HTML.](https://newcss.net/)
+
