@@ -16,6 +16,7 @@
       - [Docker](/computer science/operating systems/containers/docker.md)
   - [Orchestration](/computer science/orchestration/orchestration.md)
     - [Kubernetes](/computer science/orchestration/kubernetes.md)
+  - [Command line](/computer science/command line.md)
   - [Teaching](/computer science/teaching/teaching.md)
   - [Homelab](/computer science/homelab/homelab.md)
   - [Games](/computer science/games.md)

@@ -13,10 +13,19 @@
 
   Install with: `brew install ripgrep`
 
+  - [Fast Searching with ripgrep (2020)](https://mariusschulz.com/blog/fast-searching-with-ripgrep)
+  - [Search and replace tricks with ripgrep (2020)](https://learnbyexample.github.io/substitution-with-ripgrep/) ([Lobsters](https://lobste.rs/s/tn4olb/search_replace_tricks_with_ripgrep))
+
+- *awk* - _TODO_
+
+  - [Awk in 20 Minutes](https://ferd.ca/awk-in-20-minutes.html) ([HN](https://news.ycombinator.com/item?id=23048054))
+
 - *[jq](https://stedolan.github.io/jq/)* - flexible and lightweight JSON processor
   that allows you to slice, transform, map and filter JSON data with eas.
 
   Install with: `brew install jq`
+
+  - [Awesome jq](https://github.com/fiatjaf/awesome-jq) - Curated list of awesome things built with the JSON processor and turing-complete functional language jq.
 
 - *[fd](https://github.com/sharkdp/fd)* simple, fast and user-friendly alternative to find.
 
@@ -52,6 +61,8 @@
 - *[htop](https://htop.dev/)*, interactive process viewer.
 
   Install using: `brew install htop`
+
+  - [htop explained](https://peteris.rocks/blog/htop/)
 
 - *[pandoc](https://github.com/jgm/pandoc)*, universal markup converted.
   Supports `tex`, `md`, `docx`, `odt`, and many more.
@@ -116,4 +127,6 @@
   Works best aliased to `rm`.
 
   Install using: `brew install trash`
+
+- *[jrnl](https://jrnl.sh/en/stable/)* - simple journaling in the command line
 
