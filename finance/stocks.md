@@ -12,4 +12,5 @@ More recently, reflexivity could be seen for example in the uprising of GME stoc
 
 ## Articles
 
-[WeWTF, Part Deux | No Mercy / No Malice](https://www.profgalloway.com/wewtf-part-deux)
+* [WeWTF, Part Deux | No Mercy / No Malice](https://www.profgalloway.com/wewtf-part-deux)
+
