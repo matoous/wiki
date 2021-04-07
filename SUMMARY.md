@@ -20,4 +20,5 @@
   - [Biology](/nature/biology.md)
 - [Work](/work/work.md)
   - [Finding Work](/work/finding work.md)
+- [Products](/products/products.md)
 
