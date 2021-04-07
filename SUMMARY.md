@@ -26,6 +26,8 @@
   - [Languages](/computer science/languages/languages.md)
     - [Assembler](/computer science/languages/assembler.md)
     - [Go](/computer science/languages/golang.md)
+  - [Machine Learning](/computer science/machine learning/machine learning.md)
+    - [Reinforcement Learning](/computer science/machine learning/reinforcement learning.md)
   - [Web](/computer science/web/web.md)
     - [Design](/computer science/web/design.md)
   - [Games](/computer science/games.md)
