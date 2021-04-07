@@ -1,5 +1,9 @@
 # Computer Science
 
+## Dictionary
+
+- [YAGNI](https://wiki.c2.com/?YouArentGonnaNeedIt) - You Aren't Gonna Need It
+
 ## Learning materials
 
 * [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/#org71f231a)

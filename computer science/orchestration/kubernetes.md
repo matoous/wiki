@@ -56,3 +56,5 @@ kubectl get deployments
 - [Glossary](https://kubernetes.io/docs/reference/glossary/?fundamental=true)
 - [Deployment Strategies](https://github.com/ContainerSolutions/k8s-deployment-strategies)
 - [Minimum Viable Kubernetes](https://eevans.co/blog/minimum-viable-kubernetes/)
+- [Anatomy of my Kubernetes Cluster](https://ttt.io/anatomy-of-my-kubernetes-cluster)
+
