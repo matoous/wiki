@@ -7,4 +7,9 @@
 ## Resources
 
 * [Netflix Culture](https://jobs.netflix.com/culture)
+* [What defines a great company culture? (twitter)](https://twitter.com/danrose999/status/1378393523213373440)
+  - Culture sets expectatations for behavior
+  - Well defined and well understood by everybody
+  - Strong culture provides sense of belonging, cuts through BS, helps avoid politics
+*
 

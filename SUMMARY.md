@@ -18,4 +18,6 @@
   - [Life](/nature/life.md)
     - [Bees](/bees/bees.md)
   - [Biology](/nature/biology.md)
+- [Work](/work/work.md)
+  - [Finding Work](/work/finding work.md)
 
