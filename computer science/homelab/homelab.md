@@ -14,4 +14,5 @@
 
 - [perrymanuk/hashi-homelab](https://github.com/perrymanuk/hashi-homelab)
 - [Brad's Homelab](https://github.com/bradfitz/homelab)
+- [Screw it, I’ll host it myself](https://www.markozivanovic.com/screw-it-ill-host-it-myself/)
 
