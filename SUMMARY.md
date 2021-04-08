@@ -48,5 +48,6 @@
   - [Running](/sports/running.md)
   - [Swimming](/sports/swimming.md)
 - [Food](/food/food.md)
+  - [Veganism](/food/veganism.md)
 - [Products](/products/products.md)
 

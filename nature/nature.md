@@ -1,5 +1,7 @@
 # Nature
 
-[Biology](Nature%20abbcf210146344c09b3e27f89484f8a2/Biology%200b75a40794764914a26b20b366351cc2.md)
 
-[Life](Nature%20abbcf210146344c09b3e27f89484f8a2/Life%204ad527808972498eb8b639465cfcef30.md)
+## Resources
+
+- [The Deep Sea](https://neal.fun/deep-sea/)
+
