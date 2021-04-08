@@ -14,7 +14,7 @@
     - [Containers](/computer science/operating systems/containers/containers.md)
       - [Docker](/computer science/operating systems/containers/docker.md)
   - [Orchestration](/computer science/orchestration/orchestration.md)
-    - [Kubernetes](/computer science/orchestration/kubernetes.md)
+    - [Kubernetes](/computer science/orchestration/kubernetes/kubernetes.md)
   - [Command line](/computer science/command line/command line.md)
     - [SSH](/computer science/command line/ssh.md)
     - [vim](/computer science/command line/vim.md)

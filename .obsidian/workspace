@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "43fc03d9c0ef336e",
+    "type": "split",
+    "children": [
+      {
+        "id": "53f0206be75c1bf3",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e09c27218739816a",
+    "type": "split",
+    "children": [
+      {
+        "id": "511487cb2c80db65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0affec92abafa01a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d2b5a3f1aacb1f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "85edb8c74a770c72",
+    "type": "split",
+    "children": [
+      {
+        "id": "df17744e1819abc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b119b3b0b29ed20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "53f0206be75c1bf3",
+  "lastOpenFiles": [
+    "company culture/company culture.md"
+  ]
+}
