@@ -1,5 +1,7 @@
 # Summary
 
+- [Life](/life/life.md)
+  - [Productivity](/life/productivity.md)
 - [Finance](/finance/finance.md)
   - [Index Funds](/finance/index funds.md)
   - [Investing](/finance/investing.md)
@@ -23,6 +25,7 @@
   - [Generative Art](/computer science/generative art/generative art.md)
   - [Protocols](/computer science/protocols/protocols.md)
     - [Signal](/computer science/protocols/signal.md)
+    - [TLS](/computer science/protocols/tls.md)
   - [Languages](/computer science/languages/languages.md)
     - [Assembler](/computer science/languages/assembler.md)
     - [Go](/computer science/languages/golang.md)
@@ -40,6 +43,8 @@
     - [Bees](/bees/bees.md)
   - [Biology](/nature/biology.md)
 - [Environment](/environment/environment.md)
+- [Science](/science/science.md)
+  - [Space](/science/space/space.md)
 - [Work](/work/work.md)
   - [Finding Work](/work/finding work.md)
   - [Career](/work/career.md)

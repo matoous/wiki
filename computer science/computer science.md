@@ -32,3 +32,7 @@
 - [the morning paper](https://blog.acolyer.org/) - *a random walk through Computer Science research, by Adrian Colyer*
 - [Nature Computational Science](https://www.nature.com/natcomputsci)
 
+## Resources
+
+- [The Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/), ([HN](https://news.ycombinator.com/item?id=26766722))
+

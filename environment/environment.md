@@ -21,6 +21,7 @@
 - [In the Atlantic Ocean, Subtle Shifts Hint at Dramatic Dangers (2021)](https://www.nytimes.com/interactive/2021/03/02/climate/atlantic-ocean-climate-change.html)
 - [Sea Change Project](https://seachangeproject.com/)
 - ['I've never seen or heard of attacks': scientists baffled by orcas harassing boats](https://www.theguardian.com/environment/2020/sep/13/the-tale-of-the-killer-whales)
+- [Atlantic Dawn: The Ship from Hell](https://britishseafishing.co.uk/atlantic-dawn-the-ship-from-hell/), ([HN](https://news.ycombinator.com/item?id=26748655))
 
 ## Permaculture
 

@@ -22,24 +22,20 @@ Show all available contexts: `kubectl config get-contexts`
 
 Current context: `kubectl config current-context`
 
-Change context: `kubectl config set-context`  
+Change context: `kubectl config set-context`
 
 ## Apply
 
 Applying `json` or `yaml` manifests:
 
 ```jsx
-kubectl apply -f manifest.yaml
-kubectl apply -f manifest1.yaml -f manigest2.yaml
-kubectl apply -f many-manyfests/
+kubectl apply -f manifest.yaml -f another.yaml -f whole-directory/
 ```
 
 ## Viewing and finding resources
 
 ```jsx
-kubectl get services
-kubectl get pods
-kubectl get deployments
+kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespaces]
 ```
 
 ## Deployment strategies

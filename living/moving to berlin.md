@@ -37,9 +37,4 @@ Will need:
 
 ### Bank account
 
-## To Buy
 
-- [ ]  tea pod
-- [ ]  bowls
-- [ ]  adjustable table
-- [ ]
