@@ -2,29 +2,13 @@
 
 ## Periodic jobs
 
-[periodic Stanza - Job Specification | Nomad by HashiCorp](https://www.nomadproject.io/docs/job-specification/periodic/)
+- [periodic Stanza - Job Specification | Nomad by HashiCorp](https://www.nomadproject.io/docs/job-specification/periodic/)
 
-## Run at home
+## Run at Home
 
-[Build your infrastructure with Terraform, Nomad and Consul on Scaleway](https://blog.scaleway.com/2016/build-your-infrastructure-with-terraform-nomad-and-consul-on-scaleway/)
-
-[How we use HashiCorp Nomad](https://news.knowledia.com/US/en/articles/how-we-use-hashicorp-nomad-2adc3bce71ea150a3de48511bba585d786c756e3)
-
-[Managing Lets Encrypt certificates with Vault and Nomad dispatch jobs](https://www.linkedin.com/pulse/managing-lets-encrypt-certificates-vault-nomad-jobs-corrarello/)
-
-[Hashicorp at Home - Part 2 - Mockingbird Consulting](https://www.mockingbirdconsulting.co.uk/blog/2019-01-08-hashicorp-at-home-part-2/)
-
-[Nomad - our experiences and best practices · trivago tech blog](https://tech.trivago.com/2019/01/25/nomad-our-experiences-and-best-practices/)
-
-[Nomad](https://sysadmincasts.com/episodes/74-nomad)
-
-[mockingbirdconsulting/HashicorpAtHome](https://github.com/mockingbirdconsulting/HashicorpAtHome)
-
-[liemle3893/nomad-getting-started](https://github.com/liemle3893/nomad-getting-started)
-
-[How To Use Traefik as a Reverse Proxy for Docker Containers on Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-traefik-as-a-reverse-proxy-for-docker-containers-on-ubuntu-16-04)
-
-[Service discovery and load balancing with Hashicorp's Nomad](https://medium.com/@mustwin/service-discovery-and-load-balancing-with-hashicorps-nomad-db435c590c26)
+- [Build your infrastructure with Terraform, Nomad and Consul on Scaleway](https://blog.scaleway.com/2016/build-your-infrastructure-with-terraform-nomad-and-consul-on-scaleway/)
+- [Hashicorp at Home - Part 2 - Mockingbird Consulting](https://www.mockingbirdconsulting.co.uk/blog/2019-01-08-hashicorp-at-home-part-2/)
+- [mockingbirdconsulting/HashicorpAtHome](https://github.com/mockingbirdconsulting/HashicorpAtHome)
 
 ### Consul
 
@@ -52,3 +36,15 @@ Additional:
 
 1. Install
 2. Integrate with nomad - [https://www.nomadproject.io/docs/vault-integration/](https://www.nomadproject.io/docs/vault-integration/) or [https://learn.hashicorp.com/nomad?track=vault-integration#vault-integration](https://learn.hashicorp.com/nomad?track=vault-integration#vault-integration)
+
+## Resources
+
+- [How we use HashiCorp Nomad (2020)](https://blog.cloudflare.com/how-we-use-hashicorp-nomad/) ([HN](https://news.ycombinator.com/item?id=23439788))
+- [Nomad - our experiences and best practices · trivago tech blog](https://tech.trivago.com/2019/01/25/nomad-our-experiences-and-best-practices/)
+- [Nomad](https://sysadmincasts.com/episodes/74-nomad)
+- [liemle3893/nomad-getting-started](https://github.com/liemle3893/nomad-getting-started)
+- [How To Use Traefik as a Reverse Proxy for Docker Containers on Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-traefik-as-a-reverse-proxy-for-docker-containers-on-ubuntu-16-04)
+- [Service discovery and load balancing with Hashicorp's Nomad](https://medium.com/@mustwin/service-discovery-and-load-balancing-with-hashicorps-nomad-db435c590c26)
+- [How we use HashiCorp Nomad](https://news.knowledia.com/US/en/articles/how-we-use-hashicorp-nomad-2adc3bce71ea150a3de48511bba585d786c756e3)
+- [Managing Lets Encrypt certificates with Vault and Nomad dispatch jobs](https://www.linkedin.com/pulse/managing-lets-encrypt-certificates-vault-nomad-jobs-corrarello/)
+
