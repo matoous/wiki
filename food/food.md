@@ -1,5 +1,9 @@
 # Food
 
+## Notes
+
+- [Adults require about 0.8 or 0.9 grams of protein per healthy kilogram of bodyweight per day.](https://nutritionfacts.org/topics/animal-protein/)
+
 ## Resources
 
 - [The art of butchery](https://aeon.co/essays/what-happens-when-carnivores-lose-their-taste-for-butchery) -

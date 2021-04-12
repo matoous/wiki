@@ -4,6 +4,7 @@ Minimalism is not necessarily about having less things, there's a fine line betw
 
 ## Resources
 
+* [Simplify by Paul Stamatiou](https://paulstamatiou.com/simplify/), simple and short blog article about reducing the amount of things in your life. Nothing groundbreaking.
 * [Extreme Minimalism- A Trend.](https://www.reddit.com/r/minimalism/comments/846drx/extreme_minimalism_a_trend/)
 * [Minimalism - The most undervalued development skill](https://volument.com/blog/minimalism-the-most-undervalued-development-skill),
   minimalism in programming, in this case a SaaP.
