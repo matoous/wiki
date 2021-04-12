@@ -4,6 +4,7 @@
 
 - [EconDB](https://www.econdb.com/main-indicators/) - Economic overviews of countries.
 - [Global Capitalism: A Looming Economic Crisis](https://www.youtube.com/watch?v=5hYKgyUU024)
+- [Best Economics Books: 49 Books To Really Understand Economics * Filmmaking Lifestyle](https://filmlifestyle.com/best-economics-books/)
 - [Five Economics Books Expert Recommendations](https://fivebooks.com/category/economics/), updated yearly, also has top 5 in various categories such as introduction to economics, macroeconomics, etc.
 - [Supply, Demand, and the Value of Markets (2019)](https://www.youtube.com/watch?v=PNtKXWNKGN8)
 - [The changing structure of American innovation: Some cautionary remarks for economic growth (2019)](https://www.nber.org/chapters/c14259.pdf)

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "computer science/command line/vim.md",
+            "file": "SUMMARY.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer science/command line/vim.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +88,15 @@
   },
   "active": "53f0206be75c1bf3",
   "lastOpenFiles": [
-    "computer science/command line/vim.md",
     "SUMMARY.md",
-    "company culture/company culture.md"
+    "products/Untitled.md",
+    "products/products.md",
+    "math/math.md",
+    "food/recipes/recipes.md",
+    "food/recipes/Untitled.md",
+    "language/writing.md",
+    "language/presenting.md",
+    "language/language.md",
+    "language/english language.md"
   ]
 }

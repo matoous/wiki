@@ -1,3 +1,3 @@
 # Writing
-
-[Creating a writing culture](https://learnings.substack.com/p/creating-a-writing-culture)
+## Resources
+- [Creating a writing culture](https://learnings.substack.com/p/creating-a-writing-culture)

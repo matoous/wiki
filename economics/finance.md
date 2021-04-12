@@ -2,7 +2,7 @@
 
 I currently actively use 2 bank accounts, one with [Revolut](https://www.revolut.com/en-CZ/), the other one with Czech [AirBank](https://www.airbank.cz/).
 
-I invest at [Trading212](https://www.trading212.com/) and [Mintos](https://www.mintos.com/en/).
+I [invest](/economics/investing.md) at [Trading212](https://www.trading212.com/) and [Mintos](https://www.mintos.com/en/).
 
 In general, I try to follow these rules:
 

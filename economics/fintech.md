@@ -1,4 +1,4 @@
-# Financial Systems
+# Fintech
 
 
 ## Resources

@@ -1,3 +1,3 @@
 # Presenting
-
-[marp-team/marp-core](https://github.com/marp-team/marp-core)
+## Resources
+- [marp-team/marp-core](https://github.com/marp-team/marp-core)
