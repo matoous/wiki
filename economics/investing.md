@@ -14,6 +14,9 @@
 - [Ask HN: What to do after $8M (all cash, post tax) exit? | Hacker News](https://news.ycombinator.com/item?id=18600220)
 - [Ask HN: Best Passive Income Method? | Hacker News](https://news.ycombinator.com/item?id=20052668)
 - [The ladders of wealth creation: a step-by-step roadmap to building wealth](https://nathanbarry.com/wealth-creation/)
+- [Bogleheads® investment philosophy](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy)
+- [How People Get Rich Now](http://paulgraham.com/richnow.html)
+  - 
 
 ## Places to invest at
 
@@ -23,6 +26,7 @@
 - [etfmatic.com - the European roboadvisor](https://etfmatic.com/)
 
 # Index Funds
+
 ## Interesting Index Funds
 
 * [VWRL - Vanguard FTSE All-World UCITS ETF](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing)

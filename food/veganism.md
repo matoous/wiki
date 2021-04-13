@@ -7,6 +7,11 @@
 - [What's the difference between a plant-based and a vegan diet?](https://www.reddit.com/r/PlantBasedDiet/comments/82lw2d/whats_the_difference_between_a_plantbased_and_a/)
 - [Tips for New Vegans](https://veganhealth.org/tips-for-new-vegans/)
 - [Is 100% vegan the way to go?](https://www.reddit.com/r/PlantBasedDiet/comments/8x3tfm/is_100_vegan_the_way_to_go/)
+- [How to Lower the Price of Plant-Based Meat](https://us14.campaign-archive.com/?u=66df320da8400b581cbc1b539&id=cea38367f1)
+  - in USA the average price for plant-based meat was twice the average of beef
+  - as the sales will grow the inputs to the manufacturing process (beans, potatoes, chickpeas, lentils, etc.) will get cheaper thanks for the law of supply and demand, thus the final product can be cheaper too
+  - slowly the economics of scale will kick in, plant-based meat will be more affordable thus the demand will grow and this will form a positive feedback loop bringing the prices even further down
+  - for now, there's nothing we can do except wait
 - [Fish Are Sentient and Emotional Beings and Clearly Feel Pain](https://www.psychologytoday.com/us/blog/animal-emotions/201406/fish-are-sentient-and-emotional-beings-and-clearly-feel-pain)
 - [Jack Norris RD Blog](http://jacknorrisrd.com/)
 - [Why I'm A Vegan](https://www.youtube.com/watch?v=6DgUb9w8mOY)

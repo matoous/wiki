@@ -8,6 +8,8 @@
 - [Five Economics Books Expert Recommendations](https://fivebooks.com/category/economics/), updated yearly, also has top 5 in various categories such as introduction to economics, macroeconomics, etc.
 - [Supply, Demand, and the Value of Markets (2019)](https://www.youtube.com/watch?v=PNtKXWNKGN8)
 - [The changing structure of American innovation: Some cautionary remarks for economic growth (2019)](https://www.nber.org/chapters/c14259.pdf)
+- [Just Be Rich](https://keenen.xyz/just-be-rich/), ([HN](https://news.ycombinator.com/item?id=26787654))
+  - reaction to Paul Graham essey [How People Get Rich Now](http://paulgraham.com/richnow.html). Paul Graham argues that growing inequality isn't that big of a issue as the economy isn't zero sum game and essentially everyone is earning more. On the other hand, this golden age of entrepreneurship has benefited only a few selected ones and the income for lower and middle class families isn't growing fast enough to keep up with growing prices.
 - [Bridgewater’s Ray Dalio Discusses the Impact of China’s Growth on the World Economy (2019)](https://www.youtube.com/watch?v=Mh0vEaac78U)
 - [Economic principles](https://economicprinciples.org/) - How the economic machine works.
 - [Some guidelines (not rules) for surviving a recession](https://www.reddit.com/r/smallbusiness/comments/crpqli/any_other_recently_started_businesses_worried/)
