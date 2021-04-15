@@ -8,6 +8,8 @@
 - [What is DevOps? (2020)](https://cloud.google.com/devops)
 - [How they SRE](https://github.com/upgundecha/howtheysre)
   - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+- [A Proper Server Naming Scheme](https://mnx.io/blog/a-proper-server-naming-scheme/)
+- [RFC 1178: Choosing a name for your computer (1990) (HN)](https://news.ycombinator.com/item?id=26054014)
 - [Ask HN: How do you make sure your servers are up as a single founder? (2020)](https://news.ycombinator.com/item?id=21461617)
 - [A developer goes to a DevOps conference (2019)](https://www.darkcoding.net/software/a-developer-goes-to-a-devops-conference/) ([HN](https://news.ycombinator.com/item?id=21100970))
 - [We're Reddit's Infrastructure team, ask us anything! (2018)](https://www.reddit.com/r/sysadmin/comments/9x577m/were_reddits_infrastructure_team_ask_us_anything/)

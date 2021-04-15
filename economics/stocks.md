@@ -12,5 +12,6 @@ More recently, reflexivity could be seen for example in the uprising of GME stoc
 
 ## Articles
 
-* [WeWTF, Part Deux | No Mercy / No Malice](https://www.profgalloway.com/wewtf-part-deux)
+- [WeWTF, Part Deux | No Mercy / No Malice](https://www.profgalloway.com/wewtf-part-deux)
+- [Naked shorting: The curious incident of the shares that didn't exist](https://www.euromoney.com/article/b1320xkhl0443w/naked-shorting-the-curious-incident-of-the-shares-that-didnt-exist)
 

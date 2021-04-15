@@ -1,5 +1,14 @@
 # Investing
 
+To get up to speed and learn the basics of sane and mindful investing the best sources are [JL Collins](https://jlcollinsnh.com/stock-series/), [John Bogle](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy), [Mr. Money Mustache](https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/), and the likes of them.
+
+## Notes
+
+- [Invest from early age and often, compounding of investment returns magnifies over the long run and difference of a few years can have large impact to your wealth at the time of retirement (or the age at which you can retire).](https://www.bogleheads.org/wiki/Importance_of_saving_early)
+
+> If you invest $6000 at the beginning of each year[2] (the equivalent of $500 per month, but placed at the beginning of the year to facilitate calculations), and start at age 55, assuming 4% annualized nominal return,[note 1] your balance at age 65 will be about $75,000. If you start at age 40, you will end up with about $260,000. And if you start at age 25 your balance at age 65 will be about $593,000.
+
+- [Never try to time the market](https://www.bogleheads.org/wiki/US_mutual_fund_performance_studies). Most actively managed funds actually underperform the market and even if you [invested at the worst time](https://seekingalpha.com/article/4164665-worst-investor-ever) you will still end up pretty well.
 
 ## Resources
 
@@ -16,7 +25,6 @@
 - [The ladders of wealth creation: a step-by-step roadmap to building wealth](https://nathanbarry.com/wealth-creation/)
 - [Bogleheads® investment philosophy](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy)
 - [How People Get Rich Now](http://paulgraham.com/richnow.html)
-  - 
 
 ## Places to invest at
 

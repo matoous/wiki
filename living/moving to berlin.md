@@ -35,6 +35,10 @@ Will need:
 - [ ]  employment contract
 - [ ]  mietschuldenfreiheitsbescheinigung (rental dept exemption, i.e. confirmation from previous renter that I don't have any outstanding dept)
 
+### Resources
+
+- [Berlin rent cap overturned by Germany's top court](https://www.dw.com/en/berlin-rent-cap-overturned-by-germanys-top-court/a-57209268)
+
 ### Bank account
 
 
