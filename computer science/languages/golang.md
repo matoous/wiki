@@ -1,5 +1,10 @@
 # Golang
 
+## Tools
+
+- [Go8](https://github.com/gmhafiz/go8) - Go + Postgres + Chi Router + sqlx, unit testing Starter Kit for API Development.
+- [xo](https://github.com/xo/xo) - Command-line tool to generate Go code based on a database schema or a custom query.
+
 ## Resources
 
 - [Darker Corners of Go - Rytis Biel](https://rytisbiel.com/2021/03/06/darker-corners-of-go/)
@@ -14,4 +19,5 @@
 - [The Zen of Go](https://dave.cheney.net/2020/02/23/the-zen-of-go)
 - [Debugging Go with Delve](https://tpaschalis.github.io/delve-debugging/)
 - [Slice Tricks](https://github.com/golang/go/wiki/SliceTricks)
+- [Don't use build tags for integration tests](https://peter.bourgon.org/blog/2021/04/02/dont-use-build-tags-for-integration-tests.html)
 

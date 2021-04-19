@@ -6,9 +6,13 @@ To get up to speed and learn the basics of sane and mindful investing the best s
 
 - [Invest from early age and often, compounding of investment returns magnifies over the long run and difference of a few years can have large impact to your wealth at the time of retirement (or the age at which you can retire).](https://www.bogleheads.org/wiki/Importance_of_saving_early)
 
-> If you invest $6000 at the beginning of each year[2] (the equivalent of $500 per month, but placed at the beginning of the year to facilitate calculations), and start at age 55, assuming 4% annualized nominal return,[note 1] your balance at age 65 will be about $75,000. If you start at age 40, you will end up with about $260,000. And if you start at age 25 your balance at age 65 will be about $593,000.
+> If you invest $6000 at the beginning of each year (the equivalent of $500 per month, but placed at the beginning of the year to facilitate calculations), and start at age 55, assuming 4% annualized nominal return, your balance at age 65 will be about $75,000. If you start at age 40, you will end up with about $260,000. And if you start at age 25 your balance at age 65 will be about $593,000.
 
 - [Never try to time the market](https://www.bogleheads.org/wiki/US_mutual_fund_performance_studies). Most actively managed funds actually underperform the market and even if you [invested at the worst time](https://seekingalpha.com/article/4164665-worst-investor-ever) you will still end up pretty well.
+
+## Terms
+
+
 
 ## Resources
 
@@ -25,6 +29,7 @@ To get up to speed and learn the basics of sane and mindful investing the best s
 - [The ladders of wealth creation: a step-by-step roadmap to building wealth](https://nathanbarry.com/wealth-creation/)
 - [Bogleheads® investment philosophy](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy)
 - [How People Get Rich Now](http://paulgraham.com/richnow.html)
+- [Save Like A Pessimist, Invest Like An Optimist](https://www.collaborativefund.com/blog/save-like-a-pessimist-invest-like-an-optimist/)
 
 ## Places to invest at
 
@@ -37,16 +42,17 @@ To get up to speed and learn the basics of sane and mindful investing the best s
 
 ## Interesting Index Funds
 
-* [VWRL - Vanguard FTSE All-World UCITS ETF](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing)
-* [VUSA - Vanguard S&P 500 UCITS ETF](https://www.vanguardinvestor.co.uk/investments/vanguard-s-and-p-500-ucits-etf-usd-distributing)
-* [VAPX - Vanguard FTSE Developed Asia Pacific ex Japan Index](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-developed-asia-pacific-ex-japan-ucits-etf-usd-distributing)
-* [ARKX - ARK Space Exploration & Innovation ETF](https://ark-funds.com/arkx)
-* [ARKK - ARK Innovation ETF](https://ark-funds.com/arkk)
-* [ARKG - ARK Genomic Revolution ETF](https://ark-funds.com/arkg)
+- [VWRL - Vanguard FTSE All-World UCITS ETF](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing)
+- [VUSA - Vanguard S&P 500 UCITS ETF](https://www.vanguardinvestor.co.uk/investments/vanguard-s-and-p-500-ucits-etf-usd-distributing)
+- [VAPX - Vanguard FTSE Developed Asia Pacific ex Japan Index](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-developed-asia-pacific-ex-japan-ucits-etf-usd-distributing)
+- [ARKX - ARK Space Exploration & Innovation ETF](https://ark-funds.com/arkx)
+- [ARKK - ARK Innovation ETF](https://ark-funds.com/arkk)
+- [ARKG - ARK Genomic Revolution ETF](https://ark-funds.com/arkg)
 
 ## Resources
 
-* [Portfolio allocation models](https://personal.vanguard.com/us/insights/saving-investing/model-portfolio-allocations)
-* [How Vanguard Index Funds Work](https://www.investopedia.com/articles/investing/111715/how-vanguard-index-funds-work.asp)
-* [How To Run An Index Fund: Full Replication Vs. Optimization](https://www.etf.com/etf-education-center/etf-basics/how-to-run-an-index-fund-full-replication-vs-optimization)
-
+- [Portfolio allocation models](https://personal.vanguard.com/us/insights/saving-investing/model-portfolio-allocations)
+- [How Vanguard Index Funds Work](https://www.investopedia.com/articles/investing/111715/how-vanguard-index-funds-work.asp)
+- [How To Run An Index Fund: Full Replication Vs. Optimization](https://www.etf.com/etf-education-center/etf-basics/how-to-run-an-index-fund-full-replication-vs-optimization)
+- [Finance Courses](https://www.classcentral.com/subject/finance)
+https://www.classcentral.com/subject/finance

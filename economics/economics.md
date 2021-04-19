@@ -72,4 +72,5 @@
 - [Resources to history of inflation and its lessons](https://twitter.com/Anrosenblum/status/1366061711552176129)
 - [Food Prices Are Soaring Faster Than Inflation and Incomes (2021)](https://www.bloomberg.com/news/articles/2021-03-01/inflation-2021-malnutrition-and-hunger-fears-rise-as-food-prices-soar-globally) ([HN](https://news.ycombinator.com/item?id=26383419))
 - [Why inflation is not a threat (2021)](https://www.taxresearch.org.uk/Blog/2021/03/14/why-inflation-is-not-a-threat/) ([HN](https://www.taxresearch.org.uk/Blog/2021/03/14/why-inflation-is-not-a-threat/))
-
+- [Confessions of an Overnight Millionaire](https://nymag.com/intelligencer/2021/04/confessions-overnight-tech-millionaire.html)
+  - a little essey by _anonymous_ who made $6 million through his company IPO, partly nihilistic, mostly realistic

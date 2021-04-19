@@ -1,7 +1,8 @@
 # English Language
 
-- *holistic* - Dealing with or treating the whole of something or someone and not just a part.
-- *salient* - Most noticeable or important.
+- _holistic_ - Dealing with or treating the whole of something or someone and not just a part.
+- _salient_ - Most noticeable or important.
+- _halcyon_ - characterized by happiness, great success, and prosperity (_"golden"_) — often used to describe an idyllic time in the past that is remembered as better than today.
 
 ## Resources
 

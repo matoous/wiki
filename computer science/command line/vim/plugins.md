@@ -38,6 +38,8 @@ gd
 :GoIfErr
 ```
 
+- [How to set up Vim for Go Development](https://pmihaylov.com/vim-for-go-development/)
+
 ## Unimpaired
 
 Useful and cool complementary pairs of mappings, [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired).

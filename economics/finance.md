@@ -2,7 +2,7 @@
 
 I currently actively use 2 bank accounts, one with [Revolut](https://www.revolut.com/en-CZ/), the other one with Czech [AirBank](https://www.airbank.cz/).
 
-I [invest](/economics/investing.md) at [Trading212](https://www.trading212.com/) and [Mintos](https://www.mintos.com/en/).
+I [invest](/economics/investing.md) at [Trading212](https://www.trading212.com/), [InteractiveBrokers](https://www.interactivebrokers.co.uk/en/home.php) and [Mintos](https://www.mintos.com/en/).
 
 In general, I try to follow these rules:
 
@@ -30,4 +30,5 @@ In general, I try to follow these rules:
 - [Ask HN: Book recommendations for understanding financial systems? | Hacker News](https://news.ycombinator.com/item?id=22573204)
 - [Dow Falls 2997 points worst drop since 1987 crash | Hacker News](https://news.ycombinator.com/item?id=22597192)
 - [Ask HN: How bad will the 2020 economic crisis be? | Hacker News](https://news.ycombinator.com/item?id=22654131)
+- [Learning Decentralized Finance](https://github.com/ajlopez/LearningDeFi)
 
