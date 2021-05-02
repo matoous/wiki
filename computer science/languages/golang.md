@@ -20,4 +20,5 @@
 - [Debugging Go with Delve](https://tpaschalis.github.io/delve-debugging/)
 - [Slice Tricks](https://github.com/golang/go/wiki/SliceTricks)
 - [Don't use build tags for integration tests](https://peter.bourgon.org/blog/2021/04/02/dont-use-build-tags-for-integration-tests.html)
+- [Go Modules Cheat Sheet](https://encore.dev/guide/go.mod)
 

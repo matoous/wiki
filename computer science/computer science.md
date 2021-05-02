@@ -35,4 +35,9 @@
 ## Resources
 
 - [The Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/), ([HN](https://news.ycombinator.com/item?id=26766722))
+- [Use Google like a pro](https://markodenic.com/use-google-like-a-pro/)
+  - search inside single website: `site:freecodecamp.org`
+  - search for certain filetype: `filetype:pdf`
+  - search for timeframe: `before:2020 after:2016`
+  - also: [Google Search Operators: The Complete List (42 Advanced Operators)](https://ahrefs.com/blog/google-advanced-search-operators/)
 

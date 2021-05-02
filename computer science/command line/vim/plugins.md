@@ -75,3 +75,6 @@ The `.` command works with all operator mappings, and will work with the line-wi
 :cfdo %s/pizza/donut/g | update
 ```
 
+## Resources
+
+- [vim-illuminate](https://github.com/RRethy/vim-illuminate) - Automatically highlighting other uses of the current word under the cursor.
