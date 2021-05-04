@@ -13,4 +13,5 @@
 
 - [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 - [Write modern websites using only HTML.](https://newcss.net/)
+- [Drop-in Minimal CSS](https://dohliam.github.io/dropin-minimal-css/) - overview of barebones drop-in minimal CSS boilerplate frameworks
 
