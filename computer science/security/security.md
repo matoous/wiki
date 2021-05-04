@@ -5,4 +5,4 @@
 ## Resources
 
 - [Drand](https://drand.love/) - _Distributed randomness beacon._ Verifiable, unpredictable and unbiased random numbers as a service.
-
+- [Pair Locking your iPhone with Configurator 2](https://arkadiyt.com/2019/10/07/pair-locking-your-iphone-with-configurator-2/)

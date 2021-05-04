@@ -10,3 +10,6 @@
 
 - [Teaching C](https://blog.regehr.org/archives/1393A)
 
+## Resources
+
+- [Markdown to slideshow](https://mark.show/)

@@ -8,3 +8,4 @@
 - [Triangula](https://github.com/RH12503/Triangula) - Iterative algorithm to generate high-quality triangulated images. ([HN](https://news.ycombinator.com/item?id=26899066))
 - [Noise in Creative Coding (2021)](https://varun.ca/noise/) ([HN](https://news.ycombinator.com/item?id=26904637))
 - [Making Generative Art with Rust (2021)](https://blog.abor.dev/p/making-generative-art-with-rust) ([HN](https://news.ycombinator.com/item?id=27000436))
+
