@@ -51,4 +51,5 @@ Programs and tools provide many features that can speed things up but first one 
 - [nq](https://github.com/leahneukirchen/nq) - Utils for creating lightweight job queue systems. ([HN](https://news.ycombinator.com/item?id=25920517))
 - [Building Rich Terminal Dashboards (2021)](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/) ([HN](https://news.ycombinator.com/item?id=26149488))
 - [frawk](https://github.com/ezrosent/frawk) - JITted and SIMD-optimized AWK written in Rust. ([Lobsters](https://lobste.rs/s/bdzlsu/frawk_jitted_simd_optimized_awk_written))
+- [Linux Terminal Tools](https://ketancmaheshwari.github.io/pdfs/LPT_LISA.pdf)
 

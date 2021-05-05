@@ -1,12 +1,21 @@
-# [Wiki](https://matousdzivjak.gitbook.io/personal/)
+# Kubeval
 
-👋 Welcome to my personal Wiki/Knowledge base. Originally hosted
-on [Notion](https://www.notion.so/), currently moved to [GitHub](https://github.com/matoous/wiki)
-and hosted on [Gitbook]( https://www.gitbook.com/ ) (Notion was fine, but missed navigation
-sidebar 🙁).
+`kubeval` is a tool for validating a Kubernetes YAML or JSON configuration file.
+It does so using schemas generated from the Kubernetes OpenAPI specification, and
+therefore can validate schemas for multiple versions of Kubernetes.
 
-This Wiki is heavily inspired by [this one](https://wiki.nikitavoloboev.xyz/)
-by [ Nikita Voloboev ](https://nikitavoloboev.xyz/) and I strongly recommend
-you take a look at it as I still find it incomprehensible how much information
-and links can one collect over the time.
+[![CircleCI](https://circleci.com/gh/instrumenta/kubeval.svg?style=svg)](https://circleci.com/gh/instrumenta/kubeval)
+[![Go Report
+Card](https://goreportcard.com/badge/github.com/instrumenta/kubeval)](https://goreportcard.com/report/github.com/instrumenta/kubeval)
+[![GoDoc](https://godoc.org/github.com/instrumenta/kubeval?status.svg)](https://godoc.org/github.com/instrumenta/kubeval)
 
+
+```
+$ kubeval my-invalid-rc.yaml
+WARN - fixtures/my-invalid-rc.yaml contains an invalid ReplicationController - spec.replicas: Invalid type. Expected: [integer,null], given: string
+$ echo $?
+1
+```
+
+
+For full usage and installation instructions see [kubeval.com](https://kubeval.com/).
