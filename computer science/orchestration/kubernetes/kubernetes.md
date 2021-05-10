@@ -403,3 +403,4 @@ kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespac
 - [Oxidizing the Kubernetes operator](https://www.pavel.cool/rust/rust-kubernetes-operators/)
 - [A detailed guide to SSO on Kubernetes](http://www.talkingquickly.co.uk/kubernetes-sso-a-detailed-guide) ([HN](https://news.ycombinator.com/item?id=26709628))
 - [KubePlus](https://github.com/cloud-ark/kubeplus) - CRD for CRDs to design multi-tenant platform services from- [Native Kubernetes Continuous Delivery (2021)](https://www.reddit.com/r/kubernetes/comments/n2jy7f/native_kubernetes_continuous_delivery/) Helm charts.
+- [Pixie](https://px.dev/) - Kubernetes observability for developers - service health, request tracing, infra health, etc.
