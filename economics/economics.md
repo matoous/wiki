@@ -1,5 +1,12 @@
 # Economics
 
+## Terms
+
+- **[Consumer Price Index (CPI)](https://en.wikipedia.org/wiki/Consumer_price_index)** - weighted average of market basket of common consumer goods and services
+- **[Market Basket](https://en.wikipedia.org/wiki/Market_basket)** - fixed list of items, in given proportions, commonly used to track the progress of inflation
+- **[The Big Mac index](https://en.wikipedia.org/wiki/Big_Mac_Index)** - [published](https://www.economist.com/big-mac-index) by [The Economist](https://www.economist.com/) as a way of measuring the purchasing power parity (PPP) between two currencies and provides a test of the extent to which market exchange rates result in goods costing the same in different countries.
+- **[Purchasing Power Parity (PPP)](https://en.wikipedia.org/wiki/Purchasing_power_parity)** - is a measurement of prices in different countries that uses the prices of specific goods to compare the absolute purchasing power of the countries' currencies.
+
 ## Links
 
 - [EconDB](https://www.econdb.com/main-indicators/) - Economic overviews of countries.
@@ -73,6 +80,12 @@
 - [Food Prices Are Soaring Faster Than Inflation and Incomes (2021)](https://www.bloomberg.com/news/articles/2021-03-01/inflation-2021-malnutrition-and-hunger-fears-rise-as-food-prices-soar-globally) ([HN](https://news.ycombinator.com/item?id=26383419))
 - [Why inflation is not a threat (2021)](https://www.taxresearch.org.uk/Blog/2021/03/14/why-inflation-is-not-a-threat/) ([HN](https://www.taxresearch.org.uk/Blog/2021/03/14/why-inflation-is-not-a-threat/))
 - [Confessions of an Overnight Millionaire](https://nymag.com/intelligencer/2021/04/confessions-overnight-tech-millionaire.html)
-  - a little essey by _anonymous_ who made $6 million through his company IPO, partly nihilistic, mostly realistic
+  - a little essay by _anonymous_ who made $6 million through his company IPO, partly nihilistic, mostly realistic
 - [Where Did the Other Dollar Go, Jeff?](https://blog.cloudandtree.com/2021/04/the-other-dollar/)
+- [The Ultimate Guide to Inflation](https://www.lynalden.com/inflation/)
+  - three types of inflation:
+    1. monetary inflation - caused by increase in the broad money supply, driven either by an increase in bank lending or large fiscal deficits.
+    2. consumer price inflation - nominal price of broad set of consumer goods and services increases
+    3. asset price inflation - inflation of prices of financial assets
+  - the article analyses much more, on per-country bases, the affects on various investments from housing to stocks and bonds, etc.
 

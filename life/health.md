@@ -2,6 +2,7 @@
 
 ## Resources
 
+- [The Animal is tired](http://www.robinhobb.com/blog/posts/38429) by _Robin Hobb_, on how being kind to your body pays off after 70. ([HN](https://news.ycombinator.com/item?id=27100299))
 - [As you age (30+), what health aspects do you need to keep an eye on?](https://www.reddit.com/r/AskMen/comments/muobbu/as_you_age_30_what_health_aspects_do_you_need_to/), basically the obvious stuff:
   - keep your weight at check
   - sunscreen for outdoors

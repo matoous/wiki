@@ -6,6 +6,7 @@
 - [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html)
   - instead of working back from a goal, work forward from promising situtions. That is, look at the options that you have now and choose those the will give you the most promising range of options afterward
   - your first task in life should be figuring out what are you interested in, curiosity turns work into play
+- [Research Shows People Become Increasingly Unhappy Until Age 47.2](https://www.inc.com/jeff-haden/scientists-just-discovered-mid-life-crisis-peaks-at-age-47-heres-how-to-minimize-effect-of-happiness-curve.html)
 - [Steve Jobs's philosophy](https://www.youtube.com/watch?v=kYfNvmF0Bqw) ([Comic](https://twitter.com/linuz90/status/1318669341072699393))
 - [Handful of long-form posts on lifestyle](https://wiki.xxiivv.com/#lifestyle)
 - [Why Are You Alive – Life, Energy & ATP (2020)](https://www.youtube.com/watch?v=QImCld9YubE)

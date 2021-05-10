@@ -31,4 +31,11 @@ In general, I try to follow these rules:
 - [Dow Falls 2997 points worst drop since 1987 crash | Hacker News](https://news.ycombinator.com/item?id=22597192)
 - [Ask HN: How bad will the 2020 economic crisis be? | Hacker News](https://news.ycombinator.com/item?id=22654131)
 - [Learning Decentralized Finance](https://github.com/ajlopez/LearningDeFi)
+- [Purchase future cash flow to get wealthy…stop buying more stuff](https://themdpreneur.com/purchase-future-cash-stop-buying-more-stuff/)
+- [First Retire…Then Get Rich](https://www.mrmoneymustache.com/2012/05/14/first-retire-then-get-rich/) by Mr. Money Mustache
+- [ART OF MONEY GETTING](http://www.fourmilab.ch/etexts/www/barnum/moneygetting/moneygetting.html)
+- [How to build wealth slowly](https://pjrvs.com/wealth)
+- [Ask HN: Best Passive Income Method? | Hacker News](https://news.ycombinator.com/item?id=20052668)
+- [The ladders of wealth creation: a step-by-step roadmap to building wealth](https://nathanbarry.com/wealth-creation/)
+- [The Shockingly Simple Math Behind Early Retirement](https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/)
 

@@ -60,6 +60,7 @@
 - [Minimalism](/minimalism/minimalism.md)
 - [Nature](/nature/nature.md)
   - [Life](/nature/life.md)
+  - [Human](/nature/human.md)
   - [Animals](/nature/animals.md)
     - [Bees](/natures/animals/bees.md)
   - [Biology](/nature/biology.md)
