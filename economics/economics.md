@@ -88,4 +88,6 @@
     2. consumer price inflation - nominal price of broad set of consumer goods and services increases
     3. asset price inflation - inflation of prices of financial assets
   - the article analyses much more, on per-country bases, the affects on various investments from housing to stocks and bonds, etc.
+- [What Happens to Stocks and Cryptocurrencies When the Fed Stops Raining Money?](https://www.wsj.com/articles/what-happens-to-stocks-and-cryptocurrencies-when-the-fed-stops-raining-money-11620446420)
+- [What lies beneath:  evidence from leaked account dataon how elites use offshore banking](https://www.brookings.edu/wp-content/uploads/2021/05/What-lies-beneath_Collin.pdf) - 55 page paper/book on how elites are offshoring money, also includes solution to this problem. ([HN](https://news.ycombinator.com/item?id=27089906))
 
