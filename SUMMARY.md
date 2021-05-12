@@ -54,6 +54,7 @@
     - [Providers](/computer science/cloud/providers/providers.md)
       - [GCP](/computer science/cloud/providers/gcp.md)
   - [Games](/computer science/games.md)
+  - [Graphics](/computer science/graphics.md)
 - [macOS](/macos/macos.md)
   - [Tools](/macos/tools.md)
   - [Apps](/macos/apps.md)
