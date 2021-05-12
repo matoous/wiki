@@ -55,6 +55,7 @@
       - [GCP](/computer science/cloud/providers/gcp.md)
   - [Games](/computer science/games.md)
   - [Graphics](/computer science/graphics.md)
+  - [Email](/computer science/email.md)
 - [macOS](/macos/macos.md)
   - [Tools](/macos/tools.md)
   - [Apps](/macos/apps.md)
