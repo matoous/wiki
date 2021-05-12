@@ -4,6 +4,7 @@
 
 - [Go8](https://github.com/gmhafiz/go8) - Go + Postgres + Chi Router + sqlx, unit testing Starter Kit for API Development.
 - [xo](https://github.com/xo/xo) - Command-line tool to generate Go code based on a database schema or a custom query.
+- [pprof++: A Go Profiler with Hardware Performance Monitoring](https://eng.uber.com/pprof-go-profiler/)
 
 ## Resources
 
