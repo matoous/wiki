@@ -50,4 +50,5 @@ Proof that you have moved into a new place of residence. Absolutely necessary fo
 ## Resources
 
 - [Berlin rent cap overturned by Germany's top court](https://www.dw.com/en/berlin-rent-cap-overturned-by-germanys-top-court/a-57209268)
+- [How I Beat the Berlin Rental Market With a Python Script](https://giansegato.com/essays/how-i-beat-the-berlin-rental-market-with-a-python-script/)
 
