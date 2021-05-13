@@ -78,21 +78,16 @@ kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespac
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 - [Official Cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 - [Glossary](https://kubernetes.io/docs/reference/glossary/?fundamental=true)
-- [Deployment Strategies](https://github.com/ContainerSolutions/k8s-deployment-strategies)
 - [Minimum Viable Kubernetes](https://eevans.co/blog/minimum-viable-kubernetes/)
 - [Anatomy of my Kubernetes Cluster](https://ttt.io/anatomy-of-my-kubernetes-cluster)
 - [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [What happens when I type kubectl run](https://github.com/jamiehannaford/what-happens-when-k8s) ([HN](https://news.ycombinator.com/item?id=22785652))
 - [Kubernetes Security - Best Practice Guide](https://github.com/freach/kubernetes-security-best-practice)
-- [Nix Kubernetes](https://github.com/xtruder/nix-kubernetes) - Kubernetes deployment manager written in Nix.
 - [Knative Serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute.
 - [Rancher Kubernetes](https://rancher.com/kubernetes/) - Complete container management platform. Makes it easy to run Kubernetes everywhere. ([Code](https://github.com/rancher/rancher))
-- [OpenShift](https://www.openshift.com/)
-- [Kubernetes 101 (2018)](https://www.stavros.io/posts/kubernetes-101/)
 - [node-problem-detector](https://github.com/kubernetes/node-problem-detector) - Aims to make various node problems visible to the upstream layers in cluster management stack.
 - [Kubernetes for Sysadmins – Kelsey Hightower (2016)](https://www.youtube.com/watch?v=HlAXp0-M6SY)
 - [Kubernetes API conventions](https://github.com/kubernetes/community/blob/master/contributors/devel/api-conventions.md)
-- [Let's encrypt with GKE instructions](https://github.com/ahmetb/gke-letsencrypt)
 - [Kubernetes for personal projects? No thanks! (2018)](http://carlosrdrz.es/kubernetes-for-small-projects/)
 - [Terraform Kubernetes provider](https://github.com/terraform-providers/terraform-provider-kubernetes)
 - [You might not need Kubernetes (2018)](https://blog.jessfraz.com/post/you-might-not-need-k8s/) - [HN](https://news.ycombinator.com/item?id=18495697)
@@ -120,7 +115,6 @@ kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespac
 - [Maybe You Don't Need Kubernetes (2019)](https://endler.dev/2019/maybe-you-dont-need-kubernetes/) ([HN](https://news.ycombinator.com/item?id=22034291))
 - [CLI for Amazon EKS](https://github.com/weaveworks/eksctl) - Simple CLI tool for creating clusters on EKS - Amazon's new managed Kubernetes service for EC2.
 - [Kubernetes controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) - Set of go libraries for building Controllers.
-- [k3d](https://github.com/zeerorg/k3s-in-docker) - Lightweight alternative to KinD for local development.
 - [Popeye](https://github.com/derailed/popeye) - Kubernetes cluster resource sanitizer.
 - [Kubernetes Test Infrastructure](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
 - [Katib](https://github.com/kubeflow/katib) - Hyperparameter Tuning on Kubernetes.
@@ -148,7 +142,6 @@ kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespac
 - [Kubernetes Networking: Behind the scenes (2019)](https://itnext.io/kubernetes-networking-behind-the-scenes-39a1ab1792bb)
 - [Kubernetes Networking recommended reading list](https://github.com/nleiva/kubernetes-networking-links)
 - [service-catalog](https://github.com/kubernetes-sigs/service-catalog) - Consume services in Kubernetes using the Open Service Broker API.
-- [kuberNix](https://github.com/saschagrunert/kubernix) - Kubernetes development cluster bootstrapping with Nix packages.
 - [Autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes.
 - [Appsody](https://appsody.dev/) - Provides everything you need to iteratively develop applications, ready for deployment to Kubernetes environments.
 - [Gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push.
@@ -166,7 +159,6 @@ kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespac
 - [Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes (2019)](https://www.goodreads.com/book/show/50351477-kubernetes-best-practices)
 - [PoC to write integration tests in Go with Kubernetes by Gianluca Arbezzano (2019)](https://www.youtube.com/watch?v=Dt-pQSNfXlM)
 - [kubethanos](https://github.com/berkay-dincer/kubethanos) - Kills half of your randomly selected kubernetes pods.
-- [k3c](https://github.com/ibuildthecloud/k3c) - Local container engine designed to fill the same gap Docker does in the Kubernetes ecosystem.
 - [KubeNix](https://github.com/xtruder/kubenix) - Kubernetes resource builder using nix.
 - [Postgres Operator](https://github.com/zalando/postgres-operator) - Creates and manages PostgreSQL clusters running in Kubernetes.
 - [Contour](https://github.com/projectcontour/contour) - Kubernetes ingress controller using Lyft's Envoy proxy.
@@ -346,7 +338,6 @@ kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespac
 - [Kubecost](https://github.com/kubecost/cost-model) - Cross-cloud cost allocation models for workloads running on Kubernetes. ([Web](https://kubecost.com/)) ([GitHub](https://github.com/kubecost))
 - [Kubernetes Pondering (2020)](https://christine.website/blog/k8s-pondering-2020-12-31) ([Lobsters](https://lobste.rs/s/avqtvh/kubernetes_pondering))
 - [Accelerated Feedback Loops when Developing for Kubernetes with Conftest (2020)](https://reese.dev/accelerated-feedback-loops-when/)
-- [kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kuberntes yaml and json output to make it readable.
 - [Writing a Kubernetes CRD Controller in Rust (2019)](http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html) ([HN](https://news.ycombinator.com/item?id=25704250))
 - [Lifting Developers’ Productivity with BuildKit CLI for kubectl (2021)](https://container-registry.com/posts/productivity-lift-buildkit-cli-for-kubectl/)
@@ -362,7 +353,6 @@ kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespac
 - [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) - Intentionally vulnerable cluster environment to learn and practice Kubernetes security. ([Web](https://madhuakula.com/kubernetes-goat/about.html))
 - [Carvel](https://carvel.dev/) - Provides a set of reliable, single-purpose, composable tools that aid in your application building, configuration, and deployment to Kubernetes.
 - [Kube-router](https://github.com/cloudnativelabs/kube-router) - Turnkey solution for Kubernetes networking with aim to provide operational simplicity and high performance. ([Web](https://www.kube-router.io/))
-- [cuebectl](https://github.com/cuebernetes/cuebectl) - Truly declarative kubernetes manifests via cuelang.
 - [Certified Kubernetes Security Specialist Study Guide](https://github.com/stackrox/Kubernetes_Security_Specialist_Study_Guide)
 - [K3s Private Cluster](https://github.com/sagittaros/terraform-k3s-private-cloud) - Deploy full fledged K3s private clusters with Terraform.
 - [Scaling Kubernetes to 7,500 Nodes (2021)](https://openai.com/blog/scaling-kubernetes-to-7500-nodes/) ([HN](https://news.ycombinator.com/item?id=25907312))
@@ -377,7 +367,6 @@ kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespac
 - [Kubernetes 101 series retrospective, and a new book (2021)](https://www.jeffgeerling.com/blog/2021/kubernetes-101-series-retrospective-and-new-book)
 - [Kubernetes, Pods, Kubernetes Pod Concepts (2021)](https://releaseapp.io/blog/kubernetes-pods-advanced-concepts-explained)
 - [Helmfile](https://github.com/roboll/helmfile) - Deploy Kubernetes Helm Charts.
-- [GetIstio](https://github.com/tetratelabs/getistio) - Integration, and lifecycle management CLI tool that ensures the use of supported and trusted versions of Istio.
 - [Kubernetes Internals](https://github.com/shubheksha/kubernetes-internals) - Collection of resources that discuss the inner workings of Kubernetes.
 - [Serverless Kubernetes (2021)](https://cto.ai/blog/announcing-cto-ai-kubernetes-paas/) ([HN](https://news.ycombinator.com/item?id=26170612))
 - [monokube](https://github.com/stevelacy/monokube) - Monorepo deployment manager for k8s.
@@ -393,7 +382,6 @@ kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespac
 - [kube-fledged](https://github.com/senthilrch/kube-fledged) - Kubernetes add-on for creating and managing a cache of container images directly on the worker nodes of a kubernetes cluster.
 - [Awesome Kubernetes Security](https://github.com/magnologan/awesome-k8s-security)
 - [Porter](https://www.getporter.dev/) - Fully-managed PaaS that lets teams automate DevOps. Deploy and manage apps within AWS, GCP, DO, and more. ([Code](https://github.com/porter-dev/porter)) ([Dashboard](https://dashboard.getporter.dev/login))
-- [Learnk8s](https://learnk8s.io/) - Kubernetes training company.
 - [Kubernetes deployment strategies explained](https://github.com/ContainerSolutions/k8s-deployment-strategies) ([Article](https://blog.container-solutions.com/kubernetes-deployment-strategies))
 - [kubectl-cost](https://github.com/kubecost/kubectl-cost) - CLI for determining the cost of Kubernetes workloads.
 - [Capsule](https://github.com/clastix/capsule) - Kubernetes Operator for multi-tenancy.

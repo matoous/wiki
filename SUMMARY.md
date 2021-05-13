@@ -81,6 +81,7 @@
   - [Running](/sports/running.md)
   - [Swimming](/sports/swimming.md)
   - [Skiing](/sports/skiing.md)
+  - [Recovery](/sports/recovery.md)
   - [Data](/sports/data.md)
 - [Food](/food/food.md)
   - [Veganism](/food/veganism.md)

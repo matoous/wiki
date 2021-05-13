@@ -12,7 +12,7 @@ To get up to speed and learn the basics of sane and mindful investing the best s
 
 ## Terms
 
-
+- **Total Expense Ratio (TER)** - costs associated with managing and operating an investment fund, calculated as `TER = fund costs / fund assets`
 
 ## Resources
 
@@ -44,6 +44,8 @@ To get up to speed and learn the basics of sane and mindful investing the best s
 
 ## Interesting Index Funds
 
+- [Vanguard ETFs](https://investor.vanguard.com/etf/list#/etf/asset-class/month-end-returns)
+- [iShares ETFs](https://www.ishares.com/us/products/etf-investments)
 - [VWRL - Vanguard FTSE All-World UCITS ETF](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing)
 - [VUSA - Vanguard S&P 500 UCITS ETF](https://www.vanguardinvestor.co.uk/investments/vanguard-s-and-p-500-ucits-etf-usd-distributing)
 - [VAPX - Vanguard FTSE Developed Asia Pacific ex Japan Index](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-developed-asia-pacific-ex-japan-ucits-etf-usd-distributing)
