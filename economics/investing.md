@@ -42,13 +42,18 @@ To get up to speed and learn the basics of sane and mindful investing the best s
 
 # Index Funds
 
-## Interesting Index Funds
+## Vanguard vs. iShares
+
+Vanguard has only two accumulative funds (i.e. dividend yield is reinvested) compared to iShares. Accumulative funds are better for tax optimization.
+
+## Resources
 
 - [Vanguard ETFs](https://investor.vanguard.com/etf/list#/etf/asset-class/month-end-returns)
 - [iShares ETFs](https://www.ishares.com/us/products/etf-investments)
 - [VWRL - Vanguard FTSE All-World UCITS ETF](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing)
 - [VUSA - Vanguard S&P 500 UCITS ETF](https://www.vanguardinvestor.co.uk/investments/vanguard-s-and-p-500-ucits-etf-usd-distributing)
 - [VAPX - Vanguard FTSE Developed Asia Pacific ex Japan Index](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-developed-asia-pacific-ex-japan-ucits-etf-usd-distributing)
+- [iShares Robotics and Artificial Intelligence Multisector ETF](https://www.ishares.com/us/products/297905/ishares-robotics-and-artificial-intelligence-multisector-etf)
 - [ARKX - ARK Space Exploration & Innovation ETF](https://ark-funds.com/arkx)
 - [ARKK - ARK Innovation ETF](https://ark-funds.com/arkk)
 - [ARKG - ARK Genomic Revolution ETF](https://ark-funds.com/arkg)
