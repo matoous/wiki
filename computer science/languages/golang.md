@@ -1,5 +1,9 @@
 # Golang
 
+## News
+
+- [Awesome Go](https://go.libhunt.com/) - weekly email newsletter
+
 ## Tools
 
 - [Go8](https://github.com/gmhafiz/go8) - Go + Postgres + Chi Router + sqlx, unit testing Starter Kit for API Development.
@@ -22,4 +26,7 @@
 - [Slice Tricks](https://github.com/golang/go/wiki/SliceTricks)
 - [Don't use build tags for integration tests](https://peter.bourgon.org/blog/2021/04/02/dont-use-build-tags-for-integration-tests.html)
 - [Go Modules Cheat Sheet](https://encore.dev/guide/go.mod)
+- [How to do Enums in Go](https://marcofranssen.nl/how-to-do-enums-in-go)
+- [Thoughts on how to structure Go code](https://changelog.com/posts/on-go-application-structure)
+  - structure the project based on context, i.e. there's no one structure fits all, everything depends on the context of your application
 
