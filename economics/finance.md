@@ -38,4 +38,8 @@ In general, I try to follow these rules:
 - [Ask HN: Best Passive Income Method? | Hacker News](https://news.ycombinator.com/item?id=20052668)
 - [The ladders of wealth creation: a step-by-step roadmap to building wealth](https://nathanbarry.com/wealth-creation/)
 - [The Shockingly Simple Math Behind Early Retirement](https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/)
+- [Tax Evasion at the Top of the Income Distribution: Theory and Evidence ](https://www.nber.org/papers/w28542), ([pdf](https://www.nber.org/system/files/working_papers/w28542/w28542.pdf)), ([HN](https://news.ycombinator.com/item?id=27195009))
+  - random audits underestimate top tax evasion
+  - on the other hand, USA is working hard on making tax evasion difficult, the comments on HN go into detail
+- [Top Fiat Currencies by Market Capitalization](https://www.fiatmarketcap.com/)
 
