@@ -39,6 +39,8 @@
     - [Assembler](/computer science/languages/assembler.md)
     - [Go](/computer science/languages/golang.md)
     - [C](/computer science/languages/c.md)
+    - [Javascript](/computer science/languages/javascript/javascript.md)
+      - [Next.js](/computer science/languages/javascript/nextjs.md)
   - [Machine Learning](/computer science/machine learning/machine learning.md)
     - [Reinforcement Learning](/computer science/machine learning/reinforcement learning.md)
   - [Visualization](/computer science/visualization.md)

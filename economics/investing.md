@@ -10,6 +10,8 @@ To get up to speed and learn the basics of sane and mindful investing the best s
 
 - [Never try to time the market](https://www.bogleheads.org/wiki/US_mutual_fund_performance_studies). Most actively managed funds actually underperform the market and even if you [invested at the worst time](https://seekingalpha.com/article/4164665-worst-investor-ever) you will still end up pretty well.
 
+- [Short term market trends are less affected by earnings and more by market sentiment. Consistent earnings will make the price rise in the long run but stocks always go through highs and lows.](https://www.reddit.com/r/stocks/comments/ngcedr/can_anyone_explain_why_earnings_no_longer_matter/)
+
 ## Terms
 
 - **Total Expense Ratio (TER)** - costs associated with managing and operating an investment fund, calculated as `TER = fund costs / fund assets`

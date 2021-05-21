@@ -60,4 +60,5 @@
 - [coolify](https://coollabs.io/coolify) - Open-source, self-hostable Heroku and Netlify alternative. ([Code](https://github.com/coollabsio/coolify)) ([HN](https://news.ycombinator.com/item?id=26624341))
 - [Pulumi](https://www.pulumi.com/) - Modern Infrastructure as Code for Developers and Infrastructure Teams.
 - [zx](https://github.com/google/zx) - A tool for writing better scripts, combination of bash and javascript
+- [Bad Machinery: Managing Interrupts Under Load](https://log.andvari.net/pages/bad-machinery.html)
 

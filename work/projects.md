@@ -7,4 +7,5 @@
   - nuanced experience fixes can have big collateral benefits
   - there's a way to do that in the context of everything else
   - the magic trick is getting users experience also in fields you don't work in
+- [Trends](https://trends.co/) - Your next business idea, delivered weekly.
 

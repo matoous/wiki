@@ -19,4 +19,6 @@
     - _mastery_ - be experts of creating value by building impactful product, measuring its impact, and learning from the process
     - _autonomy_ - involve whole team in goal setting, don't micromanage, instead influence, guide and suggest
   - even self-organizing teams nead leadership
+- [Building Products at Stripe](https://newsletter.bringthedonuts.com/p/building-products-at-stripe) - interview with Michael Siliski, 12 year veteran at Google now working at Stripe
+- [The Role of a Product Manager](https://medium.com/swlh/the-role-of-a-product-manager-e0354b4b6845)
 
