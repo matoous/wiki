@@ -4,6 +4,10 @@
 
 - [Awesome Go](https://go.libhunt.com/) - weekly email newsletter
 
+## Packages
+
+- [TinyGo](https://github.com/tinygo-org/tinygo) - Go compiler for small places
+
 ## Tools
 
 - [Go8](https://github.com/gmhafiz/go8) - Go + Postgres + Chi Router + sqlx, unit testing Starter Kit for API Development.
@@ -29,4 +33,7 @@
 - [How to do Enums in Go](https://marcofranssen.nl/how-to-do-enums-in-go)
 - [Thoughts on how to structure Go code](https://changelog.com/posts/on-go-application-structure)
   - structure the project based on context, i.e. there's no one structure fits all, everything depends on the context of your application
+- [Comprehensive Guide to Dates and Times in Go](https://qvault.io/golang/golang-date-time/)
+- [Go Package CI/CD with GitHub Actions](https://dev.to/jidicula/go-package-ci-cd-with-github-actions-350o)
+- [Error handling in Go HTTP applications](https://www.joeshaw.org/error-handling-in-go-http-applications/)
 
