@@ -12,3 +12,5 @@
   - if you need to give background or exlain some event in past, start with it instead of doing so at the end, this sets the tone and adds background to the reader before throwing him in
 - [Editing technique of counting to use with writing (2021)](https://twitter.com/MarcJBrooker/status/1387562273330188289)
 - [Great Memos](https://sriramk.com/memos.html)
+- [Why You Should Start a Blog Right Now](https://guzey.com/personal/why-have-a-blog/)
+

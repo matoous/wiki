@@ -8,3 +8,6 @@
 
 - [Adam Klingeteg](http://www.adamklingeteg.com/)
 
+## Resources
+
+- [Camera Gear](https://paulstamatiou.com/photos/gear/) by Paul Stamatiou
