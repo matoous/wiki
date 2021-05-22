@@ -18,7 +18,6 @@ Here are some other resources for color themes:
 
 ## Resources
 
-
 - [A Pro’s Guide to the Best Secret Mac Features](https://matthewpalmer.net/blog/2018/04/14/ultimate-pro-guide-best-secret-mac-features/index.html)
 - [macOS open source](https://opensource.apple.com/)
 - [Create bootable USB macOS installer](https://macdaddy.io/create-bootable-usb-macos-installer/)
@@ -26,12 +25,8 @@ Here are some other resources for color themes:
 - [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins)
 - [cron is dead, long live launchd! (2017)](http://blog.jan-ahrens.eu/2017/01/13/cron-is-dead-long-live-launchd.html)
 - [Control Mac Keyboard Brightness](https://github.com/pirate/mac-keyboard-brightness) - Programmatically flash the keyboard lights and control display brightness on Macs.
-- [maclaunchmaclaunch](https://github.com/HazCod/maclaunch) - Manage your macOS startup items.
 - [macOS developer tutorials](https://www.raywenderlich.com/category/macos)
-- [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) - Screensaver inspired by Apple's Event on October 30, 2018.
 - [How macOS versions evolved and changed over the time](https://www.reddit.com/r/MacOS/comments/bc1lvk/how_macos_versions_evolved_and_changed_over_the/)
-- [github.com/nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os)
-- [Curated list of shell commands and tools specific to macOS](https://github.com/herrbischoff/awesome-macos-command-line)
 - [The new Mac Pro is a design remix (2019)](https://www.arun.is/blog/mac-pro/)
 - [Designing LookUp for macOS (2019)](https://medium.com/lookup-design/designing-lookup-for-macos-bf5b8fea1a01)
 - [macOS screenshot tips](https://twitter.com/CoreyGinnivan/status/1187209574303973376)
@@ -39,11 +34,9 @@ Here are some other resources for color themes:
 - [Open-source components of macOS](https://github.com/apple-open-source/macos)
 - [Every macOS white paper](https://github.com/0xmachos/mac-white-papers)
 - [mas-cli](https://github.com/mas-cli/mas) - Simple command line interface for the Mac App Store. Designed for scripting and automation.
-- [Zero.sh](https://github.com/zero-sh/zero.sh) - Radically simple personal bootstrapping tool for macOS.
 - [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
 - [macOS and iOS Security Related Tools](https://github.com/ashishb/osx-and-ios-security-awesome)
 - [Creating a macOS App with SwiftUI](https://developer.apple.com/tutorials/swiftui/creating-a-macos-app)
-- [React Native for macOS](https://github.com/microsoft/react-native-macos) - Build native macOS apps with React. ([HN](https://news.ycombinator.com/item?id=23160075))
 - [My Mac App Store Debate (2020)](https://inessential.com/2020/05/12/my_mac_app_store_debate)
 - [macOS 10.15: Slow by Design (2020)](https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/) ([HN](https://news.ycombinator.com/item?id=23273247))
 - [macOS in a Docker Container](https://github.com/sickcodes/Docker-OSX) ([HN](https://news.ycombinator.com/item?id=23419101)) ([Reddit](https://www.reddit.com/r/jailbreak/comments/gwg3e4/free_release_dockerosx_run_xcode_on_linux_sign/))
@@ -58,17 +51,9 @@ Here are some other resources for color themes:
 - [macOS icon pack](https://macosicons.com/) - Beautiful open source icons for Big Sur. ([Code](https://github.com/elrumo/macOS_Big_Sur_icons_replacements))
 - [Thoughts on macOS Package Managers (2019)](https://saagarjha.com/blog/2019/04/26/thoughts-on-macos-package-managers/)
 - [Sketch — Part of your world: Why we’re proud to build a truly native Mac app (2020)](https://www.sketch.com/blog/2020/10/26/part-of-your-world-why-we-re-proud-to-build-a-truly-native-mac-app/) ([HN](https://news.ycombinator.com/item?id=24899391)) ([HN 2](https://news.ycombinator.com/item?id=24912325)) ([Tweet](https://twitter.com/amix3k/status/1321404287566680064))
-- [macOS Setup Guide](https://sourabhbajaj.com/mac-setup/) ([Code](https://github.com/sb2nov/mac-setup))
 - [Some Differences between macOS and Common Unix Systems (2020)](https://www.dyx.name/posts/macunix.html)
-- [github.com/sb2nov/mac-setup](https://sourabhbajaj.com/mac-setup/)
 - [Hard to discover tips and apps for making macOS pleasant](https://thume.ca/2020/09/04/macos-tips/)
 - [Use Touch ID for sudo on Mac](https://davidwalsh.name/touch-sudo) [(HN)](https://news.ycombinator.com/item?id=26302139)
-- [Mathias Bynens' Sensible macOS Defaults](https://github.com/mathiasbynens/dotfiles/blob/master/.macos) - [(HN)](https://news.ycombinator.com/item?id=26513528)
-- [macbac](https://github.com/hazcod/macbac) - Lists, controls and schedules efficient APFS snapshots for your convenience.
-- [TinyLinux](https://github.com/niw/TinyLinux) - Tiny minimum implementation of Virtualization framework to boot Linux.
-- [VMCLI](https://github.com/gyf304/vmcli) - Set of utilities to help you manage VMs with Virtualization.framework. ([HN](https://news.ycombinator.com/item?id=25786640))
-- [MacHack](https://github.com/kendfinger/MacHack) - List of built-in tools in macOS that you probably didn't know about.
 - [macOS app in plain C](https://github.com/jimon/osx_app_in_plain_c)
 - [The Mac that saved Apple](https://sixcolors.com/post/2020/12/20-macs-for-2020-1-imac-g3/) ([HN](https://news.ycombinator.com/item?id=25566642))
-
 

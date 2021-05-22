@@ -65,6 +65,7 @@
   - [Graphics](/computer science/graphics.md)
   - [Email](/computer science/email.md)
 - [macOS](/macos/macos.md)
+  - [Setup](/macos/setup.md)
   - [Tools](/macos/tools.md)
   - [Apps](/macos/apps.md)
 - [Minimalism](/minimalism/minimalism.md)

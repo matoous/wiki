@@ -130,3 +130,10 @@
 
 - *[jrnl](https://jrnl.sh/en/stable/)* - simple journaling in the command line
 
+## Resources
+
+- [MacHack](https://github.com/kendfinger/MacHack) - List of built-in tools in macOS that you probably didn't know about.
+- [VMCLI](https://github.com/gyf304/vmcli) - Set of utilities to help you manage VMs with Virtualization.framework. ([HN](https://news.ycombinator.com/item?id=25786640))
+- [Curated list of shell commands and tools specific to macOS](https://github.com/herrbischoff/awesome-macos-command-line)
+- [maclaunchmaclaunch](https://github.com/HazCod/maclaunch) - Manage your macOS startup items.
+
