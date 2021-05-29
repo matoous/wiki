@@ -92,4 +92,5 @@
 - [What lies beneath:  evidence from leaked account dataon how elites use offshore banking](https://www.brookings.edu/wp-content/uploads/2021/05/What-lies-beneath_Collin.pdf) - 55 page paper/book on how elites are offshoring money, also includes solution to this problem. ([HN](https://news.ycombinator.com/item?id=27089906))
 - [Making Money isn't Magic](https://www.reddit.com/r/slatestarcodex/comments/duv1x8/making_money_isnt_magic/)
 - [Fun Economic Facts](https://guzey.com/economics/fun-economic-facts/)
+- [How The Economic Machine Works by Ray Dalio (video)](https://www.youtube.com/watch?v=PHe0bXAIuk0)
 

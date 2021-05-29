@@ -15,6 +15,8 @@ To get up to speed and learn the basics of sane and mindful investing the best s
 ## Terms
 
 - **Total Expense Ratio (TER)** - costs associated with managing and operating an investment fund, calculated as `TER = fund costs / fund assets`
+- **Exchange Traded Fund (ETF)** - ETF is an investment fund that explicitly tracks an index, commodity, sector, or an asset. Investors can buy and sell ETFs just like normal stocks – which makes them easy to invest in. ETFs usually track basket of commodities and have low expense ratio.
+- **Index** - is a hypothetical portfolio of investment holdings that represents a segment of the financial market. The index value is mostly based on the prices of underlying holdings but can also depend on revenue-weighting, fundamental-weighting, etc. Weighting is used to adjust impact of individual assets on the index value.
 
 ## Resources
 
@@ -34,6 +36,13 @@ To get up to speed and learn the basics of sane and mindful investing the best s
 - [How Vanguard Index Funds Work](https://www.investopedia.com/articles/investing/111715/how-vanguard-index-funds-work.asp)
 - [How To Run An Index Fund: Full Replication Vs. Optimization](https://www.etf.com/etf-education-center/etf-basics/how-to-run-an-index-fund-full-replication-vs-optimization)
 - [Finance Courses](https://www.classcentral.com/subject/finance)
+- [Eat The Financial Elephant](https://eatthefinancialelephant.com/)
+- [DIY Investing Resource #3: The Intelligent Asset Allocator](https://www.caniretireyet.com/diy-investing-intelligent-asset-allocator/)
+- [A Non-Expert’s Guide to Early Retirement](https://eatthefinancialelephant.com/a-non-experts-guide-to-early-retirement/)
+- [DIY Investing Resource #5: Sound Investing Podcast with Paul Merriman](https://eatthefinancialelephant.com/diy-investing-resource-5-sound-investing-podcast-with-paul-merriman/)
+- [The Millionaire Educator](https://www.millionaireeducator.com/)
+- [GoCurryCracker](https://www.gocurrycracker.com/) - tax optimization, asset allocation, etc.
+- [DIY Investing Resource #2: The Little Book of Common Sense Investing](https://www.caniretireyet.com/little-book-common-sense-investing/)
 
 ## Places to invest at
 
@@ -52,6 +61,7 @@ Vanguard has only two accumulative funds (i.e. dividend yield is reinvested) com
 
 - [Vanguard ETFs](https://investor.vanguard.com/etf/list#/etf/asset-class/month-end-returns)
 - [iShares ETFs](https://www.ishares.com/us/products/etf-investments)
+- [IWDA - iShares Core MSCI World UCITS ETF USD (Acc)](https://markets.ft.com/data/etfs/tearsheet/performance?s=IWDA:AEX:EUR)
 - [VWRL - Vanguard FTSE All-World UCITS ETF](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing)
 - [VUSA - Vanguard S&P 500 UCITS ETF](https://www.vanguardinvestor.co.uk/investments/vanguard-s-and-p-500-ucits-etf-usd-distributing)
 - [VAPX - Vanguard FTSE Developed Asia Pacific ex Japan Index](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-developed-asia-pacific-ex-japan-ucits-etf-usd-distributing)

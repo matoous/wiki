@@ -9,4 +9,5 @@
 - [Request for comments regarding topics to be discussed at Dark Patterns workshop](https://www.regulations.gov/document/FTC-2021-0019-0001/comment) - ([HN](https://news.ycombinator.com/item?id=27017041))
 - [Updated Password Advice: What Teachers and Students Need to Know](https://www.theedublogger.com/updated-password-advice-what-teachers-and-students-need-to-know/)
   - use password manager and passphrases
+- [The Motherboard Guide to Not Getting Hacked](https://www.vice.com/en/article/d3devm/motherboard-guide-to-not-getting-hacked-online-safety-guide)
 

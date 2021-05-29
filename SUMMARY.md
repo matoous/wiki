@@ -64,6 +64,7 @@
   - [Games](/computer science/games.md)
   - [Graphics](/computer science/graphics.md)
   - [Email](/computer science/email.md)
+  - [Computers](/computer science/computers.md)
 - [macOS](/macos/macos.md)
   - [Setup](/macos/setup.md)
   - [Tools](/macos/tools.md)

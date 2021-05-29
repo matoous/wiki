@@ -393,4 +393,5 @@ kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespac
 - [KubePlus](https://github.com/cloud-ark/kubeplus) - CRD for CRDs to design multi-tenant platform services from- [Native Kubernetes Continuous Delivery (2021)](https://www.reddit.com/r/kubernetes/comments/n2jy7f/native_kubernetes_continuous_delivery/) Helm charts.
 - [Pixie](https://px.dev/) - Kubernetes observability for developers - service health, request tracing, infra health, etc.
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources
+- [Kubernetes Examples](https://github.com/ContainerSolutions/kubernetes-examples)
 

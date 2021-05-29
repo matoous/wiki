@@ -14,6 +14,8 @@
 - [jbranchaud/til](https://github.com/jbranchaud/til)
 - [Writing system software: code comments.](http://antirez.com/news/124)
   - different kinds of comments, when to use them and when to avoid them, mostly stuff you will learn yourself by working but with some additional insight nevertheless
+- [What Every Computer Scientist Should Know About Floating-Point Arithmetics](https://perso.ens-lyon.fr/jean-michel.muller/goldberg.pdf)
+
 
 ## Code sharing
 
