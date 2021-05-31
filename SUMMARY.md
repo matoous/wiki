@@ -1,8 +1,14 @@
 # Summary
 
+- [Meta](/meta/meta.md)
+  - [Blogging](/meta/blogging.md)
 - [Life](/life/life.md)
   - [Productivity](/life/productivity.md)
   - [Health](/life/health.md)
+  - [Mindfulness](/life/mindfulness.md)
+  - [Productivity](/life/productivity.md)
+  - [Success](/life/success.md)
+  - [Sleep](/life/sleep.md)
 - [Economics](/economics/economics.md)
   - [Finance](/economics/finance.md)
   - [Investing](/economics/investing.md)

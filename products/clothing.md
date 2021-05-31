@@ -6,4 +6,8 @@
 - [District Vision](https://districtvision.com/shop) - stylish running and yoga clothing
 - [Ciele Athletics](https://cieleathletics.com/eu/) - cool running headware
 - [Jacques](https://jacquesnyc.com/) - minimalistic sports wear, pricey
+- [Alo Yoga](https://www.aloyoga.com/) - yoga and sport_ish_ casual wear
+- [Unbound Merino](https://unboundmerino.com/) - all things from merino wool
+- [Uniqlo](https://www.uniqlo.com/) - cheap yet stylish clothing
+- [Faherty](https://fahertybrand.com/collections/mens-bestsellers)
 
