@@ -1,27 +1,12 @@
 # macOS
 
 [Apps](/macOS/apps.md) and [Tools](macOS/tools.md) and
-overall setup of macOS dvelopment environment.
-
-## Color Themes
-
-I currently use [Github iTerm2 theme](https://github.com/fcaldera/github-primer-iterm2),
-specifically, the dark variant.
-
-Here are some other resources for color themes:
-
-* [sindresorhus/iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy)
-
-## Fonts
-
-[Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher](https://www.nerdfonts.com/font-downloads)
+overall [setup](/macOS/setup.md) of macOS dvelopment environment.
 
 ## Resources
 
 - [A Pro’s Guide to the Best Secret Mac Features](https://matthewpalmer.net/blog/2018/04/14/ultimate-pro-guide-best-secret-mac-features/index.html)
 - [macOS open source](https://opensource.apple.com/)
-- [Create bootable USB macOS installer](https://macdaddy.io/create-bootable-usb-macos-installer/)
-- [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
 - [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins)
 - [cron is dead, long live launchd! (2017)](http://blog.jan-ahrens.eu/2017/01/13/cron-is-dead-long-live-launchd.html)
 - [Control Mac Keyboard Brightness](https://github.com/pirate/mac-keyboard-brightness) - Programmatically flash the keyboard lights and control display brightness on Macs.
