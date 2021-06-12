@@ -1,7 +1,7 @@
 # macOS
 
-[Apps](/macOS/apps.md) and [Tools](macOS/tools.md) and
-overall [setup](/macOS/setup.md) of macOS dvelopment environment.
+My world of MacOS! Here you will find the overall [setup](setup.md) of macOS dvelopment environment,
+the [Apps](apps.md) I use, and [Tools](tools.md) that make be blaze through the command line 
 
 ## Resources
 

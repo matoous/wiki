@@ -1,29 +1,23 @@
 # Setup
 
-## Color Themes
-
-I currently use [Github iTerm2 theme](https://github.com/fcaldera/github-primer-iterm2),
-specifically, the dark variant.
-
-Here are some other resources for color themes:
-
-* [sindresorhus/iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy)
-
-## Wallpapers
-
-- [iMac Wallpapers](https://www.arun.is/blog/os9-wallpaper/)
-
 ## Browser
 
 - [Brave](https://brave.com/)
   - plugins:
     - [1password](https://chrome.google.com/webstore/detail/1password-%E2%80%93-password-mana/aeblfdkhhhdcdjpifhhbdiojplfjncoa)
     - [Tab Manager Plus](https://chrome.google.com/webstore/detail/tab-manager-plus-for-chro/cnkdjjdmfiffagllbiiilooaoofcoeff)
+- [Mozilla](https://www.mozilla.org/) (depre)
+
+
+## Wallpapers
+
+- [iMac Wallpapers](https://www.arun.is/blog/os9-wallpaper/)
 
 ## Terminal
 
 - [iTerm2](https://iterm2.com/) - _deprecated_
 - [Kitty](https://sw.kovidgoyal.net/kitty/) - faster than iTerm2, and I don't need much more than the speed
+  - `ctrl+shit+u` to search unicode characters
 
 ## Editors
 

@@ -1,5 +1,10 @@
 # Command line
 
+## Editors
+
+- [Helix](https://github.com/helix-editor/helix)
+- [Vim](/computer science/command line/vim/vim.md)
+
 ## ZSH
 
 - [5 Types Of ZSH Aliases You Should Know](https://thorsten-hans.com/5-types-of-zsh-aliases)
@@ -16,6 +21,8 @@ Programs and tools provide many features that can speed things up but first one 
 - [Awesome command line tools](https://github.com/learn-anything/command-line-tools)
 - [Ask HN: What are your favorite terminal programs?](https://news.ycombinator.com/item?id=17011227)
 - [What's an awesome Linux/Unix command that you wish someone had told you about earlier?](https://twitter.com/b0rk/status/993165679833567233)
+- [Awesome Console Services](https://github.com/chubin/awesome-console-services)
+- [icanhaz](https://major.io/icanhazip-com-faq/)
 
 # Links
 

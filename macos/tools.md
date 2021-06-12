@@ -130,6 +130,13 @@
 
 - *[jrnl](https://jrnl.sh/en/stable/)* - simple journaling in the command line
 
+- *[pingme](https://github.com/kha7iq/pingme)* - send messages & alerts to various platforms (discord, email, slack, telegram, etc.)
+
+- *[todo.txt](https://github.com/todotxt/todo.txt-cli)* - todo management from the command line
+  - [Goodbye Trello, Hello Todo.txt](https://joehallenbeck.com/goodbye-trello-hello-todo-txt/)
+  - [Todo.txt Practices](https://joehallenbeck.com/todo-txt-practices/)
+  - [Tasks](https://plaintext-productivity.net/1-00-tasks-introduction.html)
+
 ## Resources
 
 - [MacHack](https://github.com/kendfinger/MacHack) - List of built-in tools in macOS that you probably didn't know about.
