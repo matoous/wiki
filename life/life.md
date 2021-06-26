@@ -23,4 +23,6 @@
 - [Jordan Peterson on Rules for Life, Psychedelics, The Bible, and Much More (2021)](https://www.youtube.com/watch?v=C1sEHNw4UIg)
 - [How to Build a Life - The Atlantic](https://www.theatlantic.com/projects/how-build-life/) - Column about pointing yourself toward happiness.
 - [Ask HN: What small thing helped you appreciate life more? (2021)](https://news.ycombinator.com/item?id=26731289)
+- [Minimum Viable Self](https://kneelingbus.substack.com/p/162-minimum-viable-self) - "Seen from a distance, (other people’s) existence seems to possess a coherence and a unity which they cannot have, in reality, but which seems evident to the spectator."
+
 

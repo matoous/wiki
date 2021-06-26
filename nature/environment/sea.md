@@ -16,4 +16,4 @@
 - ['I've never seen or heard of attacks': scientists baffled by orcas harassing boats](https://www.theguardian.com/environment/2020/sep/13/the-tale-of-the-killer-whales)
 - [Atlantic Dawn: The Ship from Hell](https://britishseafishing.co.uk/atlantic-dawn-the-ship-from-hell/), ([HN](https://news.ycombinator.com/item?id=26748655))
 - [Life Under The Ice](https://lifeundertheice.org/) - Exploratory tour through the microscopic world of Antarctica.
-
+- [Is Netflix's Seaspiracy film right about fishing damaging oceans?](https://www.bbc.co.uk/news/56660823) - ([HN](https://news.ycombinator.com/item?id=26748592)

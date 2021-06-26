@@ -274,3 +274,8 @@
 - [Prompts](https://prompts.ai/) - Advanced GPT-3 playground. ([Code](https://github.com/sevazhidkov/prompts-ai))
 - [TextFlint](https://github.com/textflint/textflint) - Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing.
 - [Awesome Text Summarization](https://github.com/icoxfog417/awesome-text-summarization)
+
+## BERT
+
+- [Application of BERT : Binary Text Classification](https://iq.opengenus.org/binary-text-classification-bert/)
+

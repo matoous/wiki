@@ -48,4 +48,5 @@ find the Goland superior for writing code in larger repositories.
 - [ddelange/new-mac-setup](https://github.com/ddelange/new-mac-setup)
 - [October 30 Screen Saver](https://github.com/lekevicius/october30)
 - [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
+- [kabouzeid/dotfiles](https://github.com/kabouzeid/dotfiles)
 

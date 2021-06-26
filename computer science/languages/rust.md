@@ -11,6 +11,7 @@
 - [Creating a REST API in Rust with Persistence: Rust, Rocket and Diesel](https://genekuo.medium.com/creating-a-rest-api-in-rust-with-persistence-rust-rocket-and-diesel-a4117d400104)
 - [The Adventures of OS: Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com/index.html)
 - [Working with strings in Rust](https://fasterthanli.me/articles/working-with-strings-in-rust)
+- [Zero to Production in Rust](Zero to Production in Rust)
 
 ## Crates
 
@@ -19,5 +20,5 @@
 - [Amethyst Game Engine](https://amethyst.rs)
 - [Rocket](https://rocket.rs/) - web framework
 - [Actix](https://actix.rs/) - web framework
-
+- [serde-encrypt](https://github.com/laysakura/serde-encrypt) - encryption & decryption for serde
 

@@ -7,6 +7,7 @@
 ## Packages
 
 - [TinyGo](https://github.com/tinygo-org/tinygo) - Go compiler for small places
+- [Zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 
 ## Tools
 
