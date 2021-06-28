@@ -12,3 +12,5 @@
   - maker's need larger units of time (half a day or so), meetings can blow their whole afternoon by breaking their flow.
 - [Productivity by Sam Altman](https://blog.samaltman.com/productivity)
 - [Why Procrastinators Procrastinate](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
+- [Alexey Guzey on productivity](https://guzey.com/productivity/)
+
