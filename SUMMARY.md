@@ -60,6 +60,7 @@
     - [Design](/computer science/web/design.md)
   - [Software](/computer science/software/software.md)
     - [VPN](/computer science/software/vpn.md)
+  - [Standards](/computer science/standards/standards.md
   - [Databases](/computer science/databases/databases.md)
     - [Redis](/computer science/databases/redis.md)
     - [Elasticsearch](/computer science/databases/elasticsearch.md)
