@@ -10,4 +10,5 @@
 - [The Engineering Manager](https://www.theengineeringmanager.com/) — Empowering ourselves to empower others.
 - [A reading list for new engineering managers](https://jacobian.org/2018/may/2/engmanager-reading-list/) (2018)
   - book recommendations on various topic for new engineering managers
+- [From Engineer to Tech Lead - Doubts and Challenges](https://dev.to/dvddpl/from-engineer-to-tech-lead-doubts-and-challenges-4n9e)
 

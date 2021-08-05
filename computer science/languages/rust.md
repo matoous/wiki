@@ -12,6 +12,7 @@
 - [The Adventures of OS: Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com/index.html)
 - [Working with strings in Rust](https://fasterthanli.me/articles/working-with-strings-in-rust)
 - [Zero to Production in Rust](Zero to Production in Rust)
+- [Understanding Rust futures by going way too deep](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep)
 
 ## Crates
 

@@ -54,6 +54,7 @@
   - [Machine Learning](/computer science/machine learning/machine learning.md)
     - [Reinforcement Learning](/computer science/machine learning/reinforcement learning.md)
   - [Visualization](/computer science/visualization.md)
+  - [Git](/computer science/git.md)
   - [Security](/computer science/security/security.md)
     - [Auth](/computer science/security/auth.md)
   - [Web](/computer science/web/web.md)
