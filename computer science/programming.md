@@ -17,6 +17,7 @@
 - [What Every Computer Scientist Should Know About Floating-Point Arithmetics](https://perso.ens-lyon.fr/jean-michel.muller/goldberg.pdf)
 - [More challenging projects every programmer should try](https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html)
   - Ray tracing, Key-Value store, Web browser, Stock trading bot
+- [What I learned from Software Engineering at Google](https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/)
 
 
 ## Code sharing

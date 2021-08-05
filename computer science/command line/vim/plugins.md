@@ -78,3 +78,20 @@ The `.` command works with all operator mappings, and will work with the line-wi
 ## Resources
 
 - [vim-illuminate](https://github.com/RRethy/vim-illuminate) - Automatically highlighting other uses of the current word under the cursor.
+
+## Trouble
+
+[Trouble](https://github.com/folke/trouble.nvim) provides a pretty list for showing diagnostics, references, telescope results, quickfix and location lists to help you solve all the trouble your code is causing.
+
+## Treesitter
+
+_[Tree-sitter](https://tree-sitter.github.io/tree-sitter/)_ is a parser generator tool and an incremental parsing library. It can build a concrete syntax tree for a source file and efficiently update the syntax tree as the source file is edited.
+
+[nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) provides tree-sitter interface for neovim as well
+as basic syntax-highlighting functionality.
+
+## Bufferline
+
+[nvim-bufferline.lua](https://github.com/akinsho/nvim-bufferline.lua) shamelessly attempts to emulate the aesthetics of GUI text editors/Doom Emacs
+by adding a navigation bar with tabs for individual open buffers.
+

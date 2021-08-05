@@ -31,4 +31,5 @@
 - [On Life, Liberty, and Stock Markets](https://unusualwhales.com/i_am_the_senate)
   - house members trade a lot and thanks to the information they have they beat the market
 - [There’s Nothing to Do Except Gamble](https://nymag.com/intelligencer/2021/04/nft-future-of-money.html) - _Welcome to the non-fungible, memeified, cryptodenominated, degenerate future of finance._
+- [A Beginner and Intermediate Guide To Options: Everything You Need To Know To Stop Losing Money Like A Complete Tard](https://www.reddit.com/r/wallstreetbets/comments/o8wqjy/a_beginner_and_intermediate_guide_to_options/)
 
