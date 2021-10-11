@@ -18,6 +18,7 @@
 
 ## Resources
 
+- [Effective Go](https://golang.org/doc/effective_go)
 - [Darker Corners of Go - Rytis Biel](https://rytisbiel.com/2021/03/06/darker-corners-of-go/)
 - [Gotchas in the Go Network Packages Defaults](https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults)
 - [Type Aliases vs Type Definitions in GO](https://alehatsman.com/posts/golang_type_declaration_abuse.html)
@@ -38,4 +39,5 @@
 - [Comprehensive Guide to Dates and Times in Go](https://qvault.io/golang/golang-date-time/)
 - [Go Package CI/CD with GitHub Actions](https://dev.to/jidicula/go-package-ci-cd-with-github-actions-350o)
 - [Error handling in Go HTTP applications](https://www.joeshaw.org/error-handling-in-go-http-applications/)
+- [Wrapping Errors the Right Way](https://errnil.substack.com/p/wrapping-errors-the-right-way)
 

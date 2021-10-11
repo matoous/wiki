@@ -4,6 +4,8 @@
 
 - **Race shoes**: [Nike Zoom Fly 3](https://www.nike.com/t/zoom-fly-3-mens-running-shoe-xCbsJ0/AT8240-007)
 - **Training shoes**: [Saucony Triumph 18](https://www.saucony.com/en/triumph-18/)
+- **Trail shoes**: [Altra Lone Peak 5](https://www.altrarunning.eu/eu/m-lone-peak-5-3062.html)
+- **Cap**: [GOCap – Century – Majestic](https://cieleathletics.com/eu/product/gocap-century-majestic/)
 - **Retired**:
   - [On Run Cloudflow](https://www.on-running.com/en-us/products/cloudflow)
 

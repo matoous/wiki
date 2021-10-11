@@ -3,6 +3,9 @@
 ## Gear
 
 - **road bike**: [Émonda SL 6](https://www.trekbikes.com/us/en_US/bikes/road-bikes/performance-road-bikes/%C3%A9monda/%C3%A9monda-sl/%C3%A9monda-sl-6/p/24012/)
+  - **tires**: [Vittoria Corsa](https://www.vittoria.com/ww/en/tyres/road-tires/corsa)
+  - **bar tape**: [Supacaz - Super Sticky Kush – Black](https://supacaz.com/product/super-sticky-kush-classic-black/)
+  - **bottles**: [Elite - Fly Elite](https://www.elite-it.com/en/products/water-bottles/sport/fly-elite)
 - **mountain bike**: [Superfly 5](https://www.trekbikes.com/us/en_US/bikes/mountain-bikes/cross-country-mountain-bikes/superfly/superfly-5/p/17247/)
 - **other**:
   - [Muc-Off - Luxury Chamois Cream](https://muc-off.com/products/luxury-chamois-cream-250ml) - literal ass saver

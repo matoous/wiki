@@ -93,4 +93,5 @@
 - [Making Money isn't Magic](https://www.reddit.com/r/slatestarcodex/comments/duv1x8/making_money_isnt_magic/)
 - [Fun Economic Facts](https://guzey.com/economics/fun-economic-facts/)
 - [How The Economic Machine Works by Ray Dalio (video)](https://www.youtube.com/watch?v=PHe0bXAIuk0)
-
+- [Money creation in the modern economy](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf)
+  - Majority of money in the modern economy is created by commercial banks making loans

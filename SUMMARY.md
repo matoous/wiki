@@ -42,6 +42,7 @@
     - [Signal](/computer science/protocols/signal.md)
     - [TLS](/computer science/protocols/tls.md)
     - [Protocol Buffers](/computer science/protocols/protocol buffers.md)
+    - [DSN](/computer science/protocols/dsn.md)
   - [Languages](/computer science/languages/languages.md)
     - [Assembler](/computer science/languages/assembler.md)
     - [Go](/computer science/languages/golang.md)

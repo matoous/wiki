@@ -4,6 +4,7 @@
 
 - [Minimalist Ironman Training Program & Tips For Busy Triathletes](https://theathleteblog.com/minimalist-ironman-training-program/)
 - [Ultimate Ironman Training Guide](https://www.trainingpeaks.com/guides/ironman-training/)
+- [The Most Effective Endurance Training Method - The Science Explained](https://youtu.be/6KBBPOlyMWw)
 
 ## Races
 

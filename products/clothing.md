@@ -6,6 +6,7 @@
 - [Faherty](https://fahertybrand.com/collections/mens-bestsellers)
 - [Asket](https://www.asket.com/de/mens/) - minimalistic wardrobe essentials, expensive-ish
 - [Arket](https://www.arket.com/de_de/index.html) - cheap basic
+- [I Love Ugly](https://www.iloveugly.com/)
 
 ## Sports & Outdoor
 
