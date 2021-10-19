@@ -95,3 +95,5 @@
 - [How The Economic Machine Works by Ray Dalio (video)](https://www.youtube.com/watch?v=PHe0bXAIuk0)
 - [Money creation in the modern economy](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf)
   - Majority of money in the modern economy is created by commercial banks making loans
+- [Evidence from leaked account data on how elites use offshore banking [pdf]](https://www.brookings.edu/wp-content/uploads/2021/05/What-lies-beneath_Collin.pdf)
+

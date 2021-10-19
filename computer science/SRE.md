@@ -7,4 +7,5 @@
 - [Google SRE](https://sre.google/workbook/table-of-contents/)
   - [Configuration Specifics](https://sre.google/workbook/configuration-specifics/)
 - [How SRE teams are organized, and how to get started](https://cloud.google.com/blog/products/devops-sre/how-sre-teams-are-organized-and-how-to-get-started)
+- [Ask HN: Best “I brought down production” story?](https://news.ycombinator.com/item?id=27644387)
 

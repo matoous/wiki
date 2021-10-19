@@ -13,4 +13,5 @@
 - [Productivity by Sam Altman](https://blog.samaltman.com/productivity)
 - [Why Procrastinators Procrastinate](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
 - [Alexey Guzey on productivity](https://guzey.com/productivity/)
+- [My productivity app for the past 12 years has been a single .txt file](https://news.ycombinator.com/item?id=22276184)
 
