@@ -17,23 +17,25 @@
 * [Mathematics and computer science](notion://www.notion.so/matousdz/cr.yp.to/djb.html) _by D. J. Bernstein_
 * [Computer Sciencewithout a computer](https://csunplugged.org/en/)
 
-## Books and reading
+## Books
 
 * [Computer Science Readings](https://github.com/erikgrinaker/readings)
 * [A list of computer-science readings I recommend](https://github.com/amilajack/reading) - _by Amila Welihinda_
 * [Ask HN: What book to read to get a footing in CS theory?](https://news.ycombinator.com/item?id=20729252)
 * [Ask HN: What are the most fundamental books on computer science?](https://news.ycombinator.com/item?id=21311302)
 
-## Other reading
+## Services
 
+- [Koyeb](https://www.koyeb.com)
+
+## Resources
+
+- [More challenging projects every programmer should try](https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html)
 - [base cs](https://medium.com/basecs) - *Exploring the basics of computer science, every Monday, for a year.*
 - [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [the morning paper](https://blog.acolyer.org/) - *a random walk through Computer Science research, by Adrian Colyer*
 - [Nature Computational Science](https://www.nature.com/natcomputsci)
-
-## Resources
-
 - [The Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/), ([HN](https://news.ycombinator.com/item?id=26766722))
 - [Use Google like a pro](https://markodenic.com/use-google-like-a-pro/)
   - search inside single website: `site:freecodecamp.org`
