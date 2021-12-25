@@ -23,3 +23,7 @@
 - [Actix](https://actix.rs/) - web framework
 - [serde-encrypt](https://github.com/laysakura/serde-encrypt) - encryption & decryption for serde
 
+## Projects
+
+- [erikgrinakerj/jtoydb](https://github.com/erikgrinaker/toydb)
+

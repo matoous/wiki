@@ -103,4 +103,5 @@
 - [Google 2020 environmental report](https://blog.google/outreach-initiatives/sustainability/2020-environmental-report/)
 - [Google for Startups Accelerator: Climate Change Accelerators](https://developers.google.com/community/accelerators/climate)
 - [We’re Hurtling Toward Global Suicide (2021)](https://newrepublic.com/article/161575/climate-change-effects-hurtling-toward-global-suicide)
+- [The ancient Persian way to keep cool](https://www.bbc.com/future/article/20210810-the-ancient-persian-way-to-keep-cool)
 

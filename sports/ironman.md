@@ -16,4 +16,4 @@
 ## Resources
 
 - [How Alex went sub 10 hours at Ironman Austria](http://tri-monkey.co.uk/alex-went-sub-10-hours-ironman-austria/)
-
+- [Why Race Nutrition Is Vital For Athletes (video)](https://youtu.be/PodTDhjccWw)

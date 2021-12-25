@@ -7,3 +7,7 @@
 - [A minimalist stylesheet for HTML elements](https://andybrewer.github.io/mvp/)
 - [Gradients gallery](https://images.superfamous.com/36-Gradients)
 
+## Websites
+
+- [Cash.app](https://cash.app) - visuall pleasing website of finance app by 
+

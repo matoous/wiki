@@ -9,3 +9,8 @@
 - **mountain bike**: [Superfly 5](https://www.trekbikes.com/us/en_US/bikes/mountain-bikes/cross-country-mountain-bikes/superfly/superfly-5/p/17247/)
 - **other**:
   - [Muc-Off - Luxury Chamois Cream](https://muc-off.com/products/luxury-chamois-cream-250ml) - literal ass saver
+
+## Training
+
+- [Sweet Spot vs. Polarized Training: Which Makes You Faster? The Science (video)](https://www.youtube.com/watch?v=yZnrf_Nwvpk) - polarized wins over speed spot.
+  I.e. 80% in zone 1 and 20% in zone 3 with little to none training in zone 2.

@@ -61,4 +61,5 @@
 - [Pulumi](https://www.pulumi.com/) - Modern Infrastructure as Code for Developers and Infrastructure Teams.
 - [zx](https://github.com/google/zx) - A tool for writing better scripts, combination of bash and javascript
 - [Bad Machinery: Managing Interrupts Under Load](https://log.andvari.net/pages/bad-machinery.html)
+- [software deploys and cognitive biases](https://charity.wtf/2021/08/27/software-deploys-and-cognitive-biases/)
 

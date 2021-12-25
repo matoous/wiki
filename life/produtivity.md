@@ -14,4 +14,11 @@
 - [Why Procrastinators Procrastinate](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
 - [Alexey Guzey on productivity](https://guzey.com/productivity/)
 - [My productivity app for the past 12 years has been a single .txt file](https://news.ycombinator.com/item?id=22276184)
+- [Find the root cause of your productivity problem with the "5 Whys" technique](Find the root cause of your productivity problem with the "5 Whys" technique)
+  - define the problem
+  - ask why... 5 times (i.e. get to the root cause)
+  - address root cause
+  - tackle secondary factors
+- [The unreasonable effectiveness of just showing up everyday](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/) - another point for habits,
+  by setting a simple rule of writing at least one line of code every day Kishore Nallan was able to build a search engine over the course of 6 years
 

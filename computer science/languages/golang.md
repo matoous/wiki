@@ -40,4 +40,5 @@
 - [Go Package CI/CD with GitHub Actions](https://dev.to/jidicula/go-package-ci-cd-with-github-actions-350o)
 - [Error handling in Go HTTP applications](https://www.joeshaw.org/error-handling-in-go-http-applications/)
 - [Wrapping Errors the Right Way](https://errnil.substack.com/p/wrapping-errors-the-right-way)
+- [`netaddr.IP`](https://tailscale.com/blog/netaddr-new-ip-type-for-go/)
 

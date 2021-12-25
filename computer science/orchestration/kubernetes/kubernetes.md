@@ -394,4 +394,6 @@ kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespac
 - [Pixie](https://px.dev/) - Kubernetes observability for developers - service health, request tracing, infra health, etc.
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources
 - [Kubernetes Examples](https://github.com/ContainerSolutions/kubernetes-examples)
+- [Road to Secure Kubernetes](https://github.com/nsmith5/road-to-secure-kubernetes) - tutorial on securing kubernetes, from basics to advanced topics
+- [Kubetools](https://collabnix.github.io/kubetools/) - A Curated List of Kubernetes Tools
 
