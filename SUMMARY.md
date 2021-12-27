@@ -102,6 +102,8 @@
   - [Career](work/career.md)
   - [Startups](work/startups.md)
   - [Projects](work/projects.md)
+  - [Company Culture](work/company_culture.md)
+  - [Entrepreneurship](work/entrepreneurship.md)
 - [Sports](sports/sports.md)
   - [Ironman](sports/ironman.md)
   - [Cycling](sports/cycling.md)
