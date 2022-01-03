@@ -22,4 +22,6 @@ _Example_: With your monthly spendings being $2,000 you need approximately $600,
 - [Root of Good](https://rootofgood.com/) - blog by a guy who retired at 33, monthly updates on net worthm spending, etc.
 - [Slowly Sipping Coffee](https://www.slowlysippingcoffee.com/) - lifestyle change, early retirement, saving, etc.
 - [Can I Retire Yet?](https://www.caniretireyet.com/roadmap/)
+- [Sacrifice](https://tynan.com/sacrifice/) by Tynan
+- [Ingenuity vs Money](https://tynan.com/ingenuity/) by Tynan
 

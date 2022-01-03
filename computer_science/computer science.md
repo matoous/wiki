@@ -42,4 +42,5 @@
   - search for certain filetype: `filetype:pdf`
   - search for timeframe: `before:2020 after:2016`
   - also: [Google Search Operators: The Complete List (42 Advanced Operators)](https://ahrefs.com/blog/google-advanced-search-operators/)
+- [keybr.com](https://www.keybr.com/) - leatn to type faster
 

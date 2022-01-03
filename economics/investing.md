@@ -43,6 +43,11 @@ To get up to speed and learn the basics of sane and mindful investing the best s
 - [The Millionaire Educator](https://www.millionaireeducator.com/)
 - [GoCurryCracker](https://www.gocurrycracker.com/) - tax optimization, asset allocation, etc.
 - [DIY Investing Resource #2: The Little Book of Common Sense Investing](https://www.caniretireyet.com/little-book-common-sense-investing/)
+- [Negative Cash](https://tynan.com/negative/) by Tynan
+- [Variance and Investing](https://tynan.com/variance/) by Tynan
+  - "Any investment other than a risk-free investment or very safe index-fund based portfolio will be higher variance.
+    In order to accept that higher variance you must either have a defensible explanation for why it is higher EV, or you must have a reason why variance will help you.
+    If you don’t, stick to safe investments."
 
 ## Places to invest at
 
