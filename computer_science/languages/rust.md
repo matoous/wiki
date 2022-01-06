@@ -13,6 +13,7 @@
 - [Working with strings in Rust](https://fasterthanli.me/articles/working-with-strings-in-rust)
 - [Zero to Production in Rust](Zero to Production in Rust)
 - [Understanding Rust futures by going way too deep](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep)
+- [Why is my Rust build so slow?](https://fasterthanli.me/articles/why-is-my-rust-build-so-slow)
 
 ## Crates
 
