@@ -7,5 +7,5 @@
 - [Why Do Wealthy Parents Have Wealthy Children?](https://www.gwern.net/docs/genetics/heritable/2021-fagereng.pdf)
 - [Genetic Russian Roulette](https://slatestarcodex.com/2013/11/19/genetic-russian-roulette/) by Scott Alexander
 - [Childlessness](https://www.gurus.org/doug-muder/articles/childlessness/)
-
+- [The UX on this Small Child is Terrible](https://www.mcsweeneys.net/articles/the-ux-on-this-small-child-is-terrible) ([HN](https://news.ycombinator.com/item?id=29798712))
 

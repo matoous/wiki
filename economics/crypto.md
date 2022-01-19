@@ -12,6 +12,8 @@
   - ethereum is soon switching to PoS (proof of stake) instead of PoW (proof of work) which should result in ~99.95% less energy usage
 - [Crypto Wash Trading](https://arxiv.org/abs/2108.10984)
 - [Detecting and Quantifying Wash Trading on Decentralized Cryptocurrency Exchanges](https://arxiv.org/abs/2102.07001)
+- [Tether Papers: This is exactly who acquired 70% of all USDT ever issued](https://protos.com/tether-papers-crypto-stablecoin-usdt-investigation-analysis/);
+  basically just Alameda Research and Cumberland Global
 
 ## Articles
 

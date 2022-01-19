@@ -25,4 +25,10 @@
   1. develop meta-awareness of your state of mind.
   2. pattern-match to identify your mind’s most common modes.
   3. learn to pick activities that match each mode.
+- [Procrastinatory Doom Loops](https://brennancolberg.com/blog/procrastinatory-doom-loops)
+
+## Books
+
+- [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563)
+- [How To Live On 24 Hours A Day](https://www.amazon.com/How-Live-24-Hours-Day/dp/1603863680)
 

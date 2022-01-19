@@ -15,3 +15,7 @@
 - [Why You Should Start a Blog Right Now](https://guzey.com/personal/why-have-a-blog/)
 - [Writing, Briefly](http://paulgraham.com/writing44.html) - short article, just open it and re-read
 
+## Paper Writing
+
+- [The Best Notebooks for Every Use](https://www.jetpens.com/blog/The-Best-Notebooks-for-Every-Use/pt/647)
+

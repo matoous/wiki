@@ -30,6 +30,7 @@
 
 ## Resources
 
+- [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)
 - [More challenging projects every programmer should try](https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html)
 - [base cs](https://medium.com/basecs) - *Exploring the basics of computer science, every Monday, for a year.*
 - [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html)

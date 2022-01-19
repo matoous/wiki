@@ -2,7 +2,7 @@
 
 - [Alya](https://www.andreuworld.com/product/Alya) lounge chair by _[Andreu World](https://www.andreuworld.com/)_
 - [Tūroa Bathroom Collection](https://bestawards.co.nz/product/consumer/methven-global-design-innovation-team/turoa-bathroom-collection/) by _Andy Grigor_
-
+- [Muji Digital Clock](https://www.amazon.com/gp/product/B00VYND2XY/)
 
 ## Home Office
 

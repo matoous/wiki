@@ -11,6 +11,7 @@
 - [The Serious Eats Guide to Shopping for Asian Noodles](https://www.seriouseats.com/asian-noodle-shopping-guide)
 - [Coooking](https://100r.co/site/cooking.html) _by 100 rabbits_
 - [What I Know About Cleaning and Seasoning Cast-Iron Skillets](https://www.americastestkitchen.com/articles/3615-how-to-clean-and-season-cast-iron-skillets)
+- [Cooking for Engineer](http://www.cookingforengineers.com)
 
 ## Products
 
