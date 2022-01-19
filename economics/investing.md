@@ -17,6 +17,7 @@ To get up to speed and learn the basics of sane and mindful investing the best s
 - **Total Expense Ratio (TER)** - costs associated with managing and operating an investment fund, calculated as `TER = fund costs / fund assets`
 - **Exchange Traded Fund (ETF)** - ETF is an investment fund that explicitly tracks an index, commodity, sector, or an asset. Investors can buy and sell ETFs just like normal stocks – which makes them easy to invest in. ETFs usually track basket of commodities and have low expense ratio.
 - **Index** - is a hypothetical portfolio of investment holdings that represents a segment of the financial market. The index value is mostly based on the prices of underlying holdings but can also depend on revenue-weighting, fundamental-weighting, etc. Weighting is used to adjust impact of individual assets on the index value.
+- [**Efficient Frontier**](https://en.wikipedia.org/wiki/Efficient_frontier), also [here](https://www.investopedia.com/terms/e/efficientfrontier.asp#:~:text=The%20efficient%20frontier%20is%20the,for%20the%20level%20of%20risk.)
 
 ## Resources
 

@@ -21,4 +21,8 @@
   - tackle secondary factors
 - [The unreasonable effectiveness of just showing up everyday](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/) - another point for habits,
   by setting a simple rule of writing at least one line of code every day Kishore Nallan was able to build a search engine over the course of 6 years
+- [Effortless personal productivity (or how I learned to love my monkey mind)](https://jakobgreenfeld.com/personal-productivity), 3 steps:
+  1. develop meta-awareness of your state of mind.
+  2. pattern-match to identify your mind’s most common modes.
+  3. learn to pick activities that match each mode.
 

@@ -13,4 +13,5 @@
 - [Editing technique of counting to use with writing (2021)](https://twitter.com/MarcJBrooker/status/1387562273330188289)
 - [Great Memos](https://sriramk.com/memos.html)
 - [Why You Should Start a Blog Right Now](https://guzey.com/personal/why-have-a-blog/)
+- [Writing, Briefly](http://paulgraham.com/writing44.html) - short article, just open it and re-read
 
