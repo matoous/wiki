@@ -16,3 +16,4 @@
   I.e. 80% in zone 1 and 20% in zone 3 with little to none training in zone 2.
 - [Are You Still Riding With Pain?](https://new.dynamiccyclist.com/stretching); stratching for cyclists to compansate
   for the cycling posture
+
