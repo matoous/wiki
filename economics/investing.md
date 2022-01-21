@@ -18,6 +18,7 @@ To get up to speed and learn the basics of sane and mindful investing the best s
 - **Exchange Traded Fund (ETF)** - ETF is an investment fund that explicitly tracks an index, commodity, sector, or an asset. Investors can buy and sell ETFs just like normal stocks – which makes them easy to invest in. ETFs usually track basket of commodities and have low expense ratio.
 - **Index** - is a hypothetical portfolio of investment holdings that represents a segment of the financial market. The index value is mostly based on the prices of underlying holdings but can also depend on revenue-weighting, fundamental-weighting, etc. Weighting is used to adjust impact of individual assets on the index value.
 - [**Efficient Frontier**](https://en.wikipedia.org/wiki/Efficient_frontier), also [here](https://www.investopedia.com/terms/e/efficientfrontier.asp#:~:text=The%20efficient%20frontier%20is%20the,for%20the%20level%20of%20risk.)
+- [**Dollar Cost Averaging**](https://en.wikipedia.org/wiki/Dollar_cost_averaging) is an investment strategy that aims to reduce the impact of volatility on large purchases of financial assets such as equities by dividing the total sum to be invested in the market (e.g., $100,000) into equal amounts put into the market at regular intervals (e.g., $2,000 per week over 50 weeks).
 
 ## Resources
 
