@@ -64,4 +64,5 @@
 - [software deploys and cognitive biases](https://charity.wtf/2021/08/27/software-deploys-and-cognitive-biases/)
 - [A conversation about how to enable high-velocity DevOps culture at your organization](https://stackoverflow.blog/2021/12/13/a-conversation-about-how-to-enable-high-velocity-devops-culture-at-your-organization/)
 - [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - better foundational knowledge of DevOps in 90 short lessons
+- [State of DevOps 2021](https://services.google.com/fh/files/misc/state-of-devops-2021.pdf)
 

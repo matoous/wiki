@@ -103,6 +103,7 @@
 - [How Crypto Derivatives Exchanges Prevent Bankruptcy](https://www.machow.ski/posts/how-crypto-derivatives-exchanges-prevent-bankruptcy/)
 - [A Beginners Guide to Crypto Derivatives](https://www.machow.ski/posts/a-beginners-guide-to-crypto-derivatives/)
 - [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives)
+- [Design for a CoinSwap Implementation for Massively Improving Bitcoin Privacy and Fungibility](https://gist.github.com/chris-belcher/9144bd57a91c194e332fb5ca371d0964)
 
 ## Articles
 
