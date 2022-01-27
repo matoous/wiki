@@ -4,19 +4,6 @@
 
 - [YAGNI](https://wiki.c2.com/?YouArentGonnaNeedIt) - You Aren't Gonna Need It
 
-## Learning materials
-
-* [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/#org71f231a)
-* [cs-books/influential-cs-books](https://github.com/cs-books/influential-cs-books#readme)
-* [ossu/computer-science](https://github.com/ossu/computer-science#readme)
-* [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-* [yngz/cs-roadmap](https://github.com/yngz/cs-roadmap#readme)
-* [Curated Self Study Guide for Computer Science and DevOps/SRE/SysAdmin](https://sharjeelsayed.github.io/selfupgradeitprof.txt)
-* [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
-* [Foundational knowledge for programmers](https://github.com/err0r500/foundational-knowledge-for-programmers)
-* [Mathematics and computer science](notion://www.notion.so/matousdz/cr.yp.to/djb.html) _by D. J. Bernstein_
-* [Computer Sciencewithout a computer](https://csunplugged.org/en/)
-
 ## Books
 
 * [Computer Science Readings](https://github.com/erikgrinaker/readings)
@@ -30,6 +17,17 @@
 
 ## Resources
 
+- [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)
+- [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/#org71f231a)
+- [cs-books/influential-cs-books](https://github.com/cs-books/influential-cs-books#readme)
+- [ossu/computer-science](https://github.com/ossu/computer-science#readme)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [yngz/cs-roadmap](https://github.com/yngz/cs-roadmap#readme)
+- [Curated Self Study Guide for Computer Science and DevOps/SRE/SysAdmin](https://sharjeelsayed.github.io/selfupgradeitprof.txt)
+- [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
+- [Foundational knowledge for programmers](https://github.com/err0r500/foundational-knowledge-for-programmers)
+- [Mathematics and computer science](notion://www.notion.so/matousdz/cr.yp.to/djb.html) _by D. J. Bernstein_
+- [Computer Sciencewithout a computer](https://csunplugged.org/en/)
 - [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)
 - [More challenging projects every programmer should try](https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html)
 - [base cs](https://medium.com/basecs) - *Exploring the basics of computer science, every Monday, for a year.*

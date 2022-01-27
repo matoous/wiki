@@ -8,6 +8,7 @@
 
 - [TinyGo](https://github.com/tinygo-org/tinygo) - Go compiler for small places
 - [Zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
+- [Charm](https://github.com/charmbracelet/charm) - Set of tools for terminal-based applications; key-value store, cloud based file storage, encryption, and auth - all made super easy.
 
 ## Tools
 

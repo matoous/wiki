@@ -26,7 +26,8 @@
 - [Against Economics (2019)](https://www.nybooks.com/articles/2019/12/05/against-economics/)
 - [Money creation in the modern economy (2014)](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf?la=en)
 - [Negative Interest Rates Are Going to Ruin Everything (2020)](https://prestonbyrne.com/2020/01/10/nirp-is-going-to-ruin-everything/) ([Tweet](https://twitter.com/paulg/status/1216031124327141378)) ([HN](https://news.ycombinator.com/item?id=22024200))
-- [The Economy online book](https://core-econ.org/the-economy/book/text/0-3-contents.html)
+- [core-econ](https://www.core-econ.org/); free online textbooks and resources for teaching and learning economics
+  - [The Economy online book](https://core-econ.org/the-economy/book/text/0-3-contents.html)
 - [CORE](https://www.core-econ.org/) - Economics for a changing world.
 - [Economic Research at the St. Louis Fed](https://research.stlouisfed.org/about.html) - Expand the frontier of economic knowledge by producing high-quality original research in the areas of macroeconomics, money and banking, and applied microeconomics.
 - [Ask HN: What are you reading to make sense of the economy? (2020)](https://news.ycombinator.com/item?id=22861452)
@@ -95,5 +96,7 @@
 - [How The Economic Machine Works by Ray Dalio (video)](https://www.youtube.com/watch?v=PHe0bXAIuk0)
 - [Money creation in the modern economy](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf)
   - Majority of money in the modern economy is created by commercial banks making loans
-- [Evidence from leaked account data on how elites use offshore banking [pdf]](https://www.brookings.edu/wp-content/uploads/2021/05/What-lies-beneath_Collin.pdf)
+- [Evidence from leaked account data on how elites use offshore banking (pdf)](https://www.brookings.edu/wp-content/uploads/2021/05/What-lies-beneath_Collin.pdf)
+- [A Nobel Prize for the Credibility Revolution](https://marginalrevolution.com/marginalrevolution/2021/10/the-credibility-revolution-1.html)
+- [MIT 14.01 Principles of Microeconomics, Fall 2018 (youtube channel)](https://www.youtube.com/playlist?list=PLUl4u3cNGP62oJSoqb4Rf-vZMGUBe59G-)
 

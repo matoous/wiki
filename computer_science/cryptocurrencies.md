@@ -99,11 +99,12 @@
 - [The Case Against Crypto](https://www.watershed.co.uk/studio/news/2021/12/03/case-against-crypto)
 - [Optimal Routing for Constant Function Market Makers](https://stanford.edu/~guillean/papers/cfmm-routing.pdf)
 - [Compendium](https://github.com/sambacha/compendium) - The Greatest Collection of anything related to finance and crypto. (now with zip releases)
-- [An Introduction to Automated Market Makers](https://www.machow.ski/posts/an_introduction_to_automated_market_makers/)
+- ⭐[An Introduction to Automated Market Makers](https://www.machow.ski/posts/an_introduction_to_automated_market_makers/)
 - [How Crypto Derivatives Exchanges Prevent Bankruptcy](https://www.machow.ski/posts/how-crypto-derivatives-exchanges-prevent-bankruptcy/)
 - [A Beginners Guide to Crypto Derivatives](https://www.machow.ski/posts/a-beginners-guide-to-crypto-derivatives/)
 - [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives)
 - [Design for a CoinSwap Implementation for Massively Improving Bitcoin Privacy and Fungibility](https://gist.github.com/chris-belcher/9144bd57a91c194e332fb5ca371d0964)
+- [Stellar](https://www.stellar.org/) - open network for storing and moving money
 
 ## Articles
 
@@ -124,4 +125,6 @@
 ## Libraries
 
 - [Ethers.js](https://docs.ethers.io/v5/)
+- [michaelgrosner/tribeca](https://github.com/michaelgrosner/tribeca) - market making bot written in Javascript
+- [stellar/kelp](https://github.com/stellar/kelp) - market making bot for Stellar DEX and centralized exchanges
 

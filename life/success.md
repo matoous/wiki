@@ -13,4 +13,7 @@
   - what to work on, some project ideas and where to look for more
   - how to work on the thing you decide to build
   - and general advices about work, life, and success in general
+- [How to Get Rich (without getting lucky)](https://twitter.com/naval/status/1002103360646823936?lang=en)
+  - seek wealth, not money or status; wealth is having assets that earn while you sleep, money is how we transfer time and wealth
+  - all the returns in life, whether in wealth, relationships, or knowledge, come from compound interest.
 
