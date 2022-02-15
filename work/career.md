@@ -3,6 +3,7 @@
 ## Resources
 
 - [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
+- [Interview Questions to Ask Your Interviewer](https://daveceddia.com/interview-questions-to-ask-company/)
 
 ## Senior Engineer
 

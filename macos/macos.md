@@ -41,4 +41,5 @@ the [Apps](apps.md) I use, and [Tools](tools.md) that make be blaze through the 
 - [Use Touch ID for sudo on Mac](https://davidwalsh.name/touch-sudo) [(HN)](https://news.ycombinator.com/item?id=26302139)
 - [macOS app in plain C](https://github.com/jimon/osx_app_in_plain_c)
 - [The Mac that saved Apple](https://sixcolors.com/post/2020/12/20-macs-for-2020-1-imac-g3/) ([HN](https://news.ycombinator.com/item?id=25566642))
+- [macOS Setup after 15 Years of Linux](https://hookrace.net/blog/macos-setup/)
 

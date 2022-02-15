@@ -105,4 +105,5 @@
 - [We’re Hurtling Toward Global Suicide (2021)](https://newrepublic.com/article/161575/climate-change-effects-hurtling-toward-global-suicide)
 - [The ancient Persian way to keep cool](https://www.bbc.com/future/article/20210810-the-ancient-persian-way-to-keep-cool)
 - [Migration and Climate Change - IPCC](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiB3LqAxL71AhWgSfEDHRhxAW0QFnoECAQQAw&url=https%3A%2F%2Fwww.ipcc.ch%2Fapps%2Fnjlite%2Fsrex%2Fnjlite_download.php%3Fid%3D5866&usg=AOvVaw0fkNew5DKuhr0oV_u8pHMT)
+- [Why did renewables become so cheap so fast?](https://ourworldindata.org/cheap-renewables-growth)
 

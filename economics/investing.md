@@ -50,6 +50,8 @@ To get up to speed and learn the basics of sane and mindful investing the best s
   - "Any investment other than a risk-free investment or very safe index-fund based portfolio will be higher variance.
     In order to accept that higher variance you must either have a defensible explanation for why it is higher EV, or you must have a reason why variance will help you.
     If you don’t, stick to safe investments."
+- [Openinsider](http://openinsider.com/) - information on insider trading and cluster buys
+- [Tikr](https://tikr.com/) - free terminal for investment analyzis
 
 ## Places to invest at
 

@@ -40,3 +40,7 @@
 - [How to lower the price of plant-based meat](https://us14.campaign-archive.com/?u=66df320da8400b581cbc1b539&id=cea38367f1) ([HN](https://news.ycombinator.com/item?id=26049111))
 - [Vegan Bootcamp](https://veganbootcamp.org/) - Going vegan has never been easier.
 - [Plant-based diet would reduce agricultural land use from 4 to 1B hectares (2021)](https://ourworldindata.org/land-use-diets) ([HN](https://news.ycombinator.com/item?id=26342343))
+- [On Veganism](https://www.aliciakennedy.news/p/on-veganism)
+- [How Do You Convince People to Eat Less Meat?](https://newrepublic.com/article/163079/convince-people-eat-less-meat)
+  > Steaks, in other words, are the SUVs of meat: expensive, unnecessary, environmentally noxious status symbols that do far more harm than good.
+

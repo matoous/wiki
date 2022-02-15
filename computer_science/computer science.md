@@ -14,6 +14,7 @@
 ## Services
 
 - [Koyeb](https://www.koyeb.com)
+- [AsciiFlow](https://asciiflow.com/#/) - ASCII art for semantic code commenting
 
 ## Resources
 
@@ -42,4 +43,5 @@
   - search for timeframe: `before:2020 after:2016`
   - also: [Google Search Operators: The Complete List (42 Advanced Operators)](https://ahrefs.com/blog/google-advanced-search-operators/)
 - [keybr.com](https://www.keybr.com/) - leatn to type faster
+- [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/)
 

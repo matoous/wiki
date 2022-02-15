@@ -18,6 +18,7 @@
 - [More challenging projects every programmer should try](https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html)
   - Ray tracing, Key-Value store, Web browser, Stock trading bot
 - [What I learned from Software Engineering at Google](https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/)
+- [Awesome Functional Programming](https://github.com/xgrommx/awesome-functional-programming)
 
 
 ## Code sharing

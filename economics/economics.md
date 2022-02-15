@@ -99,4 +99,9 @@
 - [Evidence from leaked account data on how elites use offshore banking (pdf)](https://www.brookings.edu/wp-content/uploads/2021/05/What-lies-beneath_Collin.pdf)
 - [A Nobel Prize for the Credibility Revolution](https://marginalrevolution.com/marginalrevolution/2021/10/the-credibility-revolution-1.html)
 - [MIT 14.01 Principles of Microeconomics, Fall 2018 (youtube channel)](https://www.youtube.com/playlist?list=PLUl4u3cNGP62oJSoqb4Rf-vZMGUBe59G-)
+- [The Factorio Mindset](https://www.thediff.co/p/the-factorio-mindset)
+- [How a field fixes itself: the applied turn in economics](https://www.newthingsunderthesun.com/pub/0f51xsb5/release/7)
 
+## Articles
+
+- [The worldly turn](https://aeon.co/essays/economics-is-once-again-becoming-a-worldly-science) - After generations of ‘blackboard economics’, Berkeley and MIT are leading a return to economics that studies the real world

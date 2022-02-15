@@ -111,6 +111,7 @@
 - [An Anatomy of Bitcoin Price Manipulation](https://www.singlelunch.com/2022/01/09/an-anatomy-of-bitcoin-price-manipulation/) by _Matt Ranger_; very long article
   analysing the July 26th Bitcoin short squeeze.
 - [Binance Spoofy Bots Cause Mass Liquidations](https://www.coalexander.com/post/binance-spoofy-bots-and-liquidations)
+- [White Hat Hacker Awarded $2 Million for Fixing ETH-Creation Bug](https://cryptoadventure.com/white-hat-hacker-awarded-2-million-for-fixing-eth-creation-bug/)
 
 ## People
 
