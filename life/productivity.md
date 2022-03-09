@@ -26,6 +26,7 @@
   2. pattern-match to identify your mind’s most common modes.
   3. learn to pick activities that match each mode.
 - [Procrastinatory Doom Loops](https://brennancolberg.com/blog/procrastinatory-doom-loops)
+- [Managing Yourself](https://m.subbu.org/managing-yourself-3c2fb748d70c)
 
 ## Books
 

@@ -6,6 +6,7 @@
 
 ## Resources
 
+- [What is Developer Experience? a roundup of links and goodness](https://redmonk.com/jgovernor/2022/02/21/what-is-developer-experience-a-roundup-of-links-and-goodness/)
 - [Long Names Are Long](https://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/) - how to name variables
   - Omit words that are obvious given a variable’s or parameter’s type: `weekDaysList` vs. `weekDays`
   - Omit words that don’t disambiguate the name: `finalBattleMostDangerousBossMonster` vs. `boss`
@@ -19,7 +20,6 @@
   - Ray tracing, Key-Value store, Web browser, Stock trading bot
 - [What I learned from Software Engineering at Google](https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/)
 - [Awesome Functional Programming](https://github.com/xgrommx/awesome-functional-programming)
-
 
 ## Code sharing
 
