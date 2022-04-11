@@ -9,6 +9,7 @@
 - [How Dwarf Fortress is built](https://stackoverflow.blog/2021/07/28/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/) - Q&A with Tarn Adams,
   the sole developer of the Dwarf Fortress
 - [What Went Wrong?](https://queue.acm.org/detail.cfm?id=3475967) - why we need IT accident investigation board the same way have investigation boards for aviatonic disasters
+- [The Next Google](https://dkb.io/post/the-next-google) - breakdown of lesser known Google alternatives
 
 ## Articles
 

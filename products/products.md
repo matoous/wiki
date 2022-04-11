@@ -24,4 +24,5 @@
 - [Things I recommend you buy and use, Rob edition](https://medium.com/@robertwiblin/things-i-recommend-you-buy-and-use-rob-edition-1d7b2ce27d68) by Robert Wiblin, notably:
   - PitROK Crystal deodorant
   - 
+- [Why is it so hard to buy things that work well?](https://danluu.com/nothing-works/)
 

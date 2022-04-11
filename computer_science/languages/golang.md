@@ -43,4 +43,6 @@
 - [Wrapping Errors the Right Way](https://errnil.substack.com/p/wrapping-errors-the-right-way)
 - [`netaddr.IP`](https://tailscale.com/blog/netaddr-new-ip-type-for-go/)
 - [Go is about to go a whole lot faster](https://dominictobias.medium.com/go-is-about-to-get-a-whole-lot-faster-a50c1e7d60b9)
+- [Get familiar with workspaces](https://go.dev/blog/get-familiar-with-workspaces)
+- [Golang: simple optimization notes](https://medium.com/scum-gazeta/golang-simple-optimization-notes-70bc64673980)
 

@@ -6,6 +6,12 @@
 - [Interview Questions to Ask Your Interviewer](https://daveceddia.com/interview-questions-to-ask-company/)
 - [Finding your leadership style](https://sallylait.com/blog/2022/01/25/finding-your-leadership-style/)
 - [Managing people 🤯](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
+- [Help Your Teammates Navigate Moments of Self-doubt](https://larahogan.me/blog/help-your-teammates-navigate-self-doubt/)
+- [How To Criticize Coworkers](https://alexturek.com/2022-03-18-How-to-criticize-coworkers/)
+- [My guiding principles after 20 years of programming](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)
+- [Levels of Technical Leadership](https://dr-knz.net/levels-of-technical-leadership.html)
+- [Tech Dept](https://martinfowler.com/articles/bottlenecks-of-scaleups/01-tech-debt.html)
+- [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
 
 ## Senior Engineer
 
@@ -16,6 +22,8 @@
 
 - [Staff Engineer: Leadership beyond the management track by Will Larson](https://staffeng.com/book) (book)
 - [StaffEng](https://staffeng.com/)
+- [6 ways staff engineers help reach clarity](https://medium.com/volvo-cars-engineering/6-ways-staff-engineers-help-reach-clarity-963c1878accb)
+- [Staff Engineering at Carta](https://medium.com/building-carta/staff-engineering-at-carta-526b154fd317)
 
 ## Engineering Manager
 
