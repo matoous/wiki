@@ -34,3 +34,11 @@
 - [From Engineer to Tech Lead - Doubts and Challenges](https://dev.to/dvddpl/from-engineer-to-tech-lead-doubts-and-challenges-4n9e)
 - [The 25 Micro-Habits of High-Impact Managers](https://review.firstround.com/the-25-micro-habits-of-high-impact-managers)
 
+## Hiring
+
+- [How to Freaking Find Great Developers By Having Them Read Code](https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/#comments)
+
+## Other
+
+- [Motivating Developers to Care About Documentation](https://getdx.com/best-practices/documentation-culture-engineering)
+- [10 Tips for Running Engineering Meetings on Zoom](https://medium.com/@vineelshah/10-tips-for-running-engineering-meetings-on-zoom-e52173ce6801)

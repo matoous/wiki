@@ -27,4 +27,5 @@
 - [Minimum Viable Self](https://kneelingbus.substack.com/p/162-minimum-viable-self) - "Seen from a distance, (other people’s) existence seems to possess a coherence and a unity which they cannot have, in reality, but which seems evident to the spectator."
 - [In praise of habits – so much more than mindless reflexes](https://psyche.co/ideas/in-praise-of-habits-so-much-more-than-mindless-reflexes)
 - [What's the fastest way you've seen someone fuck up their life?](https://www.reddit.com/r/AskReddit/comments/7hy4fx/whats_the_fastest_way_youve_seen_someone_fuck_up/dqvcf4h/) - brain injuries are terrifying
+- [How Covid Stole Our Time and How We Can Get It Back](https://web.archive.org/web/20220422022130/https://www.nytimes.com/2022/02/25/opinion/covid-pandemic-depressing-math.html)
 

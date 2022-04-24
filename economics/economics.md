@@ -9,6 +9,8 @@
 
 ## Links
 
+- [A Simple Explanation of How Money Moves Around the Banking System](https://gendal.me/2013/11/24/a-simple-explanation-of-how-money-moves-around-the-banking-system/)
+  - depositing money = lending money to the bank, i.e. the account is in credit
 - [EconDB](https://www.econdb.com/main-indicators/) - Economic overviews of countries.
 - [Global Capitalism: A Looming Economic Crisis](https://www.youtube.com/watch?v=5hYKgyUU024)
 - [Best Economics Books: 49 Books To Really Understand Economics * Filmmaking Lifestyle](https://filmlifestyle.com/best-economics-books/)
@@ -101,6 +103,7 @@
 - [MIT 14.01 Principles of Microeconomics, Fall 2018 (youtube channel)](https://www.youtube.com/playlist?list=PLUl4u3cNGP62oJSoqb4Rf-vZMGUBe59G-)
 - [The Factorio Mindset](https://www.thediff.co/p/the-factorio-mindset)
 - [How a field fixes itself: the applied turn in economics](https://www.newthingsunderthesun.com/pub/0f51xsb5/release/7)
+- [What is Money, Anyway?](https://www.lynalden.com/what-is-money/)
 
 ## Articles
 

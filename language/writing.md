@@ -14,6 +14,7 @@
 - [Great Memos](https://sriramk.com/memos.html)
 - [Why You Should Start a Blog Right Now](https://guzey.com/personal/why-have-a-blog/)
 - [Writing, Briefly](http://paulgraham.com/writing44.html) - short article, just open it and re-read
+- [Writing for Engineers](https://www.heinrichhartmann.com/posts/writing/)
 
 ## Paper Writing
 

@@ -52,6 +52,7 @@ To get up to speed and learn the basics of sane and mindful investing the best s
     If you don’t, stick to safe investments."
 - [Openinsider](http://openinsider.com/) - information on insider trading and cluster buys
 - [Tikr](https://tikr.com/) - free terminal for investment analyzis
+- [Ten Members Of International Stock Manipulation Ring Charged In Manhattan Federal Court](https://www.justice.gov/usao-sdny/pr/ten-members-international-stock-manipulation-ring-charged-manhattan-federal-court)
 
 ## Places to invest at
 
