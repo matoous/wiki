@@ -128,7 +128,7 @@
   - [Reading](language/reading.md)
 - [Products](products/products.md)
   - [Clothing](products/clothing.md)
-  - [Kitche](products/kitchen.md)
+  - [Kitchen](products/kitchen.md)
   - [Interior](products/interior.md)
   - [Wallpapers & Posters](products/wallpapers.md)
 - [Photography](photography/photography.md)
