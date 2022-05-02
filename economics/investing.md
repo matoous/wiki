@@ -53,6 +53,7 @@ To get up to speed and learn the basics of sane and mindful investing the best s
 - [Openinsider](http://openinsider.com/) - information on insider trading and cluster buys
 - [Tikr](https://tikr.com/) - free terminal for investment analyzis
 - [Ten Members Of International Stock Manipulation Ring Charged In Manhattan Federal Court](https://www.justice.gov/usao-sdny/pr/ten-members-international-stock-manipulation-ring-charged-manhattan-federal-court)
+- [Wall Street was the real winner of the GameStop saga](https://www.economist.com/culture/2022/02/05/wall-street-was-the-real-winner-of-the-gamestop-saga)
 
 ## Places to invest at
 

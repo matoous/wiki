@@ -9,6 +9,10 @@
 
 [5 Quick Hacks for High Converting Landing Pages | Hacker Noon](https://hackernoon.com/5-quick-hacks-for-high-converting-landing-pages-o2b03ye0)
 
+## Services
+
+- [Plausible](https://plausible.io) - privacy-friendly Google Analytics alternative
+
 ## Resources
 
 - [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)

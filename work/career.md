@@ -12,6 +12,7 @@
 - [Levels of Technical Leadership](https://dr-knz.net/levels-of-technical-leadership.html)
 - [Tech Dept](https://martinfowler.com/articles/bottlenecks-of-scaleups/01-tech-debt.html)
 - [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
+- [The unreasonable effectiveness of one-on-ones](https://www.benkuhn.net/11/)
 
 ## Senior Engineer
 

@@ -105,7 +105,9 @@
 - [How a field fixes itself: the applied turn in economics](https://www.newthingsunderthesun.com/pub/0f51xsb5/release/7)
 - [What is Money, Anyway?](https://www.lynalden.com/what-is-money/)
 - [The Art of Monetary War](https://www.nplusonemag.com/online-only/online-only/the-art-of-monetary-war/)
+- [The housing theory of everything](https://www.worksinprogress.co/issue/the-housing-theory-of-everything/)
 
 ## Articles
 
 - [The worldly turn](https://aeon.co/essays/economics-is-once-again-becoming-a-worldly-science) - After generations of ‘blackboard economics’, Berkeley and MIT are leading a return to economics that studies the real world
+- [Imports do not subtract from GDP](https://noahpinion.substack.com/p/imports-do-not-subtract-from-gdp)

@@ -105,6 +105,7 @@
 - [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives)
 - [Design for a CoinSwap Implementation for Massively Improving Bitcoin Privacy and Fungibility](https://gist.github.com/chris-belcher/9144bd57a91c194e332fb5ca371d0964)
 - [Stellar](https://www.stellar.org/) - open network for storing and moving money
+- [How Much Money is Flowing into Crypto?](https://tomtunguz.com/how-much-money-flowing-into-crypto/)
 
 ## Articles
 

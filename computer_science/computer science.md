@@ -44,4 +44,5 @@
   - also: [Google Search Operators: The Complete List (42 Advanced Operators)](https://ahrefs.com/blog/google-advanced-search-operators/)
 - [keybr.com](https://www.keybr.com/) - leatn to type faster
 - [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/)
+- [Nanos](https://github.com/nanovms/nanos/) - A kernel designed to run one and only one application in a virtualized environment
 
