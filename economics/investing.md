@@ -79,4 +79,5 @@ Vanguard has only two accumulative funds (i.e. dividend yield is reinvested) com
 - [ARKX - ARK Space Exploration & Innovation ETF](https://ark-funds.com/arkx)
 - [ARKK - ARK Innovation ETF](https://ark-funds.com/arkk)
 - [ARKG - ARK Genomic Revolution ETF](https://ark-funds.com/arkg)
+- [	Berkshire Hathaway 2021 annual report](https://www.berkshirehathaway.com/2021ar/2021ar.pdf)
 

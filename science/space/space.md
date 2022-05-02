@@ -8,3 +8,7 @@
 
 - [An Infinity of Worlds](https://mitpress.mit.edu/books/infinity-worlds)
 
+## Resources
+
+- [_False vacuum decay_](https://en.wikipedia.org/wiki/False_vacuum_decay)
+

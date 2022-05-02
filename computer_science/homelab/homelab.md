@@ -9,6 +9,7 @@
 
 - [Home Lab Beginners guide - Hardware](https://haydenjames.io/home-lab-beginners-guide-hardware/)
 - [Minimum Viable Kubernetes](https://eevans.co/blog/minimum-viable-kubernetes/)
+- [Using Ansible & Nomad for a homelab (part 1)](https://blog.aleksic.dev/using-ansible-and-nomad-for-a-homelab-part-1)
 
 ## Inspiration
 

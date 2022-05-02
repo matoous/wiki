@@ -104,6 +104,7 @@
 - [The Factorio Mindset](https://www.thediff.co/p/the-factorio-mindset)
 - [How a field fixes itself: the applied turn in economics](https://www.newthingsunderthesun.com/pub/0f51xsb5/release/7)
 - [What is Money, Anyway?](https://www.lynalden.com/what-is-money/)
+- [The Art of Monetary War](https://www.nplusonemag.com/online-only/online-only/the-art-of-monetary-war/)
 
 ## Articles
 

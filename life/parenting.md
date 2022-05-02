@@ -8,6 +8,7 @@
 - [Genetic Russian Roulette](https://slatestarcodex.com/2013/11/19/genetic-russian-roulette/) by Scott Alexander
 - [Childlessness](https://www.gurus.org/doug-muder/articles/childlessness/)
 - [The UX on this Small Child is Terrible](https://www.mcsweeneys.net/articles/the-ux-on-this-small-child-is-terrible) ([HN](https://news.ycombinator.com/item?id=29798712))
+- [Reasons why Babies Cry in the First Three Months, How to Tell The Cries Apart, and What to Do](https://probablydance.com/2022/02/19/reasons-why-babies-cry-in-the-first-three-months-how-to-tell-them-apart-and-what-to-do/)
 
 ## Books
 

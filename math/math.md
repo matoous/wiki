@@ -8,4 +8,6 @@
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)
 - [Open Textbook Initiative](https://aimath.org/textbooks/)
 - [Heuristics That Almost Always Work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work)
+- [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/#introduction)
+  - `{\displaystyle \mathbf {B} (t)=(1-t)^{2}\mathbf {P}_{0} + 2(1-t)t\mathbf {P}_{1} + t^{2}\mathbf {P}_{2},\ 0\leq t\leq 1.}`
 
