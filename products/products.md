@@ -26,3 +26,8 @@
   - 
 - [Why is it so hard to buy things that work well?](https://danluu.com/nothing-works/)
 
+
+## Amenities
+
+- [Thankyou.](https://thankyou.co/categories/thankyou-nurture/amenities)
+
