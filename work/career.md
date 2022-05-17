@@ -34,6 +34,7 @@
   - book recommendations on various topic for new engineering managers
 - [From Engineer to Tech Lead - Doubts and Challenges](https://dev.to/dvddpl/from-engineer-to-tech-lead-doubts-and-challenges-4n9e)
 - [The 25 Micro-Habits of High-Impact Managers](https://review.firstround.com/the-25-micro-habits-of-high-impact-managers)
+- [What you give up when moving into engineering management](https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/)
 
 ## Hiring
 
