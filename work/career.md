@@ -13,6 +13,7 @@
 - [Tech Dept](https://martinfowler.com/articles/bottlenecks-of-scaleups/01-tech-debt.html)
 - [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
 - [The unreasonable effectiveness of one-on-ones](https://www.benkuhn.net/11/)
+- [How Google, Twitter, and Spotify built a culture of documentation](https://medium.com/doctave/how-google-twitter-and-spotify-built-a-culture-of-documentation-47a1ff22911)
 
 ## Senior Engineer
 
@@ -35,6 +36,8 @@
 - [From Engineer to Tech Lead - Doubts and Challenges](https://dev.to/dvddpl/from-engineer-to-tech-lead-doubts-and-challenges-4n9e)
 - [The 25 Micro-Habits of High-Impact Managers](https://review.firstround.com/the-25-micro-habits-of-high-impact-managers)
 - [What you give up when moving into engineering management](https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/)
+- [Developer satisfaction surveys](https://sallylait.com/blog/2022/02/20/developer-satisfaction-surveys/)
+- [35 Impactful Questions Managers Should Ask Themselves Regularly](https://review.firstround.com/35-impactful-questions-managers-should-ask-themselves-regularly)
 
 ## Hiring
 
