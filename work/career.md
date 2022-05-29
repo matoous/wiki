@@ -14,6 +14,7 @@
 - [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
 - [The unreasonable effectiveness of one-on-ones](https://www.benkuhn.net/11/)
 - [How Google, Twitter, and Spotify built a culture of documentation](https://medium.com/doctave/how-google-twitter-and-spotify-built-a-culture-of-documentation-47a1ff22911)
+- [Prioritization as a Superpower](https://nbt.substack.com/p/prioritization-as-a-superpower)
 
 ## Senior Engineer
 
@@ -38,6 +39,8 @@
 - [What you give up when moving into engineering management](https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/)
 - [Developer satisfaction surveys](https://sallylait.com/blog/2022/02/20/developer-satisfaction-surveys/)
 - [35 Impactful Questions Managers Should Ask Themselves Regularly](https://review.firstround.com/35-impactful-questions-managers-should-ask-themselves-regularly)
+- [The Ultimate Guide to Onboarding Software Engineers](https://leadership.garden/onboarding-engineers/)
+- [11 Principles of Engineering Management](https://acjay.com/2022/03/11/11-principles-of-engineering-management/)
 
 ## Hiring
 

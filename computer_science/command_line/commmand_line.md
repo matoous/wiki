@@ -60,4 +60,5 @@ Programs and tools provide many features that can speed things up but first one 
 - [frawk](https://github.com/ezrosent/frawk) - JITted and SIMD-optimized AWK written in Rust. ([Lobsters](https://lobste.rs/s/bdzlsu/frawk_jitted_simd_optimized_awk_written))
 - [Linux Terminal Tools](https://ketancmaheshwari.github.io/pdfs/LPT_LISA.pdf)
 - [Pocco81 Dotfiles](https://github.com/Pocco81/TheSupercalifragilisticexpialidociousDots)
+- [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner)
 

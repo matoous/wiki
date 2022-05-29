@@ -5,4 +5,7 @@
 - [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) - Screensaver inspired by Apple's Event on October 30, 2018.
 - [Supernotes](https://supernotes.app/)
 - [Standardnotes](https://standardnotes.com)
+- [Zotero](https://www.zotero.org) personal research asistant
+- [Miniflux](Miniflux) minimalistic opinionated feed reader
+- [Standard Notes](https://standardnotes.com) personal knowladge base
 

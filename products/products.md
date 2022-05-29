@@ -25,9 +25,11 @@
   - PitROK Crystal deodorant
   - 
 - [Why is it so hard to buy things that work well?](https://danluu.com/nothing-works/)
+- [Mechanical Watch](https://ciechanow.ski/mechanical-watch/)
 
 
 ## Amenities
 
 - [Thankyou.](https://thankyou.co/categories/thankyou-nurture/amenities)
+
 

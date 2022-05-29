@@ -27,6 +27,7 @@
   3. learn to pick activities that match each mode.
 - [Procrastinatory Doom Loops](https://brennancolberg.com/blog/procrastinatory-doom-loops)
 - [Managing Yourself](https://m.subbu.org/managing-yourself-3c2fb748d70c)
+- [Why do you waste so much time on the internet.](https://zan.bearblog.dev/why-i-waste-time/)
 
 ## Books
 

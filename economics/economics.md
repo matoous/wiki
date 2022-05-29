@@ -106,6 +106,7 @@
 - [What is Money, Anyway?](https://www.lynalden.com/what-is-money/)
 - [The Art of Monetary War](https://www.nplusonemag.com/online-only/online-only/the-art-of-monetary-war/)
 - [The housing theory of everything](https://www.worksinprogress.co/issue/the-housing-theory-of-everything/)
+- [How This Ends (2022)](https://avc.com/2022/05/how-this-ends-2/) [(HN)](https://news.ycombinator.com/item?id=31468303)
 
 ## Articles
 

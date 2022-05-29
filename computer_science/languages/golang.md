@@ -9,6 +9,7 @@
 - [TinyGo](https://github.com/tinygo-org/tinygo) - Go compiler for small places
 - [Zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [Charm](https://github.com/charmbracelet/charm) - Set of tools for terminal-based applications; key-value store, cloud based file storage, encryption, and auth - all made super easy.
+- [Script](https://github.com/bitfield/script) - Utilities for scripting with go
 
 ## Tools
 
@@ -45,4 +46,6 @@
 - [Go is about to go a whole lot faster](https://dominictobias.medium.com/go-is-about-to-get-a-whole-lot-faster-a50c1e7d60b9)
 - [Get familiar with workspaces](https://go.dev/blog/get-familiar-with-workspaces)
 - [Golang: simple optimization notes](https://medium.com/scum-gazeta/golang-simple-optimization-notes-70bc64673980)
+- [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
+- [Functional Options are named args on steroids](https://blog.uptrace.dev/posts/go-functional-options-named-args.html#bool-options)
 
