@@ -45,4 +45,5 @@
 - [keybr.com](https://www.keybr.com/) - leatn to type faster
 - [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/)
 - [Nanos](https://github.com/nanovms/nanos/) - A kernel designed to run one and only one application in a virtualized environment
+- [System Design Resources](https://github.com/InterviewReady/system-design-resources)
 

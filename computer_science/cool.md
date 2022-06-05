@@ -11,6 +11,7 @@
 - [What Went Wrong?](https://queue.acm.org/detail.cfm?id=3475967) - why we need IT accident investigation board the same way have investigation boards for aviatonic disasters
 - [The Next Google](https://dkb.io/post/the-next-google) - breakdown of lesser known Google alternatives
 - [Ergo](https://cloud.ergo.services/) - framework for cloud services
+- [Emojiclipboard](https://emojiclipboard.com/) - search emojis by topics (e.g. "Harry Potter")
 
 ## Articles
 

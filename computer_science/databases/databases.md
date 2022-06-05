@@ -11,4 +11,5 @@
   - _branching_ - branch is created from the `main` database schema, allows changes and can be later merged into `main`
   - _non-blocking schema changes_ - DB schema can be changed without downtime or locking
 - [Hosting SQLite databases on Github Pages](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
+- [Dragonfly](https://github.com/dragonflydb/dragonfly) - Redis alternative
 

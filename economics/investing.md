@@ -54,6 +54,9 @@ To get up to speed and learn the basics of sane and mindful investing the best s
 - [Tikr](https://tikr.com/) - free terminal for investment analyzis
 - [Ten Members Of International Stock Manipulation Ring Charged In Manhattan Federal Court](https://www.justice.gov/usao-sdny/pr/ten-members-international-stock-manipulation-ring-charged-manhattan-federal-court)
 - [Wall Street was the real winner of the GameStop saga](https://www.economist.com/culture/2022/02/05/wall-street-was-the-real-winner-of-the-gamestop-saga)
+- [When Buying the Dip Doesn’t Work: An Analysis of the Dot-com Crash](https://endlessmetrics.substack.com/p/when-buying-the-dip-doesnt-work-an)
+- [Berkshire Hathaway 2021 annual report](https://www.berkshirehathaway.com/2021ar/2021ar.pdf)
+- [Tech bubbles are bursting all over the place](https://archive.is/qziMw)
 
 ## Places to invest at
 
@@ -68,17 +71,4 @@ To get up to speed and learn the basics of sane and mindful investing the best s
 
 Vanguard has only two accumulative funds (i.e. dividend yield is reinvested) compared to iShares. Accumulative funds are better for tax optimization.
 
-## Resources
-
-- [Vanguard ETFs](https://investor.vanguard.com/etf/list#/etf/asset-class/month-end-returns)
-- [iShares ETFs](https://www.ishares.com/us/products/etf-investments)
-- [IWDA - iShares Core MSCI World UCITS ETF USD (Acc)](https://markets.ft.com/data/etfs/tearsheet/performance?s=IWDA:AEX:EUR)
-- [VWRL - Vanguard FTSE All-World UCITS ETF](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing)
-- [VUSA - Vanguard S&P 500 UCITS ETF](https://www.vanguardinvestor.co.uk/investments/vanguard-s-and-p-500-ucits-etf-usd-distributing)
-- [VAPX - Vanguard FTSE Developed Asia Pacific ex Japan Index](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-developed-asia-pacific-ex-japan-ucits-etf-usd-distributing)
-- [iShares Robotics and Artificial Intelligence Multisector ETF](https://www.ishares.com/us/products/297905/ishares-robotics-and-artificial-intelligence-multisector-etf)
-- [ARKX - ARK Space Exploration & Innovation ETF](https://ark-funds.com/arkx)
-- [ARKK - ARK Innovation ETF](https://ark-funds.com/arkk)
-- [ARKG - ARK Genomic Revolution ETF](https://ark-funds.com/arkg)
-- [	Berkshire Hathaway 2021 annual report](https://www.berkshirehathaway.com/2021ar/2021ar.pdf)
 
