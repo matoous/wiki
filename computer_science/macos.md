@@ -1,10 +1,17 @@
-# macOS
-
-My world of MacOS! Here you will find the overall [setup](setup.md) of macOS dvelopment environment,
-the [Apps](apps.md) I use, and [Tools](tools.md) that make be blaze through the command line 
+# MacOS
 
 ## Resources
 
+- [msanders/setup](https://github.com/msanders/setup)
+- [Mathias Bynens' Sensible macOS Defaults](https://github.com/mathiasbynens/dotfiles/blob/master/.macos) - [(HN)](https://news.ycombinator.com/item?id=26513528)
+- [github.com/sb2nov/mac-setup](https://sourabhbajaj.com/mac-setup/)
+- [macOS Setup Guide](https://sourabhbajaj.com/mac-setup/) ([Code](https://github.com/sb2nov/mac-setup))
+- [Zero.sh](https://github.com/zero-sh/zero.sh) - Radically simple personal bootstrapping tool for macOS.
+- [github.com/nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os)
+- [ddelange/new-mac-setup](https://github.com/ddelange/new-mac-setup)
+- [October 30 Screen Saver](https://github.com/lekevicius/october30)
+- [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
+- [kabouzeid/dotfiles](https://github.com/kabouzeid/dotfiles)
 - [A Pro’s Guide to the Best Secret Mac Features](https://matthewpalmer.net/blog/2018/04/14/ultimate-pro-guide-best-secret-mac-features/index.html)
 - [macOS open source](https://opensource.apple.com/)
 - [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins)
@@ -42,4 +49,5 @@ the [Apps](apps.md) I use, and [Tools](tools.md) that make be blaze through the 
 - [macOS app in plain C](https://github.com/jimon/osx_app_in_plain_c)
 - [The Mac that saved Apple](https://sixcolors.com/post/2020/12/20-macs-for-2020-1-imac-g3/) ([HN](https://news.ycombinator.com/item?id=25566642))
 - [macOS Setup after 15 Years of Linux](https://hookrace.net/blog/macos-setup/)
+
 
