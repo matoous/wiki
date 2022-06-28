@@ -10,4 +10,5 @@
 - [Zotero](https://www.zotero.org) personal research asistant
 - [Miniflux](Miniflux) minimalistic opinionated feed reader
 - [Standard Notes](https://standardnotes.com) personal knowladge base
+- [AppFlow](https://www.appflowy.io/) - opensource alternative to notion, written in rust
 

@@ -17,6 +17,7 @@
 - [xo](https://github.com/xo/xo) - Command-line tool to generate Go code based on a database schema or a custom query.
 - [pprof++: A Go Profiler with Hardware Performance Monitoring](https://eng.uber.com/pprof-go-profiler/)
 - [rf](https://pkg.go.dev/rsc.io/rf) - experimental refactoring tool
+- [Colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup 
 
 ## Resources
 

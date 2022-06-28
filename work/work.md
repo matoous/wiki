@@ -9,3 +9,11 @@
 - [How to Work Hard](http://paulgraham.com/hwh.html)
 - [Delegation is an art, not a science](https://larahogan.me/blog/delegation-is-an-art/)
 
+## Engineering
+
+- [The Grug Brained Developer](https://grugbrain.dev) - _A layman's guide to thinking like the self-aware smol brained_
+- [Practical Guide to Solving Hard Problems](https://praeclarum.org/2022/02/19/hard-problems.html)
+
+## Soft Skills
+
+- [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/)

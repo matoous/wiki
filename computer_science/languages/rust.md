@@ -27,4 +27,7 @@
 ## Projects
 
 - [erikgrinakerj/jtoydb](https://github.com/erikgrinaker/toydb)
+- [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+- [wasmer](https://github.com/wasmerio/wasmer)
+- [anki](https://github.com/ankitects/anki) - spaced repetition cards GUI
 
