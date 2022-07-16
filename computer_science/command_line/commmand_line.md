@@ -80,4 +80,13 @@ Programs and tools provide many features that can speed things up but first one 
 - [Linux Terminal Tools](https://ketancmaheshwari.github.io/pdfs/LPT_LISA.pdf)
 - [Pocco81 Dotfiles](https://github.com/Pocco81/TheSupercalifragilisticexpialidociousDots)
 - [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner)
+- [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services)
+- [ifconfig.co](https://ifconfig.co) - get IP address, geo location, and more. Can be easily called from command line.
+- [The only Linux command you need to know - `cheat`](https://opensource.com/article/22/6/linux-cheat-command)
+- [UX patterns for CLI tools](https://lucasfcosta.com/2022/06/01/ux-patterns-cli-tools.html)
+  - input validation
+  - interactive mode
+  - human understandable errors
+  - colors, emojis, and layout
+  - loading indicators
 

@@ -26,10 +26,9 @@
   - 
 - [Why is it so hard to buy things that work well?](https://danluu.com/nothing-works/)
 - [Mechanical Watch](https://ciechanow.ski/mechanical-watch/)
-
+- [My 40-liter backpack travel guide](https://vitalik.ca/general/2022/06/20/backpack.html)
 
 ## Amenities
 
 - [Thankyou.](https://thankyou.co/categories/thankyou-nurture/amenities)
-
 

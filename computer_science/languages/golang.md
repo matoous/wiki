@@ -49,4 +49,7 @@
 - [Golang: simple optimization notes](https://medium.com/scum-gazeta/golang-simple-optimization-notes-70bc64673980)
 - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 - [Functional Options are named args on steroids](https://blog.uptrace.dev/posts/go-functional-options-named-args.html#bool-options)
+- [Package names](https://go.dev/blog/package-names)
+- [Style guideline for Go packages](https://rakyll.org/style-packages/)
+- [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/)
 

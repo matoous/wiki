@@ -29,4 +29,21 @@
 - [What's the fastest way you've seen someone fuck up their life?](https://www.reddit.com/r/AskReddit/comments/7hy4fx/whats_the_fastest_way_youve_seen_someone_fuck_up/dqvcf4h/) - brain injuries are terrifying
 - [How Covid Stole Our Time and How We Can Get It Back](https://web.archive.org/web/20220422022130/https://www.nytimes.com/2022/02/25/opinion/covid-pandemic-depressing-math.html)
 - [TWH#37: A Recipe for Self-Improvement](https://hagakure.substack.com/p/twh37-a-recipe-for-self-improvement)
+- [It's worse than you think](https://ckarchive.com/b/75u7h8hkk9g9e) - When you stumble upon a problem, ask yourself "What if this situation is even worse than I thought?".
+  Often the things are not even very hard but impossible. The author argues that realising that the situation is completely hopeless let's you unclench and relax.
+- [Life Is Not Short](https://dkb.show/post/life-is-not-short) - Life is not short, the real issue is that we waste so much of it.
+  We wouldn't let anyone steal our property but we let others steal our time.
 
+  > You should live your life intentionally, instead of having your time stolen from you little by little.
+  > You should organize each day as if it were your last, so that you neither need to long for nor fear the next day.
+  > You should avoid spending time on people and things that don’t really matter to you.
+
+- [Thinking in Bets: How to Make Decisions Like a Poker Player](https://fronterablog.com/thinking-in-bets/)
+- [Things you're allowed to do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
+  - Treat fines like payments
+  - Ignore what’s on the jobs page and directly pitch someone at a company on hiring you
+  - Negotiate for better terms in your job offer - easier than asking for higher salary
+- [How to Get Better](https://markmanson.net/how-to-get-better) - Therapy, journaling, and meditation have all been shown to improve mental health.
+- [What is your time really worth to you?](https://programs.clearerthinking.org/what_is_your_time_really_worth_to_you.html#.YtLHvS8RrfZ) -
+  tool that helps you estimate how much money each hour is worth to you, so that you can make wiser decisions about how to spend that time.
+  - my estimated value of free time is *€39 per hour*

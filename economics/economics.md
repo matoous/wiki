@@ -112,3 +112,4 @@
 
 - [The worldly turn](https://aeon.co/essays/economics-is-once-again-becoming-a-worldly-science) - After generations of ‘blackboard economics’, Berkeley and MIT are leading a return to economics that studies the real world
 - [Imports do not subtract from GDP](https://noahpinion.substack.com/p/imports-do-not-subtract-from-gdp)
+- [Inflation, part 1: On shelter futures](https://jbconsulting.substack.com/p/on-shelter-futures-part-1)

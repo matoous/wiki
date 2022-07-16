@@ -46,4 +46,8 @@
 - [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/)
 - [Nanos](https://github.com/nanovms/nanos/) - A kernel designed to run one and only one application in a virtualized environment
 - [System Design Resources](https://github.com/InterviewReady/system-design-resources)
+- [Fallacies of Distributed Systems](https://architecturenotes.co/fallacies-of-distributed-systems/)
+  - the network is reliable - you need logic for re-transmission
+- [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+- [What does an idle CPU do?](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
 

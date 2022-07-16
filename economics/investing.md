@@ -57,6 +57,8 @@ To get up to speed and learn the basics of sane and mindful investing the best s
 - [When Buying the Dip Doesn’t Work: An Analysis of the Dot-com Crash](https://endlessmetrics.substack.com/p/when-buying-the-dip-doesnt-work-an)
 - [Berkshire Hathaway 2021 annual report](https://www.berkshirehathaway.com/2021ar/2021ar.pdf)
 - [Tech bubbles are bursting all over the place](https://archive.is/qziMw)
+- [Why a small candy company is Warren Buffett’s ‘dream’ investment](https://thehustle.co/how-a-small-candy-company-became-warren-buffetts-dream-investment/) -
+  steady growth and quality over quantity
 
 ## Places to invest at
 

@@ -11,4 +11,6 @@
 - [Miniflux](Miniflux) minimalistic opinionated feed reader
 - [Standard Notes](https://standardnotes.com) personal knowladge base
 - [AppFlow](https://www.appflowy.io/) - opensource alternative to notion, written in rust
+- [Dropbox alternatives](https://brandur.org/fragments/dropbox-alternatives)
+- [Plain text, with lines](https://news.ycombinator.com/item?id=31637910) - plaintext editor that supports drawing
 

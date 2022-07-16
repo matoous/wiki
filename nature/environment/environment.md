@@ -107,4 +107,9 @@
 - [Migration and Climate Change - IPCC](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiB3LqAxL71AhWgSfEDHRhxAW0QFnoECAQQAw&url=https%3A%2F%2Fwww.ipcc.ch%2Fapps%2Fnjlite%2Fsrex%2Fnjlite_download.php%3Fid%3D5866&usg=AOvVaw0fkNew5DKuhr0oV_u8pHMT)
 - [Why did renewables become so cheap so fast?](https://ourworldindata.org/cheap-renewables-growth)
 - [Rising temperatures erode human sleep globally](https://www.cell.com/one-earth/fulltext/S2590-3322(22)00209-3)
+- [The coming food catastrophe](https://www.economist.com/leaders/2022/05/19/the-coming-food-catastrophe) - Russia and Unkrania combined
+  produce 12% of traded calories. The war could have imerse impact on global food system.
+- [Food Security and the Coming Storm](https://www.eurasiagroup.net/live-post/food-security) ([Full report (pdf)](https://www.eurasiagroup.net/files/upload/Eurasia_Group_Food_Security_and_the_Coming_Storm_0523.3.pdf)) -
+  the impact of the Russian-Unkrainian war on the worlwide hunger and poverty.
+- [After millennia of agricultural expansion, the world has passed ‘peak agricultural land’](https://ourworldindata.org/peak-agriculture-land)
 

@@ -17,3 +17,4 @@
 - [Atlantic Dawn: The Ship from Hell](https://britishseafishing.co.uk/atlantic-dawn-the-ship-from-hell/), ([HN](https://news.ycombinator.com/item?id=26748655))
 - [Life Under The Ice](https://lifeundertheice.org/) - Exploratory tour through the microscopic world of Antarctica.
 - [Is Netflix's Seaspiracy film right about fishing damaging oceans?](https://www.bbc.co.uk/news/56660823) - ([HN](https://news.ycombinator.com/item?id=26748592)
+- [Enormous 'rogue waves' can appear out of nowhere. Math is revealing their secrets.](https://www.nationalgeographic.com/science/article/mathematicians-may-soon-be-able-to-predict-enormous-rogue-waves)

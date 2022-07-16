@@ -1,5 +1,11 @@
 # Movies
 
+## Resources
+
+- [A Guide to the Pre-Ghibli Work of Hayao Miyazaki and Isao Takahata](https://www.vulture.com/article/hayao-miyazaki-isao-takahata-before-studio-ghibli-guide.html)
+
+## Favorites
+
 - [Blade Runner 2049](https://www.imdb.com/title/tt1856101/) - by Denis Villeneuve
 - [Sicario](https://www.imdb.com/title/tt3397884/) - by Denis Villeneuve
 - [Interstellar](https://www.imdb.com/title/tt0816692/) - by Christopher Nolan

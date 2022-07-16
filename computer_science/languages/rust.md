@@ -14,8 +14,11 @@
 - [Zero to Production in Rust](Zero to Production in Rust)
 - [Understanding Rust futures by going way too deep](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep)
 - [Why is my Rust build so slow?](https://fasterthanli.me/articles/why-is-my-rust-build-so-slow)
+- [Arc and Mutex in Rust](https://itsallaboutthebit.com/arc-mutex/)
+- [(async) Rust doesn't have to be hard](https://itsallaboutthebit.com/async-simple/)
+- [What is `Box<str>` and how is it different from `String` in Rust?](https://mahdi.blog/rust-box-str-vs-string/)
 
-## Crates
+## Projects
 
 - [Diesel](https://docs.diesel.rs/master/diesel/index.html)
 - [Bevy Game Engine](https://bevyengine.org/)
@@ -23,11 +26,8 @@
 - [Rocket](https://rocket.rs/) - web framework
 - [Actix](https://actix.rs/) - web framework
 - [serde-encrypt](https://github.com/laysakura/serde-encrypt) - encryption & decryption for serde
-
-## Projects
-
+- [Meilisearch](https://github.com/meilisearch/meilisearch) - full-text search engine
 - [erikgrinakerj/jtoydb](https://github.com/erikgrinaker/toydb)
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [wasmer](https://github.com/wasmerio/wasmer)
 - [anki](https://github.com/ankitects/anki) - spaced repetition cards GUI
-

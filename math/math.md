@@ -12,4 +12,13 @@
   - `{\displaystyle \mathbf {B} (t)=(1-t)^{2}\mathbf {P}_{0} + 2(1-t)t\mathbf {P}_{1} + t^{2}\mathbf {P}_{2},\ 0\leq t\leq 1.}`
 - [Manga Guide Series](https://www.ohmsha.co.jp/english/manga.htm)
 - [Measuring Goodhart’s Law](https://openai.com/blog/measuring-goodharts-law/)
-
+- [Self Studying the MIT Applied Math Curriculum](https://www.smallstepcap.com/self-studying-the-mit-applied-math-curriculum/)
+- [MIT Open Course - Mathematics](https://ocw.mit.edu/courses/mathematics/)
+- [The Encyclopedia of Mathematics](https://encyclopediaofmath.org/wiki/Main_Page)
+- [Wikibooks:Mathematics bookshelf](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
+- [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
+- [Free Programming Books - Mathematics](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#mathematics)
+- [Awesome Math](https://github.com/rossant/awesome-math)
+- [Manga Guide Series](https://www.ohmsha.co.jp/english/manga.htm)
+- [Ask HN: How to learn math from zero for adults?](https://news.ycombinator.com/item?id=31539549)
+- [The Animated Elliptic Curve](https://curves.xargs.org)

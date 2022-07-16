@@ -16,4 +16,6 @@
 - [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html)
 - [Infosec Skill Sets](https://www.netmeister.org/blog/infosec-skillsets.html)
 - [How I got an FBI record at age 11 from dabbling in cryptography then got into more trouble](https://web.stanford.edu/~learnest/les/crypto.htm)
+- [I've locked myself out of my digital life](https://shkspr.mobi/blog/2022/06/ive-locked-myself-out-of-my-digital-life/)
+- [SMS phishing is way too easy](https://www.bejarano.io/sms-phishing/)
 

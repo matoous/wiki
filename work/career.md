@@ -41,6 +41,8 @@
 - [35 Impactful Questions Managers Should Ask Themselves Regularly](https://review.firstround.com/35-impactful-questions-managers-should-ask-themselves-regularly)
 - [The Ultimate Guide to Onboarding Software Engineers](https://leadership.garden/onboarding-engineers/)
 - [11 Principles of Engineering Management](https://acjay.com/2022/03/11/11-principles-of-engineering-management/)
+- [Stop Overcomplicating It: The Simple Guidebook to Upping Your Management Game](https://review.firstround.com/stop-overcomplicating-it-the-simple-guidebook-to-upping-your-management-game)
+- [What To Do When Your Feedback Doesn't Land](https://larahogan.me/blog/feedback-doesnt-land/)
 
 ## Hiring
 
@@ -50,3 +52,14 @@
 
 - [Motivating Developers to Care About Documentation](https://getdx.com/best-practices/documentation-culture-engineering)
 - [10 Tips for Running Engineering Meetings on Zoom](https://medium.com/@vineelshah/10-tips-for-running-engineering-meetings-on-zoom-e52173ce6801)
+- [Make haste slowly: quantify economics](https://lucasfcosta.com/2021/03/27/capacity-and-cost-of-delay.html) - how to priortize features
+- [What Is Negative Engineering?](https://future.com/negative-engineering-and-the-art-of-failing-successfully/)
+  > Negative engineering is the time-consuming and sometimes frustrating work that engineers undertake to ensure the success of their primary objectives.
+- [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/amp/)
+  - Proactive with product ideas/opinions
+  - Interest in the business, user behavior and data on this
+  - Curiosity and a keen interest in "why?"
+  - Strong communicators and great relationships with non-engineers
+  - Offering product/engineering tradeoffs upfront
+  - Quick product validation cycles
+  - End-to-end product feature ownership

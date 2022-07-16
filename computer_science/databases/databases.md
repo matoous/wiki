@@ -1,6 +1,7 @@
 # Databases
 
-- [Presto](https://prestodb.io) - distributed sql query engine for big data
+- [**ACID**](https://en.wikipedia.org/wiki/ACID) - (atomicity, consistency, isolation, durability) is a set of properties of database transactions intended to guarantee data validity despite errors, power failures, and other mishaps.
+
 
 ## Resources
 
@@ -12,4 +13,7 @@
   - _non-blocking schema changes_ - DB schema can be changed without downtime or locking
 - [Hosting SQLite databases on Github Pages](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
 - [Dragonfly](https://github.com/dragonflydb/dragonfly) - Redis alternative
+- [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases/) -
+  The basic database concepts explained from indexes to ACID properties.
+- [Presto](https://prestodb.io) - distributed sql query engine for big data
 

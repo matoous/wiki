@@ -15,6 +15,8 @@
 - [Why You Should Start a Blog Right Now](https://guzey.com/personal/why-have-a-blog/)
 - [Writing, Briefly](http://paulgraham.com/writing44.html) - short article, just open it and re-read
 - [Writing for Engineers](https://www.heinrichhartmann.com/posts/writing/)
+- [Explaining explaining: a quick guide on explanatory writing](https://lucasfcosta.com/2021/09/30/explaining-in-writing.html)
+- [How to Write Better with The Why, What, How Framework](https://eugeneyan.com/writing/writing-docs-why-what-how/)
 
 ## Paper Writing
 

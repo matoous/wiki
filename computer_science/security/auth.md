@@ -118,4 +118,5 @@
 - [OAuth 2.0 Authentication Vulnerabilities](https://portswigger.net/web-security/oauth) ([HN](https://news.ycombinator.com/item?id=26603259))
 - [The Modern Guide to OAuth (2021)](https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth/)
 - [Authorization Academy](https://www.osohq.com/developers/authorization-academy)
+- [Awesome IAM](https://github.com/kdeldycke/awesome-iam)
 
