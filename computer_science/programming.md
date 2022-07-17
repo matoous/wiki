@@ -20,6 +20,7 @@
   - Ray tracing, Key-Value store, Web browser, Stock trading bot
 - [What I learned from Software Engineering at Google](https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/)
 - [Awesome Functional Programming](https://github.com/xgrommx/awesome-functional-programming)
+- [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 
 ## Code sharing
 

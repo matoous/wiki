@@ -55,4 +55,4 @@ Proof that you have moved into a new place of residence. Absolutely necessary fo
 - [German TV tax – What to do about the Rundfunkbeitrag letter](https://www.settle-in-berlin.com/german-tv-tax-rundfunkbeitrag-ard-zdf-letter/)
 - [How to file a tax declaration in Germany (2022)](https://www.simplegermany.com/tax-declaration-germany/)
   - [SteuerGo](https://www.steuergo.de/en/) to fill the tax declaration
-
+- [How to Adult in Berlin](https://www.der-burtchen.de/2022/07/how-to-adult-in-berlin/)

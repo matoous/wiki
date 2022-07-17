@@ -17,6 +17,7 @@
 - [Arc and Mutex in Rust](https://itsallaboutthebit.com/arc-mutex/)
 - [(async) Rust doesn't have to be hard](https://itsallaboutthebit.com/async-simple/)
 - [What is `Box<str>` and how is it different from `String` in Rust?](https://mahdi.blog/rust-box-str-vs-string/)
+- [Roguelike tutorial](https://bfnightly.bracketproductions.com/rustbook/chapter_0.html)
 
 ## Projects
 

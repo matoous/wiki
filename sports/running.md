@@ -9,12 +9,12 @@
 - **Retired**:
   - [On Run Cloudflow](https://www.on-running.com/en-us/products/cloudflow)
 
-## Training
+## Resources
 
 - [3 Running Workouts for Triathletes](https://www.active.com/articles/3-running-workouts-for-triathletes?page=3)
+- [Yoga for Trail Running](https://www.rei.com/learn/expert-advice/yoga-for-trail-running.html)
 
 ## Races
 
 - [Nizkotatranska Stihacka](https://stihacka.hiking.sk/) - 103km, 5700m
 - [Runczech Marathons](https://www.runczech.com/cs/)
-

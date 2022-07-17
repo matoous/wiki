@@ -112,4 +112,6 @@
 - [Food Security and the Coming Storm](https://www.eurasiagroup.net/live-post/food-security) ([Full report (pdf)](https://www.eurasiagroup.net/files/upload/Eurasia_Group_Food_Security_and_the_Coming_Storm_0523.3.pdf)) -
   the impact of the Russian-Unkrainian war on the worlwide hunger and poverty.
 - [After millennia of agricultural expansion, the world has passed ‘peak agricultural land’](https://ourworldindata.org/peak-agriculture-land)
+- [Spain and Portugal suffering driest climate for 1,200 years, research shows](https://www.theguardian.com/environment/2022/jul/04/spain-and-portugal-suffering-driest-climate-for-1200-years-research-shows)
+  - 
 

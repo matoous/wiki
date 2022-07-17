@@ -7,3 +7,6 @@
   - _Every commit must be independent_ - this goes for non-solo development as well, `master` should be green on any commit
 - [Oh Shit, Git!?!](https://ohshitgit.com) - how to fix various screw-ups with git
 - [Cleaning Up Git History](https://blog.sulami.xyz/posts/cleaning-up-git-history/)
+- [Things I wish everyone knew about Git (Part I) ](https://blog.plover.com/2022/06/29/#gt-sec2)
+- [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
+

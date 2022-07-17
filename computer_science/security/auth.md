@@ -119,4 +119,5 @@
 - [The Modern Guide to OAuth (2021)](https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth/)
 - [Authorization Academy](https://www.osohq.com/developers/authorization-academy)
 - [Awesome IAM](https://github.com/kdeldycke/awesome-iam)
+- [Are Magic Links Outdated?](https://news.ycombinator.com/item?id=32080540)
 

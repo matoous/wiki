@@ -17,6 +17,7 @@
 - [Writing for Engineers](https://www.heinrichhartmann.com/posts/writing/)
 - [Explaining explaining: a quick guide on explanatory writing](https://lucasfcosta.com/2021/09/30/explaining-in-writing.html)
 - [How to Write Better with The Why, What, How Framework](https://eugeneyan.com/writing/writing-docs-why-what-how/)
+- [They're Made out of Meat](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
 
 ## Paper Writing
 

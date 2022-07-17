@@ -397,4 +397,5 @@ kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespac
 - [Road to Secure Kubernetes](https://github.com/nsmith5/road-to-secure-kubernetes) - tutorial on securing kubernetes, from basics to advanced topics
 - [Kubetools](https://collabnix.github.io/kubetools/) - A Curated List of Kubernetes Tools
 - [Gateway API](https://gateway-api.sigs.k8s.io/)
+- [Cubernetes](https://www.justingarrison.com/blog/2022-07-06-cubernetes/) - RaspberryPI Kubernetes cluster in a travel case
 

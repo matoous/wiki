@@ -16,4 +16,5 @@
 - [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases/) -
   The basic database concepts explained from indexes to ACID properties.
 - [Presto](https://prestodb.io) - distributed sql query engine for big data
+- [The DynamoDB paper](https://brooker.co.za/blog/2022/07/12/dynamodb.html)
 

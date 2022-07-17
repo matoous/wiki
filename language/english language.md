@@ -6,4 +6,6 @@
 
 ## Resources
 
-[Ask HN: I'm already fluent in English. How can I improve further? | Hacker News](https://news.ycombinator.com/item?id=23016268)
+- [Ask HN: I'm already fluent in English. How can I improve further? | Hacker News](https://news.ycombinator.com/item?id=23016268)
+- [Compound pejoratives on Reddit](http://colinmorris.github.io/blog/compound-curse-words)
+

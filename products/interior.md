@@ -21,4 +21,4 @@
 - [Javorina](https://www.javorina.sk/) - wood work
 - [Bludot](https://www.bludot.com/bestsellers.html)
 - [Ton](https://www.ton.eu/en/)
-
+- [Union Wood Co.](https://www.unionwoodco.com) - custom wood work

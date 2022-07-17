@@ -47,3 +47,4 @@
 - [What is your time really worth to you?](https://programs.clearerthinking.org/what_is_your_time_really_worth_to_you.html#.YtLHvS8RrfZ) -
   tool that helps you estimate how much money each hour is worth to you, so that you can make wiser decisions about how to spend that time.
   - my estimated value of free time is *€39 per hour*
+- [Tracking Everything I Wore For 1 Year](https://andrenader.substack.com/p/nfc-clothes-tracker)

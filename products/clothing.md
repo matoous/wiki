@@ -1,5 +1,7 @@
 # Clothing
 
+- [Tracking Everything I Wore For 1 Year](https://andrenader.substack.com/p/nfc-clothes-tracker)
+
 ## Casual
 
 - [Asket](https://www.asket.com/de/mens/) - minimalistic wardrobe essentials, expensive-ish, but I buy must of my casual wear there

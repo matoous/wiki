@@ -9,6 +9,9 @@
 - [How to Work Hard](http://paulgraham.com/hwh.html)
 - [Delegation is an art, not a science](https://larahogan.me/blog/delegation-is-an-art/)
 - [How to feel engaged at work: a software engineer's guide](https://jasont.co/ennui/)
+- [Working Multiple Jobs](https://avc.com/2021/10/working-multiple-jobs/)
+- [Giving a Shit as a Service](https://allenpike.com/2022/giving-a-shit)
+  > So, I suppose the moral of the story is: find yourself work you can give a shit about. And work with people who give a shit. It’ll make shit a lot more pleasant – I guarantee it.
 
 ## Engineering
 

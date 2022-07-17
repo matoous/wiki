@@ -1,5 +1,9 @@
 # Python
 
+## Resources
+
+- [FastAPI](https://fastapi.tiangolo.com)
+
 ## Packages
 
 - [MontyDB](https://github.com/davidlatwe/montydb) - MongoDB implemented in python.

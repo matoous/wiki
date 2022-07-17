@@ -11,4 +11,5 @@
 - [Selling Tiny Internet Projects For Fun and Profit](https://tinyprojects.dev/posts/selling_tiny_internet_projects_for_fun_and_profit)
 - [We Need A Middle Class For Startups](https://neilthanedar.com/we-need-a-middle-class-for-startups/)
 - [I spent 2 years launching tiny projects](https://tinyprojects.dev/posts/i_spent_two_years_launching_tiny_projects)
+- [Future Fund - Project Ideas](https://ftxfuturefund.org/projects/)
 
