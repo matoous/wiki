@@ -3,6 +3,8 @@
 - _holistic_ - Dealing with or treating the whole of something or someone and not just a part.
 - _salient_ - Most noticeable or important.
 - _halcyon_ - characterized by happiness, great success, and prosperity (_"golden"_) — often used to describe an idyllic time in the past that is remembered as better than today.
+- _gingerly_ - in a careful or cautious manner.
+- _blistering_ - (of heat) intense.
 
 ## Resources
 

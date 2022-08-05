@@ -13,6 +13,7 @@
 
 - [3 Running Workouts for Triathletes](https://www.active.com/articles/3-running-workouts-for-triathletes?page=3)
 - [Yoga for Trail Running](https://www.rei.com/learn/expert-advice/yoga-for-trail-running.html)
+- [Kilian Jornet's Advice to Race Faster, For Non-Elites | Extramilest Show #51](https://youtu.be/OJZO-t6O5Bk)
 
 ## Races
 

@@ -1,5 +1,9 @@
 # Cycling
 
+- Pogacar trains in 3 day blocks. Most of his training is in zone 2.
+  He incorporates 2x 15min sweet spot (zone 4) intervals (with 10-15 min rest) in on or two training during the block.
+  For sprint he does 10x 40"/20" and before race sometimes 2x 3min.
+
 ## Gear
 
 - **road bike**: [Émonda SL 6](https://www.trekbikes.com/us/en_US/bikes/road-bikes/performance-road-bikes/%C3%A9monda/%C3%A9monda-sl/%C3%A9monda-sl-6/p/24012/)

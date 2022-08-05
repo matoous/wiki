@@ -52,4 +52,5 @@
 - [Package names](https://go.dev/blog/package-names)
 - [Style guideline for Go packages](https://rakyll.org/style-packages/)
 - [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/)
+- [Go Proverbs](https://go-proverbs.github.io/)
 

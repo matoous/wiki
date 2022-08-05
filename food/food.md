@@ -1,5 +1,11 @@
 # Food
 
+- [_Agroforestry_](https://en.wikipedia.org/wiki/Agroforestry) is a land use management system in which trees or shrubs are grown around or among crops or pastureland.
+  Trees produce a wide range of useful and marketable products from fruits/nuts, medicines, wood products, etc.
+  This intentional combination of agriculture and forestry has multiple benefits, such as greatly enhanced yields from staple food crops,
+  enhanced farmer livelihoods from income generation, increased biodiversity, improved soil structure and health, reduced erosion, and carbon sequestration.
+  Agroforestry practices are highly beneficial in the tropics, especially in subsistence smallholdings in sub-Saharan Africa and have been found to be beneficial in Europe and the United States.
+
 ## Notes
 
 - [Adults require about 0.8 or 0.9 grams of protein per healthy kilogram of bodyweight per day.](https://nutritionfacts.org/topics/animal-protein/)

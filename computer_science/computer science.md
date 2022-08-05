@@ -1,5 +1,14 @@
 # Computer Science
 
+- [OSI Model](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/)
+  1. Physical layer
+  2. Data link layer
+  3. Network layer
+  4. Transport layer
+  5. Session layer
+  6. Presentation layer
+  7. Application layer
+
 ## Dictionary
 
 - [YAGNI](https://wiki.c2.com/?YouArentGonnaNeedIt) - You Aren't Gonna Need It

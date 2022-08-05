@@ -18,6 +18,8 @@
 - [(async) Rust doesn't have to be hard](https://itsallaboutthebit.com/async-simple/)
 - [What is `Box<str>` and how is it different from `String` in Rust?](https://mahdi.blog/rust-box-str-vs-string/)
 - [Roguelike tutorial](https://bfnightly.bracketproductions.com/rustbook/chapter_0.html)
+- [Beginner's guide to Error Handling in Rust](https://www.sheshbabu.com/posts/rust-error-handling/)
+- [Async Rust: What is a runtime? Here is how tokio works under the hood](https://kerkour.com/rust-async-await-what-is-a-runtime)
 
 ## Projects
 
@@ -32,3 +34,4 @@
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [wasmer](https://github.com/wasmerio/wasmer)
 - [anki](https://github.com/ankitects/anki) - spaced repetition cards GUI
+- [Tantivy](https://github.com/quickwit-oss/tantivy)

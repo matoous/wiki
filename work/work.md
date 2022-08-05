@@ -12,11 +12,13 @@
 - [Working Multiple Jobs](https://avc.com/2021/10/working-multiple-jobs/)
 - [Giving a Shit as a Service](https://allenpike.com/2022/giving-a-shit)
   > So, I suppose the moral of the story is: find yourself work you can give a shit about. And work with people who give a shit. It’ll make shit a lot more pleasant – I guarantee it.
+- [Average Software Engineering Salaries by Country in 2022](https://codesubmit.io/blog/software-engineer-salary-by-country/) (Comparison of 20+ Countries)
 
 ## Engineering
 
 - [The Grug Brained Developer](https://grugbrain.dev) - _A layman's guide to thinking like the self-aware smol brained_
 - [Practical Guide to Solving Hard Problems](https://praeclarum.org/2022/02/19/hard-problems.html)
+- [Oncall Compensation](https://newsletter.pragmaticengineer.com/p/oncall-compensation-f33)
 
 ## Soft Skills
 
