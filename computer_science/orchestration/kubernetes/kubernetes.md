@@ -398,4 +398,6 @@ kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespac
 - [Kubetools](https://collabnix.github.io/kubetools/) - A Curated List of Kubernetes Tools
 - [Gateway API](https://gateway-api.sigs.k8s.io/)
 - [Cubernetes](https://www.justingarrison.com/blog/2022-07-06-cubernetes/) - RaspberryPI Kubernetes cluster in a travel case
+- [15 Kubernetes Best Practices Every Developer Should Know](https://spacelift.io/blog/kubernetes-best-practices)
+- [Different Types of Kubernetes Deployment Strategies (Examples)](https://spacelift.io/blog/kubernetes-deployment-strategies)
 
