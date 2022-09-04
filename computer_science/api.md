@@ -14,3 +14,5 @@
   - also [Simple internal idempotency by ID](https://brandur.org/fragments/simple-internal-idempotency)
 - [HTTP API design: 204 "No content" mildly harmful](https://brandur.org/fragments/http-api-204s)
 - [Evolving API Pagination at Slack](https://slack.engineering/evolving-api-pagination-at-slack/)
+- [How Did REST Come To Mean The Opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
+- [The Bezos API Mandate: Amazon’s Manifesto For Externalization](https://nordicapis.com/the-bezos-api-mandate-amazons-manifesto-for-externalization/)

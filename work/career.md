@@ -40,9 +40,11 @@
 - [Developer satisfaction surveys](https://sallylait.com/blog/2022/02/20/developer-satisfaction-surveys/)
 - [35 Impactful Questions Managers Should Ask Themselves Regularly](https://review.firstround.com/35-impactful-questions-managers-should-ask-themselves-regularly)
 - [The Ultimate Guide to Onboarding Software Engineers](https://leadership.garden/onboarding-engineers/)
+- [How we onboard engineers at a devtools startup](https://knock.app/blog/how-we-onboard-engineers-at-a-devtools-startup)
 - [11 Principles of Engineering Management](https://acjay.com/2022/03/11/11-principles-of-engineering-management/)
 - [Stop Overcomplicating It: The Simple Guidebook to Upping Your Management Game](https://review.firstround.com/stop-overcomplicating-it-the-simple-guidebook-to-upping-your-management-game)
 - [What To Do When Your Feedback Doesn't Land](https://larahogan.me/blog/feedback-doesnt-land/)
+- [Flo Health’s path to the hiring strategy in engineering](https://vickiboykis.com/2022/07/25/looking-back-at-two-years-at-automattic-and-tumblr/)
 
 ## Hiring
 

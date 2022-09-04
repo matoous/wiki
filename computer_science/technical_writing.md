@@ -6,3 +6,4 @@
 - [An Engineer’s Best Tips for Writing Documentation Devs Love](https://thenewstack.io/an-engineers-best-tips-for-writing-documentation-devs-love/)
   - don't tell anyone anything is _simple_
 - [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
+- [Companies Using RFCs or Design Docs and Examples of These](https://blog.pragmaticengineer.com/rfcs-and-design-docs/)
