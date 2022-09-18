@@ -21,3 +21,7 @@
 - [Are You Still Riding With Pain?](https://new.dynamiccyclist.com/stretching); stratching for cyclists to compansate
   for the cycling posture
 
+## Resources
+
+- [Riding the FORGOTTEN 100 Year Old Gravel Road Lost in the Norwegian Mountains](https://youtu.be/pqHyZyvI0-I)
+

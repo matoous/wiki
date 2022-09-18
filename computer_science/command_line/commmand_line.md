@@ -89,4 +89,5 @@ Programs and tools provide many features that can speed things up but first one 
   - human understandable errors
   - colors, emojis, and layout
   - loading indicators
+- [What happens when you press a key in your terminal?](https://jvns.ca/blog/2022/07/20/pseudoterminals/)
 

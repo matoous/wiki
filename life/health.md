@@ -28,4 +28,5 @@
 - [Life Extension Cost-Benefits](https://www.gwern.net/Longevity) - Take Vitamin D, other stuff doesn't have that high benefit.
 - [Meal of a lifetime: what to eat at every age](https://www.theguardian.com/lifeandstyle/2022/may/14/meal-of-a-lifetime-what-to-eat-at-every-age)
 - [awesome-longevity](https://github.com/atilatech/awesome-longevity)
+- [Ergonomics: Human-Centered Design](http://ergo.human.cornell.edu/default.html)
 

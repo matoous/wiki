@@ -21,6 +21,7 @@
 - [Beginner's guide to Error Handling in Rust](https://www.sheshbabu.com/posts/rust-error-handling/)
 - [Async Rust: What is a runtime? Here is how tokio works under the hood](https://kerkour.com/rust-async-await-what-is-a-runtime)
 - [Rewriting my blog in Rust for fun and profit](https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/)
+- [The Rust Performance Book](https://nnethercote.github.io/perf-book/title-page.html)
 
 ## Projects
 

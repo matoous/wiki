@@ -18,6 +18,7 @@
 - [pprof++: A Go Profiler with Hardware Performance Monitoring](https://eng.uber.com/pprof-go-profiler/)
 - [rf](https://pkg.go.dev/rsc.io/rf) - experimental refactoring tool
 - [Colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup 
+- [lensm](https://github.com/loov/lensm) - Go assembly and source viewer
 
 ## Resources
 

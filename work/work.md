@@ -13,12 +13,15 @@
 - [Giving a Shit as a Service](https://allenpike.com/2022/giving-a-shit)
   > So, I suppose the moral of the story is: find yourself work you can give a shit about. And work with people who give a shit. It’ll make shit a lot more pleasant – I guarantee it.
 - [Average Software Engineering Salaries by Country in 2022](https://codesubmit.io/blog/software-engineer-salary-by-country/) (Comparison of 20+ Countries)
+- [Key Capabilities to drive improvements in Software Delivery Performance](https://srinathramakrishnan.wordpress.com/2018/12/04/key-capabilities-to-drive-improvements-in-software-delivery-performance/#:~:text=Architect%20for%20empowered%20teams%20%E2%80%93%20Architects,that%20will%20enable%20the%20outcomes)
 
 ## Engineering
 
 - [The Grug Brained Developer](https://grugbrain.dev) - _A layman's guide to thinking like the self-aware smol brained_
 - [Practical Guide to Solving Hard Problems](https://praeclarum.org/2022/02/19/hard-problems.html)
 - [Oncall Compensation](https://newsletter.pragmaticengineer.com/p/oncall-compensation-f33)
+- [6 Tips to Overcome Scaling Challenges Like Design Decisions, Tech Debt, and Developer Satisfaction](https://alphalist.com/blog/6-tips-to-overcome-scaling-challenges-like-design-decisions-tech-debt-and-developer-satisfaction)
+- [Flo Health’s path to the hiring strategy in engineering](https://medium.com/flo-health/engineering-hiring-strategy-at-flo-health-657dfb9b725)
 
 ## Soft Skills
 

@@ -107,9 +107,7 @@
 - [The Art of Monetary War](https://www.nplusonemag.com/online-only/online-only/the-art-of-monetary-war/)
 - [The housing theory of everything](https://www.worksinprogress.co/issue/the-housing-theory-of-everything/)
 - [How This Ends (2022)](https://avc.com/2022/05/how-this-ends-2/) [(HN)](https://news.ycombinator.com/item?id=31468303)
-
-## Articles
-
+- [The housing theory of everything](https://www.worksinprogress.co/issue/the-housing-theory-of-everything/) - "Western housing shortages do not just prevent many from ever affording their own home. They also drive inequality, climate change, low productivity growth, obesity, and even falling fertility rates."
 - [The worldly turn](https://aeon.co/essays/economics-is-once-again-becoming-a-worldly-science) - After generations of ‘blackboard economics’, Berkeley and MIT are leading a return to economics that studies the real world
 - [Imports do not subtract from GDP](https://noahpinion.substack.com/p/imports-do-not-subtract-from-gdp)
 - [Inflation, part 1: On shelter futures](https://jbconsulting.substack.com/p/on-shelter-futures-part-1)
