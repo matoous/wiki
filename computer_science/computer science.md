@@ -59,4 +59,5 @@
   - the network is reliable - you need logic for re-transmission
 - [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 - [What does an idle CPU do?](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
+- [6.851: Advanced Data Structures](https://courses.csail.mit.edu/6.851/spring21/lectures/)
 

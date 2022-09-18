@@ -16,3 +16,5 @@
 - [Evolving API Pagination at Slack](https://slack.engineering/evolving-api-pagination-at-slack/)
 - [How Did REST Come To Mean The Opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
 - [The Bezos API Mandate: Amazon’s Manifesto For Externalization](https://nordicapis.com/the-bezos-api-mandate-amazons-manifesto-for-externalization/)
+- [EasySDK](https://easysdk.xyz/upload) - generate SDKs for your OpenAPI specs
+

@@ -9,3 +9,4 @@
 - [Wasting Time in Tech Interviews](https://www.benjamistan.tech/2022/06/26/wasting-time-in-tech-interviews.html)
   > If you want better candidates filling roles, you must stop being lazy and relying on Leetcode or lazy CV parsing. Check the candidate’s portfolio. Pose realistic questions. Try to ensure your technical interviews reflect the fundamental nature of the job.
 - [The really important job interview questions engineers should ask (but don't)](https://posthog.com/blog/what-to-ask-in-interviews)
+- [Questions to ask a prospective employer during a job interview](https://nibblestew.blogspot.com/2022/09/questions-to-ask-prospective-employer.html)
