@@ -28,7 +28,8 @@
 - [Procrastinatory Doom Loops](https://brennancolberg.com/blog/procrastinatory-doom-loops)
 - [Managing Yourself](https://m.subbu.org/managing-yourself-3c2fb748d70c)
 - [Why do you waste so much time on the internet.](https://zan.bearblog.dev/why-i-waste-time/)
-- [The Fallacy of Splitting Time ](https://www.bennorthrop.com/Essays/2022/fallacy-of-splitting-time.php) - each project has overhead (unproductive time) + there's the context switching leading towards less productivity when working on multiple projects
+- [The Fallacy of Splitting Time](https://www.bennorthrop.com/Essays/2022/fallacy-of-splitting-time.php) -
+  each project has overhead (unproductive time) + there's the context switching leading towards less productivity when working on multiple projects.
 - [On the unreasonable effectiveness of streak tracking](https://brandur.org/fragments/streak-tracking)
 
 ## Books

@@ -14,6 +14,9 @@
   > So, I suppose the moral of the story is: find yourself work you can give a shit about. And work with people who give a shit. It’ll make shit a lot more pleasant – I guarantee it.
 - [Average Software Engineering Salaries by Country in 2022](https://codesubmit.io/blog/software-engineer-salary-by-country/) (Comparison of 20+ Countries)
 - [Key Capabilities to drive improvements in Software Delivery Performance](https://srinathramakrishnan.wordpress.com/2018/12/04/key-capabilities-to-drive-improvements-in-software-delivery-performance/#:~:text=Architect%20for%20empowered%20teams%20%E2%80%93%20Architects,that%20will%20enable%20the%20outcomes)
+- [Be good-argument-driven, not data-driven](http://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html)
+  - Prefer good arguments over bad data when making decisions. The metrics need to be well-understood and free from human/social factors
+    if one wants to make decisions based on them.
 
 ## Engineering
 

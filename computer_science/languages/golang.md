@@ -56,4 +56,5 @@
 - [Go Proverbs](https://go-proverbs.github.io/)
 - [Debugging WebAssembly from Go sources in Chrome DevTools](https://blog.noops.land/debugging-webAssembly-from-go-sources-in-chrome-devtools)
 - [Optimizing Your Programs with Continuous Profiling](https://www.polarsignals.com/blog/posts/2022/08/30/optimizing-with-continuous-profiling/)
+- [Vulnerability Management for Go](https://go.dev/blog/vuln)
 

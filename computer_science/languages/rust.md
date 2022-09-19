@@ -37,3 +37,4 @@
 - [wasmer](https://github.com/wasmerio/wasmer)
 - [anki](https://github.com/ankitects/anki) - spaced repetition cards GUI
 - [Tantivy](https://github.com/quickwit-oss/tantivy)
+- [RisingLight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose.
