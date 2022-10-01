@@ -17,6 +17,9 @@
 - [Be good-argument-driven, not data-driven](http://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html)
   - Prefer good arguments over bad data when making decisions. The metrics need to be well-understood and free from human/social factors
     if one wants to make decisions based on them.
+- [The Platform and Program Split at Uber: A Milestone Special](https://newsletter.pragmaticengineer.com/p/the-platform-and-program-split-at)
+  - Program teams - long-lived, cross-functional teams focused on products
+  - Platform Teams - specialized, technical mission, customers are other teams (mostly)
 
 ## Engineering
 
@@ -29,3 +32,4 @@
 ## Soft Skills
 
 - [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/)
+- [Manual of Me.](https://www.manualof.me/) - simple document which helps you communicate your working preferences, motivations and needs, so we can all work better together.

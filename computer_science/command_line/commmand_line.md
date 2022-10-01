@@ -90,4 +90,4 @@ Programs and tools provide many features that can speed things up but first one 
   - colors, emojis, and layout
   - loading indicators
 - [What happens when you press a key in your terminal?](https://jvns.ca/blog/2022/07/20/pseudoterminals/)
-
+- [Development Environments](https://phaazon.net/blog/development-environments) - how should we be developing in modern era?

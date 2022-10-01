@@ -17,4 +17,5 @@
   The basic database concepts explained from indexes to ACID properties.
 - [Presto](https://prestodb.io) - distributed sql query engine for big data
 - [The DynamoDB paper](https://brooker.co.za/blog/2022/07/12/dynamodb.html)
+- [Common DB schema change mistakes](https://postgres.ai/blog/20220525-common-db-schema-change-mistakes)
 

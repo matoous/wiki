@@ -29,6 +29,7 @@
 - [6 ways staff engineers help reach clarity](https://medium.com/volvo-cars-engineering/6-ways-staff-engineers-help-reach-clarity-963c1878accb)
 - [Staff Engineering at Carta](https://medium.com/building-carta/staff-engineering-at-carta-526b154fd317)
 - [Mailbag: Resources for Engineering Directors](https://lethain.com/mail-bag-resources-for-engineering-directors/)
+- [The Other Kind of Staff Software Engineer](https://earthly.dev/blog/line-staff/)
 
 ## Engineering Manager
 
