@@ -1,5 +1,7 @@
 # Communication
+
 ## Resources
+
 - [Basic Social Skills Guide - Improve Your Social Skills](https://www.improveyoursocialskills.com/basic-social-skills-guide)
 - [How to Deliver Constructive Feedback in Difficult Situations](https://medium.com/s/please-advise/the-essential-guide-to-difficult-conversations-41f736e63ccf)
 - [RFC 7282 - On Consensus and Humming in the IETF](https://tools.ietf.org/html/rfc7282)

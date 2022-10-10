@@ -33,3 +33,4 @@
 
 - [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/)
 - [Manual of Me.](https://www.manualof.me/) - simple document which helps you communicate your working preferences, motivations and needs, so we can all work better together.
+- [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/)
