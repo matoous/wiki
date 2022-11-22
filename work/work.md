@@ -20,6 +20,10 @@
 - [The Platform and Program Split at Uber: A Milestone Special](https://newsletter.pragmaticengineer.com/p/the-platform-and-program-split-at)
   - Program teams - long-lived, cross-functional teams focused on products
   - Platform Teams - specialized, technical mission, customers are other teams (mostly)
+- [The Hierarchy Is Bullshit (And Bad For Business)](https://charity.wtf/2022/09/23/the-hierarchy-is-bullshit-and-bad-for-business/)
+- [The Product Culture Shift](https://www.elidedbranches.com/2022/08/the-product-culture-shift.html)
+- [On the team as a system](https://vickiboykis.com/2022/09/10/on-the-team-as-a-system/)
+- [How to plan?](https://kellanem.com/notes/how-to-plan)
 
 ## Engineering
 
@@ -28,6 +32,7 @@
 - [Oncall Compensation](https://newsletter.pragmaticengineer.com/p/oncall-compensation-f33)
 - [6 Tips to Overcome Scaling Challenges Like Design Decisions, Tech Debt, and Developer Satisfaction](https://alphalist.com/blog/6-tips-to-overcome-scaling-challenges-like-design-decisions-tech-debt-and-developer-satisfaction)
 - [Flo Health’s path to the hiring strategy in engineering](https://medium.com/flo-health/engineering-hiring-strategy-at-flo-health-657dfb9b725)
+- [The Future of Ops Is Platform Engineering](https://www.honeycomb.io/blog/future-ops-platform-engineering)
 
 ## Soft Skills
 

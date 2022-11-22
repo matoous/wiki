@@ -10,4 +10,9 @@
 - [Things I wish everyone knew about Git (Part I) ](https://blog.plover.com/2022/06/29/#gt-sec2)
 - [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
 - [In Praise of Stacked PRs](https://benjamincongdon.me/blog/2022/07/17/In-Praise-of-Stacked-PRs/)
+- [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/)
+  - The implementation: a single, focused change
+  - Tests that demonstrate the implementation works
+  - Updated documentation reflecting the change
+  - A link to an issue thread providing further context
 

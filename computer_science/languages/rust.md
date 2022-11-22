@@ -23,6 +23,8 @@
 - [Rewriting my blog in Rust for fun and profit](https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/)
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/title-page.html)
 - [6 things you can do with the Cow 🐄 in Rust 🦀](https://dev.to/kgrech/6-things-you-can-do-with-the-cow-in-rust-4l55)
+- [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)
+- [End-to-end testing for Rust web services](https://blog.logrocket.com/end-to-end-testing-for-rust-web-services/)
 
 ## Projects
 
@@ -40,3 +42,8 @@
 - [Tantivy](https://github.com/quickwit-oss/tantivy)
 - [RisingLight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose.
 - [Yew](https://yew.rs/) - Yew is a modern Rust framework for creating multi-threaded front-end web apps using WebAssembly.
+
+## Game Dev
+
+- [Extreme Bevy: Making a p2p web game with rust and rollback netcode](https://johanhelsing.studio/posts/extreme-bevy)
+- [Chess game in Rust using Bevy](https://caballerocoll.com/blog/bevy-chess-tutorial/)

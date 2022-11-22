@@ -48,3 +48,5 @@
   tool that helps you estimate how much money each hour is worth to you, so that you can make wiser decisions about how to spend that time.
   - my estimated value of free time is *€39 per hour*
 - [Tracking Everything I Wore For 1 Year](https://andrenader.substack.com/p/nfc-clothes-tracker)
+- [On Tea and the Art of Doing Nothing](https://thomasjbevan.substack.com/p/on-tea-and-the-art-of-doing-nothing)
+- [Why are you so busy?](https://tomlingham.com/articles/why-are-you-so-busy/)

@@ -59,6 +59,8 @@ To get up to speed and learn the basics of sane and mindful investing the best s
 - [Tech bubbles are bursting all over the place](https://archive.is/qziMw)
 - [Why a small candy company is Warren Buffett’s ‘dream’ investment](https://thehustle.co/how-a-small-candy-company-became-warren-buffetts-dream-investment/) -
   steady growth and quality over quantity
+- [Demystifying financial leverage](https://bam.kalzumeus.com/archive/demystifying-financial-leverage/)
+- [No, You Aren’t Going to Get Rich by Options Trading](https://jacobin.com/2022/11/options-trading-stock-market-inequality)
 
 ## Places to invest at
 

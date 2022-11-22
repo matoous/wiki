@@ -7,3 +7,4 @@
   - don't tell anyone anything is _simple_
 - [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
 - [Companies Using RFCs or Design Docs and Examples of These](https://blog.pragmaticengineer.com/rfcs-and-design-docs/)
+- [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)

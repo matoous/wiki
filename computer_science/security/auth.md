@@ -120,4 +120,5 @@
 - [Authorization Academy](https://www.osohq.com/developers/authorization-academy)
 - [Awesome IAM](https://github.com/kdeldycke/awesome-iam)
 - [Are Magic Links Outdated?](https://news.ycombinator.com/item?id=32080540)
-
+- [The many problems with implementing Single Sign-On](https://stackoverflow.blog/2022/09/12/the-many-problems-with-implementing-single-sign-on/)
+- [Enhance SMS-delivered code security with domain-bound codes](https://developer.apple.com/news/?id=z0i801mg)

@@ -6,3 +6,5 @@
 - [How I built forlater.email](https://icyphox.sh/blog/building-forlater/)
 - [mjml.](https://mjml.io) - framework for responsive emails
 - [My Wonderful HTML Email Workflow](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/)
+- [Email is Bad](https://emailisbad.com/)
+- [Falsehoods programmers believe about email](https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email)

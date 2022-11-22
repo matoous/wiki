@@ -15,6 +15,7 @@
 - [Yoga for Trail Running](https://www.rei.com/learn/expert-advice/yoga-for-trail-running.html)
 - [Kilian Jornet's Advice to Race Faster, For Non-Elites | Extramilest Show #51](https://youtu.be/OJZO-t6O5Bk)
 - [Kilian Jornet's Running Advice, UTMB 2022, Recovery, Nutrition and more!](https://youtu.be/cU7cNo7ZwUk)
+- [Exercises for runners](https://youtu.be/Z7YGMqGos50)
 
 ## Races
 

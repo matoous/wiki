@@ -61,4 +61,5 @@
 - [What does an idle CPU do?](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
 - [6.851: Advanced Data Structures](https://courses.csail.mit.edu/6.851/spring21/lectures/)
 - [QR Codes](https://typefully.com/DanHollick/qr-codes-T7tLlNi)
+- [Rope science](https://xi-editor.io/docs/rope_science_00.html)
 

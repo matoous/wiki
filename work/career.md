@@ -15,6 +15,7 @@
 - [The unreasonable effectiveness of one-on-ones](https://www.benkuhn.net/11/)
 - [How Google, Twitter, and Spotify built a culture of documentation](https://medium.com/doctave/how-google-twitter-and-spotify-built-a-culture-of-documentation-47a1ff22911)
 - [Prioritization as a Superpower](https://nbt.substack.com/p/prioritization-as-a-superpower)
+- [Maximizing Developer Effectiveness](https://abinoda.substack.com/p/maximizing-developer-effectiveness)
 
 ## Senior Engineer
 
@@ -47,6 +48,7 @@
 - [Stop Overcomplicating It: The Simple Guidebook to Upping Your Management Game](https://review.firstround.com/stop-overcomplicating-it-the-simple-guidebook-to-upping-your-management-game)
 - [What To Do When Your Feedback Doesn't Land](https://larahogan.me/blog/feedback-doesnt-land/)
 - [Flo Health’s path to the hiring strategy in engineering](https://vickiboykis.com/2022/07/25/looking-back-at-two-years-at-automattic-and-tumblr/)
+- [Get Straight to the Point](https://www.theengineeringmanager.com/growth/get-straight-to-the-point/)
 
 ## Hiring
 

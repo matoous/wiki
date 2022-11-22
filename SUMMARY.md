@@ -43,6 +43,7 @@
     - [Protocol Buffers](computer_science/protocols/protocol_buffers.md)
     - [DSN](computer_science/protocols/dsn.md)
   - [Languages](computer_science/languages/languages.md)
+    - [Rust](computer_science/languages/rust.md)
     - [Assembler](computer_science/languages/assembler.md)
     - [Go](computer_science/languages/golang.md)
     - [C](computer_science/languages/c.md)
