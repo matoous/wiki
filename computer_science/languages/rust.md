@@ -42,6 +42,9 @@
 - [Tantivy](https://github.com/quickwit-oss/tantivy)
 - [RisingLight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose.
 - [Yew](https://yew.rs/) - Yew is a modern Rust framework for creating multi-threaded front-end web apps using WebAssembly.
+- [Sea ORM](https://github.com/SeaQL/sea-orm) - async ORM package
+- [Rome](https://rome.tools) - linter and formatter for javascript/typescript
+- [SurrealDB](https://surrealdb.com) - cloud native database
 
 ## Game Dev
 

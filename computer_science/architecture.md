@@ -12,3 +12,5 @@
 - [A pattern language for microservices](https://microservices.io/patterns/)
 - [12 Factor App Revisited](https://architecturenotes.co/12-factor-app-revisited/)
 - [No architecture is better than bad architecture](https://rogovoy.me/blog/no-architecture)
+- [Ports & Adapters Architecture](https://herbertograca.com/2017/09/14/ports-adapters-architecture/)
+- [The Distributed Computing Manifesto](https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html)

@@ -29,4 +29,5 @@
 - [Meal of a lifetime: what to eat at every age](https://www.theguardian.com/lifeandstyle/2022/may/14/meal-of-a-lifetime-what-to-eat-at-every-age)
 - [awesome-longevity](https://github.com/atilatech/awesome-longevity)
 - [Ergonomics: Human-Centered Design](http://ergo.human.cornell.edu/default.html)
+- [What if regular exercise is the best cognitive exercise?](https://news.ycombinator.com/item?id=33573246)
 

@@ -15,4 +15,5 @@
   - Tests that demonstrate the implementation works
   - Updated documentation reflecting the change
   - A link to an issue thread providing further context
+- [gitoxide](https://github.com/Byron/gitoxide)
 

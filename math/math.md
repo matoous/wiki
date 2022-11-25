@@ -22,3 +22,4 @@
 - [Manga Guide Series](https://www.ohmsha.co.jp/english/manga.htm)
 - [Ask HN: How to learn math from zero for adults?](https://news.ycombinator.com/item?id=31539549)
 - [The Animated Elliptic Curve](https://curves.xargs.org)
+- [What Is an Eigenvalue?](https://nhigham.com/2022/11/08/what-is-an-eigenvalue/)

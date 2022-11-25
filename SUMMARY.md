@@ -90,6 +90,7 @@
   - [Search Engines](computer_science/search_engines.md)
   - [Technical Writing](computer_science/technical_writing.md)
   - [Web Assembly](computer_science/web_assembly.md)
+  - [DNS](computer_science/dns.md)
 - [Minimalism](minimalism/minimalism.md)
 - [Nature](nature/nature.md)
   - [Life](nature/life.md)

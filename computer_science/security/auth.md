@@ -122,3 +122,5 @@
 - [Are Magic Links Outdated?](https://news.ycombinator.com/item?id=32080540)
 - [The many problems with implementing Single Sign-On](https://stackoverflow.blog/2022/09/12/the-many-problems-with-implementing-single-sign-on/)
 - [Enhance SMS-delivered code security with domain-bound codes](https://developer.apple.com/news/?id=z0i801mg)
+- [Web Authentication: An API for accessing Public Key Credentials](https://www.w3.org/TR/webauthn-2/)
+- [How Passwordless Works](https://goteleport.com/blog/how-passwordless-works/)

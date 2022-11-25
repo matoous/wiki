@@ -9,6 +9,7 @@
 > continue to write a memoir-ish journey of my life for them to read.
 
 - [How I put my whole life into a single database](https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database)
+- [ooh.directory](https://ooh.directory) - directory of other blogs
 
 ## Other wikis
 

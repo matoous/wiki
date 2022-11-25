@@ -24,6 +24,7 @@
 - [The Product Culture Shift](https://www.elidedbranches.com/2022/08/the-product-culture-shift.html)
 - [On the team as a system](https://vickiboykis.com/2022/09/10/on-the-team-as-a-system/)
 - [How to plan?](https://kellanem.com/notes/how-to-plan)
+- [What to do when a beloved employee quits](https://larahogan.me/blog/steps-when-employee-quits/)
 
 ## Engineering
 
@@ -39,3 +40,9 @@
 - [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/)
 - [Manual of Me.](https://www.manualof.me/) - simple document which helps you communicate your working preferences, motivations and needs, so we can all work better together.
 - [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/)
+- [Just Don’t](https://www.tbray.org/ongoing/When/202x/2022/11/07/Just-Dont) - Sometimes it’s wrong to begin a phrase with the word “just”, this article provides a few examples.
+
+## Other jobs
+
+- [Fredericton-based YouTuber woodworks his way to 1.72 million subscribers](https://www.cbc.ca/news/canada/new-brunswick/matthias-wandel-fredericton-woodworker-1.6659038)
+

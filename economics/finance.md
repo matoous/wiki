@@ -42,4 +42,5 @@ In general, I try to follow these rules:
   - random audits underestimate top tax evasion
   - on the other hand, USA is working hard on making tax evasion difficult, the comments on HN go into detail
 - [Top Fiat Currencies by Market Capitalization](https://www.fiatmarketcap.com/)
+- [Welcome to the Principles of Pricing](https://www.principlesofpricing.com) - knowledge, tools, and operating principles which enable B2B SaaS and Cloud businesses to develop best-in-class pricing and monetisation strategies and build in house expertise.
 
