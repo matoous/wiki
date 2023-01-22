@@ -25,6 +25,9 @@
 - [On the team as a system](https://vickiboykis.com/2022/09/10/on-the-team-as-a-system/)
 - [How to plan?](https://kellanem.com/notes/how-to-plan)
 - [What to do when a beloved employee quits](https://larahogan.me/blog/steps-when-employee-quits/)
+- [Engineering Ladders](https://www.engineeringladders.com) - This framework allows software engineering managers to have meaningful conversations with their direct reports around the expectations of each position and how to plan for the next level in their career ladder.
+- [Heroes and Juniors: Increasing Engineering Team Velocity](https://bellmar.medium.com/heroes-and-juniors-increasing-engineering-team-velocity-97ce6a59103e)
+- [Facebook Engineering Process with Kent Beck](https://softwareengineeringdaily.com/2019/08/28/facebook-engineering-process-with-kent-beck/)
 
 ## Engineering
 

@@ -30,4 +30,6 @@
 - [awesome-longevity](https://github.com/atilatech/awesome-longevity)
 - [Ergonomics: Human-Centered Design](http://ergo.human.cornell.edu/default.html)
 - [What if regular exercise is the best cognitive exercise?](https://news.ycombinator.com/item?id=33573246)
+- [Ask HN: Longevity for your parents, what to do?](https://news.ycombinator.com/item?id=32366557)
+  > Multiple studies in both the UK and Australia demonstrate increased mobility, memory, communication, happiness, etc in older people when mixed in with young children.
 

@@ -32,6 +32,7 @@
 - [Staff Engineering at Carta](https://medium.com/building-carta/staff-engineering-at-carta-526b154fd317)
 - [Mailbag: Resources for Engineering Directors](https://lethain.com/mail-bag-resources-for-engineering-directors/)
 - [The Other Kind of Staff Software Engineer](https://earthly.dev/blog/line-staff/)
+- [Mike Acton’s Expectations of Professional Software Engineers](https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/) - 50 basic expectations for a professional software engineer, e.g. "I can articulate precisely what problem I am trying to solve."
 
 ## Engineering Manager
 

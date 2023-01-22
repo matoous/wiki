@@ -25,3 +25,4 @@
 
 - [Riding the FORGOTTEN 100 Year Old Gravel Road Lost in the Norwegian Mountains](https://youtu.be/pqHyZyvI0-I)
 - [cyclingcols](https://www.cyclingcols.com/) - hill profiles and more
+- [Cycling Trip Logistics](https://www.peterispedaling.com/blog/wrap-up-trip-logistics)

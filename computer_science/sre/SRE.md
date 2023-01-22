@@ -11,4 +11,5 @@
 - [DevOps, SRE, and Platform Engineering](https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/)
 - [Eliminating Toil](https://sre.google/sre-book/eliminating-toil/)
 - [Why Twitter Didn’t Go Down: From a Real Twitter SRE](https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a)
+- [How to Build Software like an SRE](https://www.willett.io/posts/precepts/)
 

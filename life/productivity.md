@@ -31,6 +31,7 @@
 - [The Fallacy of Splitting Time](https://www.bennorthrop.com/Essays/2022/fallacy-of-splitting-time.php) -
   each project has overhead (unproductive time) + there's the context switching leading towards less productivity when working on multiple projects.
 - [On the unreasonable effectiveness of streak tracking](https://brandur.org/fragments/streak-tracking)
+- [How to Organize Your Entire Life with the PARA Method](https://www.lifesavvy.com/19446/how-to-organize-your-entire-life-with-the-para-method/)
 
 ## Books
 

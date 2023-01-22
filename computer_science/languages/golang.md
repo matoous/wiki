@@ -59,4 +59,5 @@
 - [Vulnerability Management for Go](https://go.dev/blog/vuln)
 - [Go Style Guide](https://google.github.io/styleguide/go/index)
 - [Running Go application on Kubernetes](https://medium.com/inlocotech/running-go-application-on-kubernetes-6fb55f908258)
+- [The Busy Developer's Guide to Go Profiling, Tracing and Observability](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md)
 

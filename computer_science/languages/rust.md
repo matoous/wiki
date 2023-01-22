@@ -25,6 +25,10 @@
 - [6 things you can do with the Cow 🐄 in Rust 🦀](https://dev.to/kgrech/6-things-you-can-do-with-the-cow-in-rust-4l55)
 - [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)
 - [End-to-end testing for Rust web services](https://blog.logrocket.com/end-to-end-testing-for-rust-web-services/)
+- [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/introduction.html)
+- [Rust in Action](https://www.rustinaction.com/)
+- [Writing an OS in Rust](https://os.phil-opp.com/)
+- [Hard Mode Rust](https://matklad.github.io/2022/10/06/hard-mode-rust.html) - writing a Rust application using only minimal, artificially constrained API (eg, no dynamic memory allocation)
 
 ## Projects
 
@@ -45,6 +49,8 @@
 - [Sea ORM](https://github.com/SeaQL/sea-orm) - async ORM package
 - [Rome](https://rome.tools) - linter and formatter for javascript/typescript
 - [SurrealDB](https://surrealdb.com) - cloud native database
+- [Paperclip](https://github.com/paperclip-rs/paperclip) - OpenAPI specification tooling
+- [Progenitor](https://github.com/oxidecomputer/progenitor) - An OpenAPI client generator
 
 ## Game Dev
 

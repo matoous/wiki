@@ -62,4 +62,5 @@
 - [6.851: Advanced Data Structures](https://courses.csail.mit.edu/6.851/spring21/lectures/)
 - [QR Codes](https://typefully.com/DanHollick/qr-codes-T7tLlNi)
 - [Rope science](https://xi-editor.io/docs/rope_science_00.html)
+- [GDPR For Developers By Example](https://getparthenon.com/blog/gdpr-for-developers-by-example/)
 

@@ -23,6 +23,8 @@
 - [What I learned from Software Engineering at Google](https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/)
 - [Awesome Functional Programming](https://github.com/xgrommx/awesome-functional-programming)
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+- [A debugging manifesto](https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/)
+- [Logging practices I follow](https://www.16elt.com/2023/01/06/logging-practices-I-follow/)
 
 ## Code sharing
 
