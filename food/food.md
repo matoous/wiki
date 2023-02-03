@@ -20,6 +20,8 @@
 - [Cooking for Engineer](http://www.cookingforengineers.com)
 - [Open Food Facts](https://world.openfoodfacts.org)
 - [Why All Athletes Should Eat Plant-Based Diets](https://www.youtube.com/watch?v=0gHubVSP9sE)
+- [Ultimate list of Japanese Vegetable Cutting Techniques](https://thechefdojo.com/japanese-vegetable-cutting-techniques/)
+- [Cast iron leet](https://erock.prose.sh/cast-iron-leet)
 
 ## Products
 

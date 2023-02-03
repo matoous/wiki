@@ -25,6 +25,8 @@
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 - [A debugging manifesto](https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/)
 - [Logging practices I follow](https://www.16elt.com/2023/01/06/logging-practices-I-follow/)
+- [How to Learn to Code](https://headlinedev.xyz/2022/08/12/how-to-learn-to-program.html)
+- [When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
 
 ## Code sharing
 

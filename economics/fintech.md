@@ -10,4 +10,5 @@
 - [How to deal with money in software](https://cs-syd.eu/posts/2022-08-22-how-to-deal-with-money-in-software)
 - [Robinhood launches its own trade-clearing system as customer growth surges](https://www.cnbc.com/2018/10/10/robinhood-launches-its-own-trade-clearing-system-as-customer-growth-surges.html)
 - [Payment Cards Deep Dive](https://fintechgtm.substack.com/p/payment-cards-deep-dive)
+- [Didact AI: The anatomy of an ML-powered stock picking engine](https://principiamundi.com/posts/didact-anatomy/)
 

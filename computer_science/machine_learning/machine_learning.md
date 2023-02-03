@@ -5,3 +5,4 @@
 - [How A.I. Conquered Poker](https://www.nytimes.com/2022/01/18/magazine/ai-technology-poker.html)
 - [Micrograd (python)](https://github.com/karpathy/micrograd)
 - [How GPT3 Works - Visualizations and Animations](http://jalammar.github.io/how-gpt3-works-visualizations-animations/)
+- [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)

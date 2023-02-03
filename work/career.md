@@ -5,7 +5,9 @@
 - [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
 - [Interview Questions to Ask Your Interviewer](https://daveceddia.com/interview-questions-to-ask-company/)
 - [Finding your leadership style](https://sallylait.com/blog/2022/01/25/finding-your-leadership-style/)
+  - A few helpful questions that one can ask themself to identify their leadership style.
 - [Managing people 🤯](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
+  - Not sure how I feel about this one. Not very insightful and I disagree with some of the points.
 - [Help Your Teammates Navigate Moments of Self-doubt](https://larahogan.me/blog/help-your-teammates-navigate-self-doubt/)
 - [How To Criticize Coworkers](https://alexturek.com/2022-03-18-How-to-criticize-coworkers/)
 - [My guiding principles after 20 years of programming](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)
@@ -16,6 +18,12 @@
 - [How Google, Twitter, and Spotify built a culture of documentation](https://medium.com/doctave/how-google-twitter-and-spotify-built-a-culture-of-documentation-47a1ff22911)
 - [Prioritization as a Superpower](https://nbt.substack.com/p/prioritization-as-a-superpower)
 - [Maximizing Developer Effectiveness](https://abinoda.substack.com/p/maximizing-developer-effectiveness)
+- [RFD 1 Requests for Discussion](https://oxide.computer/blog/rfd-1-requests-for-discussion/) - the approach to RFCs at Oxide Computer.
+- [Operating well – what I learned at Stripe](https://samgerstenzang.substack.com/p/operating-well-what-i-learned-at) some take-aways from Sam Gerstenzand's time at Stripe.
+  - Operating well is a state, not an outcome. It's constant process of tweaking, iterating, and tuning.
+  - "Turn up the heat in every interaction and ask uncomfortable questions." - ask uncomfortable questions.
+- [Engineering Levels at Honeycomb: Avoiding the Scope Trap](https://www.honeycomb.io/blog/engineering-levels-at-honeycomb)
+  - 
 
 ## Senior Engineer
 
@@ -26,6 +34,27 @@
 
 ## Staff Engineer
 
+### Responsibilities
+
+**Setting technical direction**: providing vision for long-term technical development of
+specific area, e.g. API design.
+  - getting people from vague sense of "getting better" to clear idea of what "better" is and why
+
+**Mentorship & Sponsorship**[^1]: sharing experience and advice along with understanding the recipient's context.
+
+**Providing engineering perspective**: self descriptive.
+
+**Exploration**: being assigned on new or burning topics to quickly iterate on finding a solution
+(or failing to do so which is fine as well).
+
+**Being glue**[^2]: doing the needed but often invisible work to keep the gears turning.
+
+- Timeframes get longer with higher titles, early on in the career the development cycle can be within weeks or months.
+  In senior roles it shifts to months, quarters, or even longer.
+
+[^1]: https://larahogan.me/blog/what-sponsorship-looks-like/
+[^2]: https://noidea.dog/glue
+
 - [Staff Engineer: Leadership beyond the management track by Will Larson](https://staffeng.com/book) (book)
 - [StaffEng](https://staffeng.com/)
 - [6 ways staff engineers help reach clarity](https://medium.com/volvo-cars-engineering/6-ways-staff-engineers-help-reach-clarity-963c1878accb)
@@ -33,6 +62,8 @@
 - [Mailbag: Resources for Engineering Directors](https://lethain.com/mail-bag-resources-for-engineering-directors/)
 - [The Other Kind of Staff Software Engineer](https://earthly.dev/blog/line-staff/)
 - [Mike Acton’s Expectations of Professional Software Engineers](https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/) - 50 basic expectations for a professional software engineer, e.g. "I can articulate precisely what problem I am trying to solve."
+- [Being a glue](https://noidea.dog/glue)
+- [What does sponsorship look like?](https://larahogan.me/blog/what-sponsorship-looks-like/)
 
 ## Engineering Manager
 

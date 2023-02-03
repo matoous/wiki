@@ -43,4 +43,6 @@ In general, I try to follow these rules:
   - on the other hand, USA is working hard on making tax evasion difficult, the comments on HN go into detail
 - [Top Fiat Currencies by Market Capitalization](https://www.fiatmarketcap.com/)
 - [Welcome to the Principles of Pricing](https://www.principlesofpricing.com) - knowledge, tools, and operating principles which enable B2B SaaS and Cloud businesses to develop best-in-class pricing and monetisation strategies and build in house expertise.
+- [Can the Visa-Mastercard duopoly be broken?](https://www.economist.com/finance-and-economics/2022/08/17/can-the-visa-mastercard-duopoly-be-broken)
+- [Accounting For Developers, Part I](https://www.moderntreasury.com/journal/accounting-for-developers-part-i)
 

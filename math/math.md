@@ -23,3 +23,4 @@
 - [Ask HN: How to learn math from zero for adults?](https://news.ycombinator.com/item?id=31539549)
 - [The Animated Elliptic Curve](https://curves.xargs.org)
 - [What Is an Eigenvalue?](https://nhigham.com/2022/11/08/what-is-an-eigenvalue/)
+- [How to Get a Ph.D. in Mathematics in a Timely Fashion](https://sites.math.washington.edu/~billey/advice/timely.fashion.pdf)

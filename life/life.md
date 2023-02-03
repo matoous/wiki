@@ -50,3 +50,11 @@
 - [Tracking Everything I Wore For 1 Year](https://andrenader.substack.com/p/nfc-clothes-tracker)
 - [On Tea and the Art of Doing Nothing](https://thomasjbevan.substack.com/p/on-tea-and-the-art-of-doing-nothing)
 - [Why are you so busy?](https://tomlingham.com/articles/why-are-you-so-busy/)
+- [On being tired](https://jukkaniiranen.com/2022/02/on-being-tired/)
+  > As I age, I've learned to distinguish "not being excited" (languor) and "being tired" (exhaustion), which to my younger
+  > self felt like the same thing. The former is not always caused by a lack of energy, but also excessive idleness,
+  > especially if I'm doing things that requires attention but also isn't intellectually stimulating.
+  - [On Tea and the Art of Doing Nothing](https://thomasjbevan.substack.com/p/on-tea-and-the-art-of-doing-nothing)
+  - [Why are you so busy?](https://tomlingham.com/articles/why-are-you-so-busy/)
+  - [It Hurts to Ask](https://scholar.princeton.edu/sites/default/files/rbenabou/files/ihta_august_7.pdf)
+
