@@ -52,7 +52,6 @@
 - [Meditations On Moloch (2014)](https://www.lesswrong.com/posts/TxcRbCYHaeL59aY7E/meditations-on-moloch)
 - [Just Too Efficient (2020)](https://www.tbray.org/ongoing/When/202x/2020/07/05/Too-Efficient) ([HN](https://news.ycombinator.com/item?id=23809291))
 - [Why Do People Stay Poor? (2020)](http://sticerd.lse.ac.uk/dps/eopp/eopp67.pdf) ([HN](https://news.ycombinator.com/item?id=23983974))
-- [Basic Economics - Thomas Sowell (2003)](https://www.goodreads.com/book/show/3023.Basic_Economics)
 - [What harm do minimum wages do? (2020)](https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do) ([HN](https://news.ycombinator.com/item?id=24213325))
 - [Matt Levine Writing](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine)
 - [Banks create money, but it's less impressive than it sounds (2020)](https://www.attejuvonen.fi/money-out-of-thin-air/) ([HN](https://news.ycombinator.com/item?id=24326224))
