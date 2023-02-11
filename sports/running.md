@@ -21,3 +21,9 @@
 
 - [Nizkotatranska Stihacka](https://stihacka.hiking.sk/) - 103km, 5700m
 - [Runczech Marathons](https://www.runczech.com/cs/)
+
+## Knee issues
+
+- [Knee exercises for runners](https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/knee-exercises-for-runners/)
+- [Knee Tendonitis, A Medical Myth, And What Is Required To Fix It (video)](https://www.youtube.com/watch?v=B0B9RIdb7zg)
+- [LeanBeefPatty | WARMUP ROUTINE - full body mobility (video)](https://youtu.be/SotLyRb8XjE)

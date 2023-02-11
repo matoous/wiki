@@ -37,6 +37,12 @@
 - [6 Tips to Overcome Scaling Challenges Like Design Decisions, Tech Debt, and Developer Satisfaction](https://alphalist.com/blog/6-tips-to-overcome-scaling-challenges-like-design-decisions-tech-debt-and-developer-satisfaction)
 - [Flo Health’s path to the hiring strategy in engineering](https://medium.com/flo-health/engineering-hiring-strategy-at-flo-health-657dfb9b725)
 - [The Future of Ops Is Platform Engineering](https://www.honeycomb.io/blog/future-ops-platform-engineering)
+- [Daily Standups: The complete guide to productive meetings](https://www.dailybot.com/blog-post/daily-standups-the-complete-guide-to-productive-meetings)
+  - keep it short, 15 minutes
+  - what to discuss:
+    - What did you do yesterday?
+    - What are you planning to do today?
+    - Are you facing any blockers?  
 
 ## Soft Skills
 

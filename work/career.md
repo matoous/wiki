@@ -23,7 +23,7 @@
   - Operating well is a state, not an outcome. It's constant process of tweaking, iterating, and tuning.
   - "Turn up the heat in every interaction and ask uncomfortable questions." - ask uncomfortable questions.
 - [Engineering Levels at Honeycomb: Avoiding the Scope Trap](https://www.honeycomb.io/blog/engineering-levels-at-honeycomb)
-  - 
+  -  
 
 ## Senior Engineer
 

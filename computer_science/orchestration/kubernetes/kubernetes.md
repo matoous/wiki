@@ -77,6 +77,7 @@ kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespac
 
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 - [Official Cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+- [Service mesh use cases](https://lucperkins.dev/blog/service-mesh-use-cases/)
 - [Glossary](https://kubernetes.io/docs/reference/glossary/?fundamental=true)
 - [Minimum Viable Kubernetes](https://eevans.co/blog/minimum-viable-kubernetes/)
 - [Anatomy of my Kubernetes Cluster](https://ttt.io/anatomy-of-my-kubernetes-cluster)
