@@ -15,3 +15,6 @@
 > You're just trying to get some data out of it. Beautiful Soup is here to help.
 > Since 2004, it's been saving programmers hours or days of work on quick-turnaround screen scraping projects.
 
+## Resource
+
+- [Ruff](https://github.com/charliermarsh/ruff) - python linter written in Rust

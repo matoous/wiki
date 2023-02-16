@@ -21,6 +21,12 @@
 - [Are You Still Riding With Pain?](https://new.dynamiccyclist.com/stretching); stratching for cyclists to compansate
   for the cycling posture
 
+## Bikepacking
+
+- [The Western Wildlands Route](https://bikepackingroots.org/project/western-wildlands-route/)
+- [Orogenesis](https://bikepackingroots.org/project/orogenesis/)
+- [Tour Divide](https://en.wikipedia.org/wiki/Tour_Divide)
+
 ## Resources
 
 - [Riding the FORGOTTEN 100 Year Old Gravel Road Lost in the Norwegian Mountains](https://youtu.be/pqHyZyvI0-I)

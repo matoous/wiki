@@ -22,7 +22,9 @@
 
 ## Resources
 
-- [Effective Go](https://golang.org/doc/effective_go)
+- [**Go Style Guide**](https://google.github.io/styleguide/go/index)
+- [**Go Code Review Comments**](https://github.com/golang/go/wiki/CodeReviewComments)
+- [**Effective Go**](https://golang.org/doc/effective_go)
 - [Darker Corners of Go - Rytis Biel](https://rytisbiel.com/2021/03/06/darker-corners-of-go/)
 - [Gotchas in the Go Network Packages Defaults](https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults)
 - [Type Aliases vs Type Definitions in GO](https://alehatsman.com/posts/golang_type_declaration_abuse.html)
@@ -31,7 +33,6 @@
 - [Profiling Go](https://www.integralist.co.uk/posts/profiling-go/)
 - [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 - [Go’s march to low-latency GC](https://blog.twitch.tv/en/2016/07/05/gos-march-to-low-latency-gc-a6fa96f06eb7/)
-- [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [The Zen of Go](https://dave.cheney.net/2020/02/23/the-zen-of-go)
 - [Debugging Go with Delve](https://tpaschalis.github.io/delve-debugging/)
 - [Slice Tricks](https://github.com/golang/go/wiki/SliceTricks)
@@ -57,7 +58,6 @@
 - [Debugging WebAssembly from Go sources in Chrome DevTools](https://blog.noops.land/debugging-webAssembly-from-go-sources-in-chrome-devtools)
 - [Optimizing Your Programs with Continuous Profiling](https://www.polarsignals.com/blog/posts/2022/08/30/optimizing-with-continuous-profiling/)
 - [Vulnerability Management for Go](https://go.dev/blog/vuln)
-- [Go Style Guide](https://google.github.io/styleguide/go/index)
 - [Running Go application on Kubernetes](https://medium.com/inlocotech/running-go-application-on-kubernetes-6fb55f908258)
 - [The Busy Developer's Guide to Go Profiling, Tracing and Observability](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md)
 - [Why Go Getting Generics Will Not Change Idiomatic Go](https://www.jerf.org/iri/post/2955/)

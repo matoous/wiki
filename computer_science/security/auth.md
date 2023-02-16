@@ -124,3 +124,4 @@
 - [Enhance SMS-delivered code security with domain-bound codes](https://developer.apple.com/news/?id=z0i801mg)
 - [Web Authentication: An API for accessing Public Key Credentials](https://www.w3.org/TR/webauthn-2/)
 - [How Passwordless Works](https://goteleport.com/blog/how-passwordless-works/)
+- [The Developer’s Guide to SSO](https://workos.com/blog/the-developers-guide-to-sso) - on SSO, SAML, and more
