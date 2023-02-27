@@ -125,3 +125,4 @@
 - [Web Authentication: An API for accessing Public Key Credentials](https://www.w3.org/TR/webauthn-2/)
 - [How Passwordless Works](https://goteleport.com/blog/how-passwordless-works/)
 - [The Developer’s Guide to SSO](https://workos.com/blog/the-developers-guide-to-sso) - on SSO, SAML, and more
+- [Catch twenty two-factor](https://oversharing.substack.com/p/catch-twenty-two-factor) - some tips on managing MFA

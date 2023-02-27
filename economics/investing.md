@@ -61,6 +61,8 @@ To get up to speed and learn the basics of sane and mindful investing the best s
   steady growth and quality over quantity
 - [Demystifying financial leverage](https://bam.kalzumeus.com/archive/demystifying-financial-leverage/)
 - [No, You Aren’t Going to Get Rich by Options Trading](https://jacobin.com/2022/11/options-trading-stock-market-inequality)
+- [A Wealth of Common Sense](https://awealthofcommonsense.com) - articles about investing for regular people
+- [Bogleheads.org](Bogleheads.org) - HN for investing
 
 ## Places to invest at
 

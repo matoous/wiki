@@ -28,6 +28,7 @@
 - [Engineering Ladders](https://www.engineeringladders.com) - This framework allows software engineering managers to have meaningful conversations with their direct reports around the expectations of each position and how to plan for the next level in their career ladder.
 - [Heroes and Juniors: Increasing Engineering Team Velocity](https://bellmar.medium.com/heroes-and-juniors-increasing-engineering-team-velocity-97ce6a59103e)
 - [Facebook Engineering Process with Kent Beck](https://softwareengineeringdaily.com/2019/08/28/facebook-engineering-process-with-kent-beck/)
+- [It's Time to Do More With Less](https://www.faros.ai/blog/its-time-to-do-more-with-less)
 
 ## Engineering
 
@@ -43,6 +44,7 @@
     - What did you do yesterday?
     - What are you planning to do today?
     - Are you facing any blockers?  
+- [Addressing Tech Debt](https://newsletter.abinoda.com/p/tech-debt)
 
 ## Soft Skills
 

@@ -8,3 +8,5 @@
 - [My Wonderful HTML Email Workflow](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/)
 - [Email is Bad](https://emailisbad.com/)
 - [Falsehoods programmers believe about email](https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email)
+- [Email: explained from first principles](https://explained-from-first-principles.com/email/)
+

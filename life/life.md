@@ -57,4 +57,4 @@
   - [On Tea and the Art of Doing Nothing](https://thomasjbevan.substack.com/p/on-tea-and-the-art-of-doing-nothing)
   - [Why are you so busy?](https://tomlingham.com/articles/why-are-you-so-busy/)
   - [It Hurts to Ask](https://scholar.princeton.edu/sites/default/files/rbenabou/files/ihta_august_7.pdf)
-
+- [How to Build a Life](https://www.theatlantic.com/projects/how-build-life/) - A column about pointing yourself toward happiness 

@@ -399,4 +399,5 @@ kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespac
 - [Kubetools](https://collabnix.github.io/kubetools/) - A Curated List of Kubernetes Tools
 - [Gateway API](https://gateway-api.sigs.k8s.io/)
 - [Cubernetes](https://www.justingarrison.com/blog/2022-07-06-cubernetes/) - RaspberryPI Kubernetes cluster in a travel case
+- [Kubernetes: Make your services faster by removing CPU limits](https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/)
 

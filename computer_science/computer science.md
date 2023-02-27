@@ -65,4 +65,4 @@
 - [GDPR For Developers By Example](https://getparthenon.com/blog/gdpr-for-developers-by-example/)
 - [The Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/)
 - [Advanced Data Structures](https://courses.csail.mit.edu/6.851/spring21/lectures/)
-
+- [A Gentle Introduction to CRDTs (Conflict Free Replicated Data types (CRDTs))](https://vlcn.io/blog/gentle-intro-to-crdts.html)

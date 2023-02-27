@@ -51,8 +51,10 @@
 - [SurrealDB](https://surrealdb.com) - cloud native database
 - [Paperclip](https://github.com/paperclip-rs/paperclip) - OpenAPI specification tooling
 - [Progenitor](https://github.com/oxidecomputer/progenitor) - An OpenAPI client generator
+- [rust-sitter](https://github.com/hydro-project/rust-sitter) - Use Tree Sitter to parse your own languages in Rust
 
 ## Game Dev
 
 - [Extreme Bevy: Making a p2p web game with rust and rollback netcode](https://johanhelsing.studio/posts/extreme-bevy)
 - [Chess game in Rust using Bevy](https://caballerocoll.com/blog/bevy-chess-tutorial/)
+- [Write a First Person Game in 2KB With Rust](https://grantshandy.github.io/posts/raycasting/)
