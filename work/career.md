@@ -18,12 +18,11 @@
 - [How Google, Twitter, and Spotify built a culture of documentation](https://medium.com/doctave/how-google-twitter-and-spotify-built-a-culture-of-documentation-47a1ff22911)
 - [Prioritization as a Superpower](https://nbt.substack.com/p/prioritization-as-a-superpower)
 - [Maximizing Developer Effectiveness](https://abinoda.substack.com/p/maximizing-developer-effectiveness)
-- [RFD 1 Requests for Discussion](https://oxide.computer/blog/rfd-1-requests-for-discussion/) - the approach to RFCs at Oxide Computer.
 - [Operating well – what I learned at Stripe](https://samgerstenzang.substack.com/p/operating-well-what-i-learned-at) some take-aways from Sam Gerstenzand's time at Stripe.
   - Operating well is a state, not an outcome. It's constant process of tweaking, iterating, and tuning.
   - "Turn up the heat in every interaction and ask uncomfortable questions." - ask uncomfortable questions.
 - [Engineering Levels at Honeycomb: Avoiding the Scope Trap](https://www.honeycomb.io/blog/engineering-levels-at-honeycomb)
-  -  
+- [Things they didn’t teach you about Software Engineering](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/)
 
 ## Senior Engineer
 

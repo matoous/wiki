@@ -6,3 +6,7 @@
 
 - [Search for RFCs](https://rfc.fyi)
 
+## Resources
+
+- [RFD 1 Requests for Discussion](https://oxide.computer/blog/rfd-1-requests-for-discussion/) - the approach to RFCs at Oxide Computer.
+

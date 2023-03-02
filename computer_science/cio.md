@@ -4,6 +4,7 @@
 
 ## Resources
 
+- [RFD 1 Requests for Discussion](https://oxide.computer/blog/rfd-1-requests-for-discussion/) - the approach to RFCs at Oxide Computer.
 - [The Power of “Yes, if”: Iterating on our RFC Process](https://engineering.squarespace.com/blog/2019/the-power-of-yes-if)
   - common issues with RFC process:
     - designs don't get deep review and go into implementation phase
@@ -28,3 +29,5 @@
     - 1 hour dedicated to each RFCs
     - attendees are expected to read the RFC beforehand
     - last 10 minutes for decisions, `yes, if ...` or just `yes`
+- [Companies Using RFCs or Design Docs and Examples of These](https://blog.pragmaticengineer.com/rfcs-and-design-docs/)
+- [Software Engineering RFC and Design Doc Examples and Templates](https://newsletter.pragmaticengineer.com/p/software-engineering-rfc-and-design)
