@@ -10,9 +10,12 @@
 
 - [How I put my whole life into a single database](https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database)
 - [ooh.directory](https://ooh.directory) - directory of other blogs
+- [Documenting knowledge: a guide to successful note-taking](https://github.com/readme/guides/documentation-note-taking)
+- [Your future self will thank you: Building your personal documentation](https://github.com/readme/guides/private-documentation)
 
 ## Other wikis
 
 - [100 Rabbits](https://100r.co/site/index.html)
 - [Nikita Voloboev](https://wiki.nikitavoloboev.xyz)
+- [jbranchaud/til](https://github.com/jbranchaud/til) - Today I Learned for programming, over 1000 notes.
 

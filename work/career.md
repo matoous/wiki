@@ -101,3 +101,4 @@ specific area, e.g. API design.
   - Offering product/engineering tradeoffs upfront
   - Quick product validation cycles
   - End-to-end product feature ownership
+- [Brag now, remember later: Document your accomplishments](https://github.com/readme/guides/document-success)
