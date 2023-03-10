@@ -45,6 +45,7 @@
     - What are you planning to do today?
     - Are you facing any blockers?  
 - [Addressing Tech Debt](https://newsletter.abinoda.com/p/tech-debt)
+- [The 25 Percent Rule for Tackling Technical Debt](https://shopify.engineering/technical-debt-25-percent-rule)
 
 ## Soft Skills
 

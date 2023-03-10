@@ -61,4 +61,4 @@
 - [Running Go application on Kubernetes](https://medium.com/inlocotech/running-go-application-on-kubernetes-6fb55f908258)
 - [The Busy Developer's Guide to Go Profiling, Tracing and Observability](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md)
 - [Why Go Getting Generics Will Not Change Idiomatic Go](https://www.jerf.org/iri/post/2955/)
-
+- [Unlocking the Power of Zero Knowledge Proofs with Gnark and Go](https://arriqaaq.substack.com/p/unlocking-the-power-of-zero-knowledge)

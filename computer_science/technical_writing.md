@@ -7,3 +7,6 @@
 - [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
 - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 - [Writing docs well: why should a software engineer care?](https://surfingcomplexity.blog/2022/11/24/writing-docs-well-why-should-a-software-engineer-care/)
+  - building shared understanding
+  - tool for thinking
+  - write to have influence in larger organizations
