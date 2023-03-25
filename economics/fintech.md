@@ -11,4 +11,4 @@
 - [Robinhood launches its own trade-clearing system as customer growth surges](https://www.cnbc.com/2018/10/10/robinhood-launches-its-own-trade-clearing-system-as-customer-growth-surges.html)
 - [Payment Cards Deep Dive](https://fintechgtm.substack.com/p/payment-cards-deep-dive)
 - [Didact AI: The anatomy of an ML-powered stock picking engine](https://principiamundi.com/posts/didact-anatomy/)
-
+- [How to Build an Exchange](https://www.janestreet.com/tech-talks/building-an-exchange/)

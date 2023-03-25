@@ -127,3 +127,5 @@
 - [The Developer’s Guide to SSO](https://workos.com/blog/the-developers-guide-to-sso) - on SSO, SAML, and more
 - [Catch twenty two-factor](https://oversharing.substack.com/p/catch-twenty-two-factor) - some tips on managing MFA
 - [Passwords are dead, long live PassKeys? How to log in, in 2023 ](https://www.ory.sh/overview-login-password-passkey-webauthn-totp-sso-faceid/)
+- [Identity-Native Infrastructure Access Management](https://goteleport.com/static/resources/books/identity-native-infrastructure-access-management-oreilly.pdf)
+  - How to authorize users using certificates.

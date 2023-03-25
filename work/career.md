@@ -23,12 +23,54 @@
   - "Turn up the heat in every interaction and ask uncomfortable questions." - ask uncomfortable questions.
 - [Engineering Levels at Honeycomb: Avoiding the Scope Trap](https://www.honeycomb.io/blog/engineering-levels-at-honeycomb)
 - [Things they didn’t teach you about Software Engineering](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/)
+- [Project Management for Software Engineers](https://sookocheff.com/post/engineering-management/project-management-for-software-engineers/)
+  - **Initiation** - Initiating a project means recognizing that a new project exists and clearly setting out the scope, deliverables, and expectations.
+  - **Planning** - After initiation comes planning — clearly defining the work breakdown, roadmap, and project plan. Most project plans involve some form of Gantt chart or roadmap, though I would suggest tailoring this to your company needs if you are working in a more “agile” setting.
+  - **Execution** - During this phase, the project team spends most of its time completing work, coordinating with people, helping to ensure quality work, keeping track of resources, and updating stakeholders.
+  - **Monitoring and Control** - In parallel with execution, the project team tracks the progress of the project based on the original project plan. This includes tracking the schedule, budget, and scope of the project to make sure it is on track.
+  - **Closure** - Closing a project involves the delivering final results, measuring success, and compiling lessons learned for future projects.
+- [Recognition and rewards at work](https://larahogan.me/blog/what-you-recognize-and-reward/)
+- [Brag now, remember later: Document your accomplishments](https://github.com/readme/guides/document-success)
+- [DevOps culture: Westrum organizational culture](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture)
+  - Good culture that optimizes information flow is predictive of good outcomes
+  - **High cooperation** - Create cross-functional teams that include representatives from each functional area of the software delivery process (business analysts, developers, quality engineers, ops, security, and so on). This practice lets everyone share the responsibility for building, deploying, and maintaining a product. It's also important that there is good cooperation within the team.
+  - **Train the messengers** - This means we want people to bring us bad news so we can make things better. Hold blameless postmortems. By removing blame, you remove fear; and by removing fear, you enable teams to surface problems and solve them more effectively. Also create and foster an environment where it is safe to take smart risks and fail, so that anyone can surface problems at any time—even without the ceremony of a postmortem.
+  - **Share risks** - Along with this, encourage shared responsibilities. Quality, availability, reliability and security are everyone's job. One way to improve the quality of your services is to ensure that developers share responsibility for maintaining their code in production. The improvement in collaboration that comes from sharing responsibility inherently reduces risk: The more eyes on the software delivery process, the more you'll avoid errors in process or planning. Automation also reduces risk, and with the right tool choice, can enable collaboration.
+  - **Encourage bridging** - Break down silos. In addition to creating cross-functional teams, techniques for breaking down silos include co-locating ops with the dev team; including ops in planning throughout the software delivery lifecycle; and implementing ChatOps. Another tip is to identify someone in the organization whose work you don't understand (or whose work frustrates you, like procurement) and invite them to coffee or lunch. Informal discussions help foster better communication, and you may understand why they do what they do—and you can come up with creative solutions together.
+  - **Let failure lead to inquiry** - Again, hold blameless postmortems. The response to failure shapes the culture of an organization. Blaming individuals for failures creates a negative culture. If instead, failures lead you to ask questions about what caused the failures and how you can keep them from happening again in the future, you've improved your technical system, your processes, and your culture.
+  - **Implement novelty** - Encourage experimentation. Giving employees freedom to explore new ideas can lead to great outcomes. Some companies give engineers time each week for experimentation. Others host internal hack days or mini-conferences to share ideas and collaborate. Many new features and products began this way. When you release your employees from habitual pathways and repetitive tasks, they can generate enormous value for your organization. And remember that novelty isn't limited to new products and features. Also encourage and reward improvements in process and ideas that help foster collaboration.
+- [Motivating Developers to Care About Documentation](https://getdx.com/best-practices/documentation-culture-engineering)
+- [10 Tips for Running Engineering Meetings on Zoom](https://medium.com/@vineelshah/10-tips-for-running-engineering-meetings-on-zoom-e52173ce6801)
+- [Make haste slowly: quantify economics](https://lucasfcosta.com/2021/03/27/capacity-and-cost-of-delay.html) - how to priortize features
+- [What Is Negative Engineering?](https://future.com/negative-engineering-and-the-art-of-failing-successfully/)
+  > Negative engineering is the time-consuming and sometimes frustrating work that engineers undertake to ensure the success of their primary objectives.
 
-## Senior Engineer
+## Software Engineer
+
+- [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/amp/)
+  - Proactive with product ideas/opinions
+  - Interest in the business, user behavior and data on this
+  - Curiosity and a keen interest in "why?"
+  - Strong communicators and great relationships with non-engineers
+  - Offering product/engineering tradeoffs upfront
+  - Quick product validation cycles
+  - End-to-end product feature ownership
+- [The Grug Brained Developer](https://grugbrain.dev) - _A layman's guide to thinking like the self-aware smol brained_
+
+## Senior Software Engineer
 
 - [A Senior Engineer's CheckList](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
 - [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
 - [What Makes a Senior Engineer? Writing Software vs Building Systems](https://codewithstyle.info/software-vs-systems/)
+  - **Defining Requirements** - work with the Product Manager to understand what problem they want to solve; maybe you’ll have some ideas on how to solve it with much lower effort?
+  - **Defining NFR’s** - talk to your PM about the non-functional requirements - how many users should the System handle, what are the requirements for performance, throughput, latency? Are there any security or compliance considerations? Do we need auditing? What’s the desired availability?
+  - **Planning Iterations** - work with your team to propose an implementation plan; make sure you define small, demoable milestones, so that you can start delivering value ASAP; agree with the PM on the milestones.
+  - **Determining Dependencies** - make sure you identified all the dependencies outside of your team and work with your EM or with the teams directly to get some ETA’s for them. Adjust your milestones accordingly.
+  - **Testing** - depending on how your company operates, decide on your testing strategy with your team or with the QE team. Agree on the quality threshold needed for the rollout (e.g. no unresolved Major bugs or test coverage above X%).
+  - **Deployment** - work with your team to decide how the system will be deployed. Do you need some new infrastructure for it or can you reuse the existing? If you need a lot of it, what will be the cost?
+  - **Observability** - decide how are you going to monitor the health of the system and set up processes for solving production issues (e.g. team on-call). Use a third-party solution (like Sumo Logic) to set up monitors and dashboards for that purpose.
+  - **Rollout Communication** - once you agree on a rollout date with your team and the PM, make sure that all stakeholders are aware of it. Check whether any documentation changes are required.
+  - **Measuring Success** - decide on metrics that will tell you whether the project was a success. Is anyone using the new system? Do users manage to accomplish their tasks? You can leverage your Observability suite for this purpose.
 - [The Senior Shift](https://skamille.medium.com/the-senior-shift-315f56b79d5)
 
 ## Staff Engineer
@@ -61,6 +103,8 @@ specific area, e.g. API design.
 - [Mailbag: Resources for Engineering Directors](https://lethain.com/mail-bag-resources-for-engineering-directors/)
 - [The Other Kind of Staff Software Engineer](https://earthly.dev/blog/line-staff/)
 - [Mike Acton’s Expectations of Professional Software Engineers](https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/) - 50 basic expectations for a professional software engineer, e.g. "I can articulate precisely what problem I am trying to solve."
+  - For any problem there’s a maximum amount of time and effort worth investing in solving it. At least have some idea of the upper bound.
+  - Read (at least partially) the (available) documentation for the hardware, platform, and tools that you use most commonly.
 - [Being a glue](https://noidea.dog/glue)
 - [What does sponsorship look like?](https://larahogan.me/blog/what-sponsorship-looks-like/)
 
@@ -86,19 +130,3 @@ specific area, e.g. API design.
 
 - [How to Freaking Find Great Developers By Having Them Read Code](https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/#comments)
 
-## Other
-
-- [Motivating Developers to Care About Documentation](https://getdx.com/best-practices/documentation-culture-engineering)
-- [10 Tips for Running Engineering Meetings on Zoom](https://medium.com/@vineelshah/10-tips-for-running-engineering-meetings-on-zoom-e52173ce6801)
-- [Make haste slowly: quantify economics](https://lucasfcosta.com/2021/03/27/capacity-and-cost-of-delay.html) - how to priortize features
-- [What Is Negative Engineering?](https://future.com/negative-engineering-and-the-art-of-failing-successfully/)
-  > Negative engineering is the time-consuming and sometimes frustrating work that engineers undertake to ensure the success of their primary objectives.
-- [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/amp/)
-  - Proactive with product ideas/opinions
-  - Interest in the business, user behavior and data on this
-  - Curiosity and a keen interest in "why?"
-  - Strong communicators and great relationships with non-engineers
-  - Offering product/engineering tradeoffs upfront
-  - Quick product validation cycles
-  - End-to-end product feature ownership
-- [Brag now, remember later: Document your accomplishments](https://github.com/readme/guides/document-success)

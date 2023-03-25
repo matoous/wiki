@@ -20,4 +20,5 @@
 - [Common DB schema change mistakes](https://postgres.ai/blog/20220525-common-db-schema-change-mistakes)
 - [Real-World Engineering Challenges #6: Migrations ](https://newsletter.pragmaticengineer.com/p/real-world-engineering-challenges)
 - [From Postgres to Amazon DynamoDB](https://www.instacart.com/company/how-its-made/from-postgres-to-amazon-dynamodb-%EF%BF%BC/)
+- [How Discord Stores Trillions of Messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
 
