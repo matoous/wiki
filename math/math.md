@@ -24,3 +24,5 @@
 - [The Animated Elliptic Curve](https://curves.xargs.org)
 - [What Is an Eigenvalue?](https://nhigham.com/2022/11/08/what-is-an-eigenvalue/)
 - [How to Get a Ph.D. in Mathematics in a Timely Fashion](https://sites.math.washington.edu/~billey/advice/timely.fashion.pdf)
+- [The Fourier Transform, explained in one sentence](https://blog.revolutionanalytics.com/2014/01/the-fourier-transform-explained-in-one-sentence.html)
+- [Estimating Square Roots in Your Head](https://gregorygundersen.com/blog/2023/02/01/estimating-square-roots/)

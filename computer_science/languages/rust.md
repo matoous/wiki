@@ -30,6 +30,7 @@
 - [Writing an OS in Rust](https://os.phil-opp.com/)
 - [Hard Mode Rust](https://matklad.github.io/2022/10/06/hard-mode-rust.html) - writing a Rust application using only minimal, artificially constrained API (eg, no dynamic memory allocation)
 - [Rust Coreutils: Fixing Low-Hanging Performance Fruit](https://jackson.dev/post/rust-coreutils-dd/)
+- [Rust concepts I wish I learned earlier](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/)
 
 ## Projects
 

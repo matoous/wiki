@@ -274,6 +274,8 @@
 - [Prompts](https://prompts.ai/) - Advanced GPT-3 playground. ([Code](https://github.com/sevazhidkov/prompts-ai))
 - [TextFlint](https://github.com/textflint/textflint) - Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing.
 - [Awesome Text Summarization](https://github.com/icoxfog417/awesome-text-summarization)
+- [The GPT-3 Architecture, on a Napkin](https://dugas.ch/artificial_curiosity/GPT_architecture.html)
+- [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
 
 ## BERT
 

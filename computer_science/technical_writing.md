@@ -10,3 +10,4 @@
   - building shared understanding
   - tool for thinking
   - write to have influence in larger organizations
+- [The Ultimate Guide To Software Architecture Documentation](https://www.workingsoftware.dev/software-architecture-documentation-the-ultimate-guide/)

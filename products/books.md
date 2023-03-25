@@ -1,5 +1,6 @@
 # Books
 
+- [Ask HN: What books changed the way you think about almost everything?](https://news.ycombinator.com/item?id=19087418)
 - [Crafting Interpreters: A Review](https://chidiwilliams.com/post/crafting-interpreters-a-review/)
 - [Announcing “Code” 2nd Edition](http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html)
 - [The Design of Everyday Things — Book Summary & Notes](https://elvischidera.com/2022-06-24-design-everyday-things/)

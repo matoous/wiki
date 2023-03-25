@@ -15,8 +15,7 @@
 - [Average Software Engineering Salaries by Country in 2022](https://codesubmit.io/blog/software-engineer-salary-by-country/) (Comparison of 20+ Countries)
 - [Key Capabilities to drive improvements in Software Delivery Performance](https://srinathramakrishnan.wordpress.com/2018/12/04/key-capabilities-to-drive-improvements-in-software-delivery-performance/#:~:text=Architect%20for%20empowered%20teams%20%E2%80%93%20Architects,that%20will%20enable%20the%20outcomes)
 - [Be good-argument-driven, not data-driven](http://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html)
-  - Prefer good arguments over bad data when making decisions. The metrics need to be well-understood and free from human/social factors
-    if one wants to make decisions based on them.
+  - Prefer good arguments over bad data when making decisions. The metrics need to be well-understood and free from human/social factors if one wants to make decisions based on them.
 - [The Platform and Program Split at Uber: A Milestone Special](https://newsletter.pragmaticengineer.com/p/the-platform-and-program-split-at)
   - Program teams - long-lived, cross-functional teams focused on products
   - Platform Teams - specialized, technical mission, customers are other teams (mostly)
@@ -57,7 +56,8 @@
 - [The Ambiguous Zone](https://www.bennorthrop.com/Essays/2023/the-ambiguous-zone.php) - about finding the balance between _Do what I'm told_ and _Do what I want_. Good engineers operate well in between those two zones.
 - [Being Right Doesn’t Matter](https://medium.com/@royrapoport/being-right-doesnt-matter-70f00e2cd2a4) - _"Being Right is a Booby Prize If You Can’t Persuade Others"_
 - [OKRs are hard](https://skamille.medium.com/okrs-are-hard-b4a6a8491af0)
-- [You Want Modules, Not Microservices](http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html) - 
+- [You Want Modules, Not Microservices](http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
+- [A Framework for Prioritizing Tech Debt](https://www.maxcountryman.com/articles/a-framework-for-prioritizing-tech-debt)
 
 ## Soft Skills
 
