@@ -77,7 +77,6 @@ kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespac
 
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 - [Official Cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
-- [Service mesh use cases](https://lucperkins.dev/blog/service-mesh-use-cases/)
 - [Glossary](https://kubernetes.io/docs/reference/glossary/?fundamental=true)
 - [Minimum Viable Kubernetes](https://eevans.co/blog/minimum-viable-kubernetes/)
 - [Anatomy of my Kubernetes Cluster](https://ttt.io/anatomy-of-my-kubernetes-cluster)
@@ -136,7 +135,6 @@ kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespac
 - [Seldon Core](https://github.com/SeldonIO/seldon-core) - Machine Learning Deployment for Kubernetes.
 - [Kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions.
 - [Conftest](https://github.com/instrumenta/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language.
-- [Kuma](https://github.com/Kong/kuma) - Universal Control Plane for your Service Mesh. ([Web](https://kuma.io/))
 - [Knative Eventing](https://github.com/knative/eventing) - Contains a work-in-progress eventing system that is designed to address a common need for cloud native development.
 - [Navigator](https://github.com/jetstack/navigator) - Kubernetes extension for managing common stateful services on Kubernetes.
 - [kube-aggregator](https://github.com/kubernetes/kube-aggregator) - Aggregator for Kubernetes-style API servers: dynamic registration, discovery summarization, secure proxy.
@@ -155,7 +153,6 @@ kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespac
 - [Bank Vaults](https://github.com/banzaicloud/bank-vaults) - Umbrella project which provides various tools for Vault to make using and operating Hashicorp Vault easier.
 - [RBAC Manager](https://github.com/FairwindsOps/rbac-manager) - Kubernetes operator that simplifies the management of Role Bindings and Service Accounts.
 - [inlets-operator](https://github.com/inlets/inlets-operator) - Your private Kubernetes Service, with a public endpoint.
-- [Chaos Mesh](https://github.com/pingcap/chaos-mesh) - Cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
 - [Grafana Tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes.
 - [Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes (2019)](https://www.goodreads.com/book/show/50351477-kubernetes-best-practices)
 - [PoC to write integration tests in Go with Kubernetes by Gianluca Arbezzano (2019)](https://www.youtube.com/watch?v=Dt-pQSNfXlM)
@@ -204,8 +201,6 @@ kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespac
 - [Rudr](https://github.com/oam-dev/rudr) - Kubernetes Implementation of the Open Application Model.
 - [k3sup](https://github.com/alexellis/k3sup) - Light-weight utility to get from zero to KUBECONFIG with k3s on any local or remote VM.
 - [CRI-O](https://github.com/cri-o/cri-o) - OCI-based implementation of Kubernetes Container Runtime Interface.
-- [Linkerd](https://github.com/linkerd/linkerd2) - Service mesh for Kubernetes and beyond. ([Web](https://linkerd.io/))
-- [linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) - World's best service mesh proxy.
 - [Predictive Horizontal Pod Autoscaler](https://github.com/jthomperoo/predictive-horizontal-pod-autoscaler)
 - [Kubie](https://github.com/sbstp/kubie) - More powerful alternative to kubectx and kubens. ([Article](https://blog.sbstp.ca/introducing-kubie/))
 - [Crossplane](https://github.com/crossplane/crossplane) - Open source control plane to manage your infrastructure and applications the Kubernetes way. ([Web](https://crossplane.io/))
@@ -249,7 +244,6 @@ kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespac
 - [Kubernetes External Secrets](https://github.com/godaddy/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes.
 - [A single-node Kubernetes cluster without virtualization or a container registry (2020)](https://notes.eatonphil.com/a-single-node-kubernetes-cluster-without-virtualization-or-a-container-registry.html)
 - [A Hacker’s Guide to Kubernetes Networking (2017)](https://thenewstack.io/hackers-guide-kubernetes-networking/)
-- [Multi-Cluster Kubernetes and Service Mesh Patterns (2020)](https://www.solo.io/blog/webinar-recap-multi-cluster-kubernetes-and-service-mesh-patterns/)
 - [Tools to use with the controller-runtime libraries](https://github.com/kubernetes-sigs/controller-tools)
 - [How to Create Ephemeral Environments using Crossplane and ArgoCD? (2020)](https://www.infracloud.io/blogs/how-to-create-ephemeral-environments-using-crossplane-and-argocd/)
 - [Gitpod](https://github.com/gitpod-io/gitpod) - Open-source Kubernetes application providing fully-baked, collaborative development environments in your browser - powered by VS Code. ([Article](https://www.gitpod.io/blog/opensource/))
@@ -265,7 +259,6 @@ kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespac
 - [kubecolor](https://github.com/dty1er/kubecolor) - Colorize your kubectl output.
 - [MicroK8s](https://github.com/ubuntu/microk8s) - Small, fast, single-package Kubernetes for developers, IoT and edge. ([Web](https://microk8s.io/)) ([HN](https://news.ycombinator.com/item?id=24786646))
 - [Evolution of k8s worker nodes (2020)](https://thechief.io/c/abvijaykumar/evolution-k8s-worker-nodes/)
-- [Kiali](https://kiali.io/) - Service mesh observability and configuration. ([Kiali Operator](https://github.com/kiali/kiali-operator)) ([Kiali Front End](https://github.com/kiali/kiali-ui))
 - [KubeVirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines. ([Web](https://kubevirt.io/))
 - [Cluster Turndown](https://github.com/kubecost/cluster-turndown) - Automated turndown of Kubernetes clusters on specific schedules.
 - [Kubernetes Enhancements](https://github.com/kubernetes/enhancements)
@@ -304,7 +297,6 @@ kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespac
 - [Kubectl Tricks](https://kuber.host/docs/kubectl_tricks)
 - [Kuber](https://kuber.host/) - Managed Kubernetes Cloud.
 - [Kubernetes Website Code](https://github.com/kubernetes/website)
-- [Open Service Mesh (OSM)](https://github.com/openservicemesh/osm) - Lightweight, extensible, Cloud Native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments. ([Web](https://openservicemesh.io/))
 - [A better Kubernetes from the ground up (2020)](https://blog.dave.tf/post/new-kubernetes/) ([HN](https://news.ycombinator.com/item?id=25243159)) ([Lobsters](https://lobste.rs/s/x2e6q5/better_kubernetes_from_ground_up))
 - [Bootstrap OpenFaaS Cloud for your team](https://github.com/openfaas/ofc-bootstrap)
 - [Kubernetes Examples](https://github.com/kubernetes/examples) - Contains a number of examples of how to run real applications with Kubernetes.
@@ -348,7 +340,6 @@ kubectl get [pods/services/ingress/deployments/...] [-n namespace/--all-namespac
 - [Weave Scope](https://github.com/weaveworks/scope) - Troubleshooting & Monitoring for Docker & Kubernetes. ([Web](https://www.weave.works/oss/scope/))
 - [Kubernetes on Rails](https://kubernetesonrails.com/) - Premium training course to get you up-to-speed on deploying web applications using Kubernetes.
 - [apimachinery](https://github.com/kubernetes/apimachinery) - Scheme, typing, encoding, decoding, and conversion packages for Kubernetes and Kubernetes-like API objects.
-- [Marblerun](https://github.com/edgelesssys/marblerun) - Service mesh for confidential computing. Deploy, scale, and verify your confidential microservices on vanilla Kubernetes. 100% Go, 100% cloud native. ([Web](https://marblerun.sh/))
 - [Awesome Kubernetes Operators](https://github.com/operator-framework/awesome-operators)
 - [Suspicious pods](https://github.com/edrevo/suspicious-pods) - Prints a list of k8s pods that might not be working correctly.
 - [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) - Intentionally vulnerable cluster environment to learn and practice Kubernetes security. ([Web](https://madhuakula.com/kubernetes-goat/about.html))
