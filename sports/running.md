@@ -16,6 +16,8 @@
 - [Kilian Jornet's Advice to Race Faster, For Non-Elites | Extramilest Show #51](https://youtu.be/OJZO-t6O5Bk)
 - [Kilian Jornet's Running Advice, UTMB 2022, Recovery, Nutrition and more!](https://youtu.be/cU7cNo7ZwUk)
 - [Exercises for runners](https://youtu.be/Z7YGMqGos50)
+- [Life Isn’t Fair. He Didn’t Want This Race to Be, Either.](https://web.archive.org/web/20230318143835/https://www.nytimes.com/2023/03/18/sports/gary-cantrell-barkley-marathons.html/) - about Barkley Marathon #running #ultratrail #endurance #sports
+- [The 2023 Barkley Marathons](https://ultrarunninghistory.com/2023-barkley-marathons/) #running #ultratrail #endurance #sports
 
 ## Races
 

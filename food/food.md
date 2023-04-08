@@ -22,6 +22,9 @@
 - [Why All Athletes Should Eat Plant-Based Diets](https://www.youtube.com/watch?v=0gHubVSP9sE)
 - [Ultimate list of Japanese Vegetable Cutting Techniques](https://thechefdojo.com/japanese-vegetable-cutting-techniques/)
 - [Cast iron leet](https://erock.prose.sh/cast-iron-leet)
+- [The Surprising Roots of Japan's Indian Curry](https://one-from-nippon.ghost.io/indo-curry/)
+- [Give babies peanut butter to cut allergy by 77%, study says](https://www.bbc.com/news/health-64987074) #food #allergies #parenting
+  - [Bamba (snack)](https://en.wikipedia.org/wiki/Bamba_(snack))
 
 ## Products
 

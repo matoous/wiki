@@ -9,3 +9,4 @@
 
 - [NIST Announces First Four Quantum-Resistant Cryptographic Algorithms](https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms)
   - [CRYSTALS](https://pq-crystals.org/index.shtml)
+- [An incomplete guide to stealth addresses](https://vitalik.ca/general/2023/01/20/stealth.html)

@@ -58,3 +58,14 @@
   - [Why are you so busy?](https://tomlingham.com/articles/why-are-you-so-busy/)
   - [It Hurts to Ask](https://scholar.princeton.edu/sites/default/files/rbenabou/files/ihta_august_7.pdf)
 - [How to Build a Life](https://www.theatlantic.com/projects/how-build-life/) - A column about pointing yourself toward happiness 
+- [How To Do Hard Things](https://every.to/no-small-plans/how-to-do-hard-things)
+- [Henry Marsh: ‘Preparing to die has a lot to do with having had a good life’](https://english.elpais.com/science-tech/2023-04-01/henry-marsh-preparing-to-die-has-a-lot-to-do-with-having-had-a-good-life.html)
+- [The Finnish Secret to Happiness? Knowing When You Have Enough.](https://web.archive.org/web/20230402074052/https://www.nytimes.com/2023/04/01/world/europe/finland-happiness-optimism.html)
+- [Carl Braun on Communicating Like a Grown-Up](https://fs.blog/carl-braun-communicating/)
+  - _Assume Good Motives_
+    - we need stimulation of disagreement
+    - question other's information, reasoning, and conclusions — but never their motives
+  - _Remind, Not Tell_
+    - recognition of error and its examination is a sure way to avoid its being repeated
+- [The Kids are Not Okay](https://thezvi.wordpress.com/2023/03/08/the-kids-are-not-okay/) #psychology #life #sociology
+- [Anki-fy Your Life](https://abouttolearn.substack.com/p/anki-fy-your-life) #memory #life

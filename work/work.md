@@ -28,6 +28,19 @@
 - [Heroes and Juniors: Increasing Engineering Team Velocity](https://bellmar.medium.com/heroes-and-juniors-increasing-engineering-team-velocity-97ce6a59103e)
 - [Facebook Engineering Process with Kent Beck](https://softwareengineeringdaily.com/2019/08/28/facebook-engineering-process-with-kent-beck/)
 - [It's Time to Do More With Less](https://www.faros.ai/blog/its-time-to-do-more-with-less)
+- [Why Groups Struggle to Solve Problems Together](https://hbr.org/2019/11/why-groups-struggle-to-solve-problems-together)
+  - Leaders are too lazy to craft thoughtful agendas.
+  - Managers hold pointless meetings as a way to flex their power.
+  - Distracted attendees, selfishly preoccupied with their own work, come woefully unprepared.
+  - 5 stages to solve a problem:
+    - define the problem
+    - generate solutions
+    - evaluate solutions
+    - pick a solution
+    - make a plan
+  - we move between the stages back and forth, it's not a linear progress
+- [I’ve been employed in tech for years, but I’ve almost never worked](https://emaggiori.com/employed-in-tech-for-years-but-almost-never-worked/) #work #antiwork
+  - task bloating - overestimating the time a task will require
 
 ## Engineering
 
@@ -58,6 +71,9 @@
 - [OKRs are hard](https://skamille.medium.com/okrs-are-hard-b4a6a8491af0)
 - [You Want Modules, Not Microservices](http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
 - [A Framework for Prioritizing Tech Debt](https://www.maxcountryman.com/articles/a-framework-for-prioritizing-tech-debt)
+- [Rewrite, refactor, or reinvent?](https://herbcaudill.com/words/20190219-rewrite-refactor-reinvent)
+- [How to be a -10x Engineer](https://taylor.town/-10x) - how to be the oposit of 10x engineer
+- [Why Engineers Need To Write](https://www.developing.dev/p/why-engineers-need-to-write) #writing #engineering #technical-writing
 
 ## Soft Skills
 
@@ -70,3 +86,37 @@
 
 - [Fredericton-based YouTuber woodworks his way to 1.72 million subscribers](https://www.cbc.ca/news/canada/new-brunswick/matthias-wandel-fredericton-woodworker-1.6659038)
 
+## Notes
+
+### Agile
+
+#### Four values of Agile
+
+- individuals and interactions over processes and tools;
+- working software over comprehensive documentation;
+- customer collaboration over contract negotiation; and
+- responding to change over following a plan.
+
+#### The 12 principles
+
+- Satisfying customers through early and continuous delivery of valuable work.
+- Breaking big work down into smaller tasks that can be completed quickly.
+- Recognizing that the best work emerges from self-organized teams.
+- Providing motivated individuals with the environment and support they need and trusting them to get the job done.
+- Creating processes that promote sustainable efforts.
+- Maintaining a constant pace for completed work.
+- Welcoming changing requirements, even late in a project.
+- Assembling the project team and business owners on a daily basis throughout the project.
+- Having the team reflect at regular intervals on how to become more effective, then tuning and adjusting behavior accordingly.
+- Measuring progress by the amount of completed work.
+- Continually seeking excellence.
+- Harnessing change for a competitive advantage.
+
+### CAP Theorem
+
+
+The [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem), states that any distributed data store can provide only two of the following three guarantees:
+
+- **Consistency** - Every read receives the most recent write or an error.
+- **Availability** - Every request receives a (non-error) response, without the guarantee that it contains the most recent write.
+- **Partition tolerance** - The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes.

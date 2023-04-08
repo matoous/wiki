@@ -62,3 +62,6 @@
 - [The Busy Developer's Guide to Go Profiling, Tracing and Observability](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md)
 - [Why Go Getting Generics Will Not Change Idiomatic Go](https://www.jerf.org/iri/post/2955/)
 - [Unlocking the Power of Zero Knowledge Proofs with Gnark and Go](https://arriqaaq.substack.com/p/unlocking-the-power-of-zero-knowledge)
+- [Diving Deep Into The Golang Channels.](https://codeburst.io/diving-deep-into-the-golang-channels-549fd4ed21a8) #golang
+- [Go runtime: 4 years later](https://go.dev/blog/go119runtime) #golang #runtime #scheduler
+- [Analysis of the Go runtime scheduler](http://www1.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf) #golang #runtime #scheduler

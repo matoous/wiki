@@ -44,6 +44,7 @@
 - [Make haste slowly: quantify economics](https://lucasfcosta.com/2021/03/27/capacity-and-cost-of-delay.html) - how to priortize features
 - [What Is Negative Engineering?](https://future.com/negative-engineering-and-the-art-of-failing-successfully/)
   > Negative engineering is the time-consuming and sometimes frustrating work that engineers undertake to ensure the success of their primary objectives.
+- [Career Cheat Codes I Know at 36 That I Wish I Knew at 26](https://scribe.rip/swlh/career-cheat-codes-i-know-at-36-that-i-wish-i-knew-at-26-b0e385fa9988)
 
 ## Software Engineer
 
@@ -56,6 +57,7 @@
   - Quick product validation cycles
   - End-to-end product feature ownership
 - [The Grug Brained Developer](https://grugbrain.dev) - _A layman's guide to thinking like the self-aware smol brained_
+- [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
 
 ## Senior Software Engineer
 

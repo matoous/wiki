@@ -13,3 +13,4 @@
 - [26 excercises for bulletproof knees](https://robertsontrainingsystems.com/blog/26-tip-bulletproof-knees/)
 - [25 Min. Full Body Mobility Workout | Circuit Training | Follow Along | No Equipment](https://www.youtube.com/watch?v=jPdft5H34C8)
 - [Knee exercises for runners](https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/knee-exercises-for-runners/)
+- [HEXATREK - France's Thru Hiking Trail](https://en.hexatrek.com)

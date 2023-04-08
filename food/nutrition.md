@@ -7,3 +7,4 @@
 - [Why does iron deficiency cause fatigue, even in the absence of anemia?](https://news.ycombinator.com/item?id=31968114)
 - [NutritionFacts.org](https://nutritionfacts.org)
 - [Dr. Rhonda Patrick: Micronutrients for Health & Longevity | Huberman Lab Podcast #70](https://youtu.be/XcvhERcZpWw)
+- [The Next Big Performance-Booster Is Already in Your Kitchen](https://www.outsideonline.com/health/training-performance/maurten-baking-soda-performance-boost/) - the power of baking soda
