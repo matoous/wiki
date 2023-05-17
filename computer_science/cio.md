@@ -31,3 +31,4 @@
     - last 10 minutes for decisions, `yes, if ...` or just `yes`
 - [Companies Using RFCs or Design Docs and Examples of These](https://blog.pragmaticengineer.com/rfcs-and-design-docs/)
 - [Software Engineering RFC and Design Doc Examples and Templates](https://newsletter.pragmaticengineer.com/p/software-engineering-rfc-and-design)
+- [A Tool for Discussion](https://oxide.computer/blog/a-tool-for-discussion)

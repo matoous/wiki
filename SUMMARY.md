@@ -145,3 +145,5 @@
   - [Blogs](/reading/blogs.md)
 - [Design](/design/design.md)
   - [Drawing](/design/drawing.md)
+- [Living](/living/living.md)
+  - [Berlin](/living/berlin.md)
