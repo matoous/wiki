@@ -61,6 +61,12 @@
 
 ## Senior Software Engineer
 
+### Responsibilities
+
+- Connect the dots between engineering and revenue
+
+### Resources
+
 - [A Senior Engineer's CheckList](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
 - [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
 - [What Makes a Senior Engineer? Writing Software vs Building Systems](https://codewithstyle.info/software-vs-systems/)

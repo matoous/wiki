@@ -50,4 +50,4 @@
 - [The Mac that saved Apple](https://sixcolors.com/post/2020/12/20-macs-for-2020-1-imac-g3/) ([HN](https://news.ycombinator.com/item?id=25566642))
 - [macOS Setup after 15 Years of Linux](https://hookrace.net/blog/macos-setup/)
 - [Hardening macOS](https://www.bejarano.io/hardening-macos/)
-
+- [macOS internal](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)

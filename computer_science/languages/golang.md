@@ -65,3 +65,4 @@
 - [Diving Deep Into The Golang Channels.](https://codeburst.io/diving-deep-into-the-golang-channels-549fd4ed21a8) #golang
 - [Go runtime: 4 years later](https://go.dev/blog/go119runtime) #golang #runtime #scheduler
 - [Analysis of the Go runtime scheduler](http://www1.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf) #golang #runtime #scheduler
+- [Profiling Go Programs](https://benchkram.de/blog/dev/profiling-go-programs)

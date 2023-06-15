@@ -18,3 +18,4 @@
 - [Life Under The Ice](https://lifeundertheice.org/) - Exploratory tour through the microscopic world of Antarctica.
 - [Is Netflix's Seaspiracy film right about fishing damaging oceans?](https://www.bbc.co.uk/news/56660823) - ([HN](https://news.ycombinator.com/item?id=26748592)
 - [Enormous 'rogue waves' can appear out of nowhere. Math is revealing their secrets.](https://www.nationalgeographic.com/science/article/mathematicians-may-soon-be-able-to-predict-enormous-rogue-waves)
+- [An Ominous Heating Event Is Unfolding in the Oceans](https://www.wired.com/story/an-ominous-heating-event-is-unfolding-in-the-oceans/)
