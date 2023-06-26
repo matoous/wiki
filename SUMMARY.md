@@ -69,6 +69,7 @@
   - [Software](/computer_science/software/software.md)
     - [VPN](/computer_science/software/vpn.md)
   - [Standards](/computer_science/standards/standards.md)
+  - [Developer Experience](/computer_science/developer_experience.md)
   - [Databases](/computer_science/databases/databases.md)
     - [Postgres](/computer_science/databases/postgres.md)
     - [Redis](/computer_science/databases/redis.md)

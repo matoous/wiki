@@ -45,6 +45,7 @@
 - [What Is Negative Engineering?](https://future.com/negative-engineering-and-the-art-of-failing-successfully/)
   > Negative engineering is the time-consuming and sometimes frustrating work that engineers undertake to ensure the success of their primary objectives.
 - [Career Cheat Codes I Know at 36 That I Wish I Knew at 26](https://scribe.rip/swlh/career-cheat-codes-i-know-at-36-that-i-wish-i-knew-at-26-b0e385fa9988)
+- [Burnout](https://drewdevault.com/2023/05/01/2023-05-01-Burnout.html)
 
 ## Software Engineer
 

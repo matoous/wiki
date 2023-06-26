@@ -6,8 +6,6 @@
 
 ## Resources
 
-- [What is Developer Experience? a roundup of links and goodness](https://redmonk.com/jgovernor/2022/02/21/what-is-developer-experience-a-roundup-of-links-and-goodness/)
-- [Developer Experience Infrastructure (DXI)](https://kenneth.io/post/developer-experience-infrastructure-dxi)
 - [How to Tool for Developer Productivity](https://alphalist.com/blog/how-to-tool-for-developer-productivity)
 - [Long Names Are Long](https://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/) - how to name variables
   - Omit words that are obvious given a variable’s or parameter’s type: `weekDaysList` vs. `weekDays`
