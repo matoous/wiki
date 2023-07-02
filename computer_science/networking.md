@@ -9,4 +9,5 @@
 - [Extreme HTTP Performance Tuning: 1.2M API req/s on a 4 vCPU EC2 Instance](https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/)
 - [What does it mean to listen on a port?](https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port/)
 - [A Primer on Proxies](https://blog.cloudflare.com/a-primer-on-proxies/)
-- [Load Balancing](https://samwho.dev/load-balancing/)
+- [Load Balancing](https://samwho.dev/load-balancing/) #load-balancing #gateway #networking
+- [How we built the Tinder API Gateway](https://medium.com/tinder/how-we-built-the-tinder-api-gateway-831c6ca5ceca) #networking #gateway #api-gateway

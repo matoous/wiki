@@ -32,9 +32,10 @@
   each project has overhead (unproductive time) + there's the context switching leading towards less productivity when working on multiple projects.
 - [On the unreasonable effectiveness of streak tracking](https://brandur.org/fragments/streak-tracking)
 - [How to Organize Your Entire Life with the PARA Method](https://www.lifesavvy.com/19446/how-to-organize-your-entire-life-with-the-para-method/)
+- [How to Do the Thing You've Been Avoiding](https://jasonfeifer.beehiiv.com/p/the-thing-that-seems-like-a-bad-idea-maybe-try-it) #productivity #procrastination
+- [Smart Guy Productivity Pitfalls](https://waivek.github.io/website/tooltip.html) #productivity
 
 ## Books
 
-- [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563)
-- [How To Live On 24 Hours A Day](https://www.amazon.com/How-Live-24-Hours-Day/dp/1603863680)
-
+- [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563) #productivity #book
+- [How To Live On 24 Hours A Day](https://www.amazon.com/How-Live-24-Hours-Day/dp/1603863680) #productivity #book

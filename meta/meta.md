@@ -12,6 +12,8 @@
 - [ooh.directory](https://ooh.directory) - directory of other blogs
 - [Documenting knowledge: a guide to successful note-taking](https://github.com/readme/guides/documentation-note-taking)
 - [Your future self will thank you: Building your personal documentation](https://github.com/readme/guides/private-documentation)
+- [I built a perfect note taking system](https://thesloth.me/posts/6/)
+  - [dullage/flatnotes](https://github.com/dullage/flatnotes) - self hosted note taking web app
 
 ## Other wikis
 

@@ -46,3 +46,6 @@ In general, I try to follow these rules:
 - [Can the Visa-Mastercard duopoly be broken?](https://www.economist.com/finance-and-economics/2022/08/17/can-the-visa-mastercard-duopoly-be-broken)
 - [Accounting For Developers, Part I](https://www.moderntreasury.com/journal/accounting-for-developers-part-i)
 - [The Games People Play With Cash Flow](https://commoncog.com/cash-flow-games/)
+- [Bits about Money](https://www.bitsaboutmoney.com) #money #finance #blog
+- [Pricing Money](http://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html) - A Beginner's GUide to Money, Bonds, Futures and Swaps #book #finance #money
+  - and the [HN Discussion](https://news.ycombinator.com/item?id=36358754)

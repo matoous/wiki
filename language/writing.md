@@ -1,5 +1,7 @@
 # Writing
 
+Example of well written technical paper: [A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) by C. E. Shannon (1948)
+
 ## Resources
 
 - [Creating a writing culture](https://learnings.substack.com/p/creating-a-writing-culture)
@@ -21,6 +23,12 @@
 - [Lose the very](https://www.losethevery.com) - atlernatives for _very_ + _subjective_
 - [SHORT-FINGERED VULGARIANS AT THE GATE (OR HOW I BECAME A TYPOGRAPHER, PT. 2)](https://matthewbutterick.com/chron/short-fingered-vulgarians-at-the-gate.html) #typography #writing
 - [En dash, em dash and hyphen; what’s the difference? (also ndash and mdash, or n-dash and m-dash)](https://www.punctuationmatters.com/en-dash-em-dash-hyphen/) #typography #writing
+- [Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
+- [US Federal plain language guidelines](https://www.plainlanguage.gov)
+- [The Complete Plain Words](https://en.wikipedia.org/wiki/The_Complete_Plain_Words) (Book)
+- [Common Errors in Technical Writing](https://www.ece.ucdavis.edu/~jowens/commonerrors.html)
+- [University of Minnesota - Style Manual](https://web.archive.org/web/20100317141605/http://www1.umn.edu/urelate/style/language-usage.html)
+- [Why Write?](https://bastian.rieck.me/blog/posts/2023/writing_why/)
 
 ## Paper Writing
 

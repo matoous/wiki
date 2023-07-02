@@ -35,4 +35,4 @@
 - [The Kelly criterion: How to size bets](https://explore.paulbutler.org/bet/)
 - [IQ, trading behavior, and performance](https://www.gwern.net/docs/iq/ses/2012-grinblatt.pdf)
 - [Genetic Endowments and Wealth Inequality](https://www.gwern.net/docs/economics/2020-barth.pdf)
-
+- [Case Study: Algorithmic Trading With Go](https://polygon.io/blog/case-study-algorithmict-trading-with-go/)

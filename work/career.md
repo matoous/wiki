@@ -46,6 +46,21 @@
   > Negative engineering is the time-consuming and sometimes frustrating work that engineers undertake to ensure the success of their primary objectives.
 - [Career Cheat Codes I Know at 36 That I Wish I Knew at 26](https://scribe.rip/swlh/career-cheat-codes-i-know-at-36-that-i-wish-i-knew-at-26-b0e385fa9988)
 - [Burnout](https://drewdevault.com/2023/05/01/2023-05-01-Burnout.html)
+- [How to make difficult technical decisions you and your team won't regret](https://careercutler.substack.com/p/how-to-make-difficult-technical-decisions)
+  - What is the cost of making the wrong decision?
+  - What is the ramp-up time of the decision? E.g. do you have early adopters you can try with?
+
+## Salary
+
+- [How you can ~1.5x your salary through negotiation](https://careercutler.substack.com/p/how-you-can-15x-your-salary-through)
+  - Always start by asking for salary range (when being hired)
+  - Approach the negotiation as a conversation, not negotiation
+  - Seek leverage:
+    - Get other offers
+    - Line up other interview as a future leverage
+    - Make the company really want you by excelling in the interviews (prepare for them, consider it an investement)
+    - Sometimes the leverage doesn't need additional work: the company needs you to sign quickly, the company doesn't want to loose you, the company wants you to be invested, etc.
+  - Negotiation isn't just about salary base: additional equity, signing bonus, relocation bonus, extra time off, etc.
 
 ## Software Engineer
 

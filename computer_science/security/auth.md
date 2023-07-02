@@ -2,7 +2,6 @@
 
 ## Resources
 
-- [Ory Keto](https://github.com/ory/keto) - Open source implementation of "Zanzibar: Google's Consistent, Global Authorization System".
 - [Basic HTTP Auth via Cloudflare Workers](https://github.com/dommmel/cloudflare-workers-basic-auth) - Can be used to protect static HTML pages.
 - [Single Sign-On Solutions (2021)](https://www.reddit.com/r/selfhosted/comments/mu9gsm/single_signon_solutions/)
 - [AuthCompanion](https://github.com/pmprosociety/authcompanion) - Effortless, open source, token-based user management server - well suited for microservices and static website projects.
@@ -15,7 +14,6 @@
 - [JWT is Awesome: Here's Why (2020)](https://thehftguy.com/2020/02/18/jwt-is-awesome-heres-why/) ([HN](https://news.ycombinator.com/item?id=22354534))
 - [Learn Authentication The Hard Way (2020)](https://www.andrew-best.com/posts/learn-auth-the-hard-way-part-one/)
 - [Ask HN: What are problems with implementing authentication and authorization? (2020)](https://news.ycombinator.com/item?id=22512786)
-- [Zanzibar: Google’s Consistent, Global Authorization System (2019)](https://www.youtube.com/watch?v=mstZT431AeQ) ([Web](https://research.google/pubs/pub48190/))
 - [OAuth2 Proxy](https://github.com/oauth2-proxy/oauth2-proxy) - Reverse proxy that provides authentication with Google, Github or other providers.
 - [Verifiable Credentials Data Model](https://w3c.github.io/vc-data-model/) - Expressing verifiable information on the Web. ([Code](https://github.com/w3c/vc-data-model))
 - [Authelia](https://github.com/authelia/authelia) - Single Sign-On Multi-Factor portal for web apps.
@@ -129,3 +127,19 @@
 - [Passwords are dead, long live PassKeys? How to log in, in 2023 ](https://www.ory.sh/overview-login-password-passkey-webauthn-totp-sso-faceid/)
 - [Identity-Native Infrastructure Access Management](https://goteleport.com/static/resources/books/identity-native-infrastructure-access-management-oreilly.pdf)
   - How to authorize users using certificates.
+
+## IAM
+
+### Resources
+
+- [Why Google Zanzibar Shines at Building Authorization](https://blog.warrant.dev/why-zanzibar-shines-at-building-authorization/)
+- [Ory Keto](https://github.com/ory/keto) - Open source implementation of "Zanzibar: Google's Consistent, Global Authorization System".
+- [Zanzibar: Google’s Consistent, Global Authorization System (2019)](https://www.youtube.com/watch?v=mstZT431AeQ) ([Web](https://research.google/pubs/pub48190/))
+
+### Implementations
+
+- [Warrant](https://github.com/warrant-dev/warrant) - support of roles & permissions out of the box (they provide leaner API on top of the underlying ReBAC system), fairly new
+- [OpenFGA](https://openfga.dev/) - backed by Auth0, custom DSL
+- [Ory Keto](https://github.com/ory/keto) - exists for the longest, offered as enterprise product by Ory, typescript based configuration language that is easy to read/write/reason about
+- [Permify](https://permify.co/)
+- [Aserto](https://www.aserto.com/)

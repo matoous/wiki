@@ -19,6 +19,7 @@
 - [rf](https://pkg.go.dev/rsc.io/rf) - experimental refactoring tool
 - [Colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup 
 - [lensm](https://github.com/loov/lensm) - Go assembly and source viewer
+- [Wazero](https://wazero.io) - zero dependency WebAssembly runtime for golang
 
 ## Resources
 
@@ -66,3 +67,4 @@
 - [Go runtime: 4 years later](https://go.dev/blog/go119runtime) #golang #runtime #scheduler
 - [Analysis of the Go runtime scheduler](http://www1.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf) #golang #runtime #scheduler
 - [Profiling Go Programs](https://benchkram.de/blog/dev/profiling-go-programs)
+- [Case Study: Algorithmic Trading With Go](https://polygon.io/blog/case-study-algorithmict-trading-with-go/)

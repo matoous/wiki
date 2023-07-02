@@ -66,3 +66,5 @@
 - [The Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/)
 - [Advanced Data Structures](https://courses.csail.mit.edu/6.851/spring21/lectures/)
 - [A Gentle Introduction to CRDTs (Conflict Free Replicated Data types (CRDTs))](https://vlcn.io/blog/gentle-intro-to-crdts.html)
+- [Bootcamp](https://github.com/Lesabotsy/bootcamp) - guide for people who want to self-study the basics of Computer Science #study #computer-science #guide
+- [What I Learned From Two Years of Teaching High School CS](https://blog.charliemeyer.co/what-i-learned-from-two-years-of-teaching-high-school-cs/) #computer-science #teaching

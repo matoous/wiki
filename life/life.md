@@ -70,3 +70,4 @@
 - [The Kids are Not Okay](https://thezvi.wordpress.com/2023/03/08/the-kids-are-not-okay/) #psychology #life #sociology
 - [Anki-fy Your Life](https://abouttolearn.substack.com/p/anki-fy-your-life) #memory #life
 - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition) #memory #life
+- [Scholarsome](https://github.com/hwgilbert16/scholarsome) - an open source system for flashcard sutyding

@@ -1,5 +1,7 @@
 # Work
 
+_Get it done_ - the mandate of your job is not _do the best you can_ but _get it done_ even if the means asking for help, more resources, or just admitting the things are going poorly.[^get_it_done]
+
 ## Resources
 
 - [Time management](https://en.wikipedia.org/wiki/Time_management)
@@ -41,6 +43,7 @@
   - we move between the stages back and forth, it's not a linear progress
 - [I’ve been employed in tech for years, but I’ve almost never worked](https://emaggiori.com/employed-in-tech-for-years-but-almost-never-worked/) #work #antiwork
   - task bloating - overestimating the time a task will require
+- [Andrew Bosworth's Blog](https://boz.com) - blog that cosues on work, impact, workplace behaviour, and more. Shortform articles. #blog #work #workplace #productivity
 
 ## Engineering
 
@@ -74,6 +77,15 @@
 - [Rewrite, refactor, or reinvent?](https://herbcaudill.com/words/20190219-rewrite-refactor-reinvent)
 - [How to be a -10x Engineer](https://taylor.town/-10x) - how to be the oposit of 10x engineer
 - [Why Engineers Need To Write](https://www.developing.dev/p/why-engineers-need-to-write) #writing #engineering #technical-writing
+- [Accountability for Effective Teams](https://jessitron.com/2023/06/21/accountability-for-effective-teams/) #accountability #work
+  - Accountability is caring and being able to explain yourself
+  - Accountability should focus on behaviour, not numbers - numbers are often outside the people's control and basing accountability purely on numbers can lead to undesirable outcomes, e.g.:
+  > This accountability-to-understand is compatible with systems in ways that accountability-for-outcomes is not. If your job depends on moving a number, you’ll move that number, even if it puts your widget in everyone’s way and pisses off customers. If your job depends on the whole business succeeding with your contributions, then you’ll make your widget compatible with its surroundings, and highlight it in ways that improve the product.
+
+- [IKEA-Oriented Development](https://taylor.town/ikea-oriented-development) #software-engineering
+  - Make experimentation effortless
+  - Embrace reliable mainstream formats (JSON, RSS, etc)
+  - Write code that can be replaced
 
 ## Soft Skills
 
@@ -120,3 +132,6 @@ The [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem), states that any di
 - **Consistency** - Every read receives the most recent write or an error.
 - **Availability** - Every request receives a (non-error) response, without the guarantee that it contains the most recent write.
 - **Partition tolerance** - The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes.
+
+
+[^get_it_done]: [Get It Done](https://boz.com/articles/get-it-done) by [Andrew Bosworth](https://boz.com)
