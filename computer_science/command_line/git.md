@@ -16,4 +16,4 @@
   - Updated documentation reflecting the change
   - A link to an issue thread providing further context
 - [gitoxide](https://github.com/Byron/gitoxide)
-
+- [Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/) #git #command-line
