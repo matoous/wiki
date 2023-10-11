@@ -6,6 +6,36 @@
   - don't tell anyone anything is _simple_
 - [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
 - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
+  - purpose:
+    - Early identification of design issues when making changes is still cheap.
+    - Achieving consensus around a design in the organization.
+    - Ensuring consideration of cross-cutting concerns.
+    - Scaling knowledge of senior engineers into the organization.
+    - Form the basis of an organizational memory around design decisions.
+    - Acts as a summary artifact in the technical portfolio of the software designer(s).
+  - structure:
+    - Context and scope
+    - Goals and non-goals
+    - The actual design
+      - System-context-diagram
+      - APIs
+      - Data storage
+      - Code and pseudo-code
+      - Degree of constraint
+    - Alternatives considered
+    - Cross-cutting concerns
+  - 10-20 pages, 1-3 pages mini-doc also possible
+  - lifecycle:
+    - Creation and rapid iteration
+    - Review (may be in multiple rounds)
+    - Implementation and iteration
+    - Maintenance and learning
+  - considerations:
+    - Are you unsure about the right software design, and would it make sense to spend upfront time to gain certainty?
+    - Relatedly, would it help to involve senior engineers, who might not be able to review every code-change, in the design?
+    - Is the software design ambiguous or even contentious such that achieving organizational consensus around it would be valuable?
+    - Does my team sometimes forget to consider privacy, security, logging or other cross-cutting concerns in the design?
+    - Is there a strong need for documents that provide high-level insights into the design of legacy systems in the organization?
 - [Writing docs well: why should a software engineer care?](https://surfingcomplexity.blog/2022/11/24/writing-docs-well-why-should-a-software-engineer-care/)
   - building shared understanding
   - tool for thinking

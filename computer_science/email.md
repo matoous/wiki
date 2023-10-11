@@ -9,4 +9,4 @@
 - [Email is Bad](https://emailisbad.com/)
 - [Falsehoods programmers believe about email](https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email)
 - [Email: explained from first principles](https://explained-from-first-principles.com/email/)
-
+- [Learn and Test DMARC](https://www.learndmarc.com)

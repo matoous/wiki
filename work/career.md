@@ -149,6 +149,7 @@ specific area, e.g. API design.
 - [What To Do When Your Feedback Doesn't Land](https://larahogan.me/blog/feedback-doesnt-land/)
 - [Flo Health’s path to the hiring strategy in engineering](https://vickiboykis.com/2022/07/25/looking-back-at-two-years-at-automattic-and-tumblr/)
 - [Get Straight to the Point](https://www.theengineeringmanager.com/growth/get-straight-to-the-point/)
+- [Moving From IC to Engineering Manager](https://staysaasy.com/management/2023/08/13/ic-to-em.html)
 
 ## Hiring
 

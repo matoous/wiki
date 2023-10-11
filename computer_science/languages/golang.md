@@ -10,6 +10,7 @@
 - [Zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [Charm](https://github.com/charmbracelet/charm) - Set of tools for terminal-based applications; key-value store, cloud based file storage, encryption, and auth - all made super easy.
 - [Script](https://github.com/bitfield/script) - Utilities for scripting with go
+- [georgysavva/scany](https://github.com/georgysavva/scany) - Library for scanning data from a database into Go structs and more
 
 ## Tools
 

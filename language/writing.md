@@ -29,6 +29,8 @@ Example of well written technical paper: [A Mathematical Theory of Communication
 - [Common Errors in Technical Writing](https://www.ece.ucdavis.edu/~jowens/commonerrors.html)
 - [University of Minnesota - Style Manual](https://web.archive.org/web/20100317141605/http://www1.umn.edu/urelate/style/language-usage.html)
 - [Why Write?](https://bastian.rieck.me/blog/posts/2023/writing_why/)
+- [Some tactics for writing in public](https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/)
+- [The Elements of Style](https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf)
 
 ## Paper Writing
 

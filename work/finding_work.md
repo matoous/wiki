@@ -13,3 +13,4 @@
 - [Getting a job as an engineering executive.](https://lethain.com/getting-engineering-executive-job/) and [Make an effective executive LinkedIn profile.](https://lethain.com/executive-linkedin-profile/)
 - [Interview the interviewer](https://github.com/readme/guides/technical-interviews)
 - [Part 1: How to approach a system design interview](https://interviewing.io/guides/system-design-interview)
+- [The really important job interview questions engineers should ask (but don't)](https://posthog.com/blog/what-to-ask-in-interviews)
