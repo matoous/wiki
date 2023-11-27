@@ -64,6 +64,8 @@
 
 ## Software Engineer
 
+### Resources
+
 - [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/amp/)
   - Proactive with product ideas/opinions
   - Interest in the business, user behavior and data on this
@@ -96,6 +98,7 @@
   - **Rollout Communication** - once you agree on a rollout date with your team and the PM, make sure that all stakeholders are aware of it. Check whether any documentation changes are required.
   - **Measuring Success** - decide on metrics that will tell you whether the project was a success. Is anyone using the new system? Do users manage to accomplish their tasks? You can leverage your Observability suite for this purpose.
 - [The Senior Shift](https://skamille.medium.com/the-senior-shift-315f56b79d5)
+- [Path to Senior Engineer handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
 
 ## Staff Engineer
 
@@ -119,6 +122,8 @@ specific area, e.g. API design.
 
 [^1]: https://larahogan.me/blog/what-sponsorship-looks-like/
 [^2]: https://noidea.dog/glue
+
+### Resources
 
 - [Staff Engineer: Leadership beyond the management track by Will Larson](https://staffeng.com/book) (book)
 - [StaffEng](https://staffeng.com/)
@@ -150,6 +155,7 @@ specific area, e.g. API design.
 - [Flo Health’s path to the hiring strategy in engineering](https://vickiboykis.com/2022/07/25/looking-back-at-two-years-at-automattic-and-tumblr/)
 - [Get Straight to the Point](https://www.theengineeringmanager.com/growth/get-straight-to-the-point/)
 - [Moving From IC to Engineering Manager](https://staysaasy.com/management/2023/08/13/ic-to-em.html)
+- [Moving From Blame to Accountability](https://thesystemsthinker.com/moving-from-blame-to-accountability/)
 
 ## Hiring
 

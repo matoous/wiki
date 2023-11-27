@@ -6,4 +6,5 @@
   - pay attention and question what you're reading
   - read slowly, don't refrain from reading something multiple times
 - [*Bio*nic *Read*ing](https://bionic-reading.com/)
-
+- [Five Books](https://fivebooks.com) - the best books on everything
+- [Ask HN: What are the most eye-opening textbooks you have ever read?](https://news.ycombinator.com/item?id=35929112)

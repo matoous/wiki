@@ -25,6 +25,7 @@
 - [The Surprising Roots of Japan's Indian Curry](https://one-from-nippon.ghost.io/indo-curry/)
 - [Give babies peanut butter to cut allergy by 77%, study says](https://www.bbc.com/news/health-64987074) #food #allergies #parenting
   - [Bamba (snack)](https://en.wikipedia.org/wiki/Bamba_(snack))
+- [Ten Thousand Ways to Use Chopsticks](https://marcosticks.org/ten-thousand-ways/)
 
 ## Products
 

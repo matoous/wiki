@@ -11,3 +11,6 @@
 - [A Primer on Proxies](https://blog.cloudflare.com/a-primer-on-proxies/)
 - [Load Balancing](https://samwho.dev/load-balancing/) #load-balancing #gateway #networking
 - [How we built the Tinder API Gateway](https://medium.com/tinder/how-we-built-the-tinder-api-gateway-831c6ca5ceca) #networking #gateway #api-gateway
+- [Traffic 101: Packets Mostly Flow](https://slack.engineering/traffic-101-packets-mostly-flow/)
+- [High Performance Browser Networking](https://hpbn.co)
+- [See this page fetch itself, byte by byte, over TLS](https://bytebybyte.dev)

@@ -8,4 +8,5 @@
 - [Some Blogging Myths](https://jvns.ca/blog/2023/06/05/some-blogging-myths/)
   - You don't need to be original
   - You don't need to be accurate, saying "I think ..." or "My understanding ..." in your blog posts is valid and better than not writing about topic you are passionate about because you are not an expert or 100% sure about the accuratness of your statements.
-
+  - Write TILs
+  - Write about what you are working on, even on very tiny projects

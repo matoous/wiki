@@ -113,5 +113,5 @@
   the impact of the Russian-Unkrainian war on the worlwide hunger and poverty.
 - [After millennia of agricultural expansion, the world has passed ‘peak agricultural land’](https://ourworldindata.org/peak-agriculture-land)
 - [Spain and Portugal suffering driest climate for 1,200 years, research shows](https://www.theguardian.com/environment/2022/jul/04/spain-and-portugal-suffering-driest-climate-for-1200-years-research-shows)
-  - 
+- [Noise Is All around Us—and It’s Affecting You More than You Think](https://thewalrus.ca/noise-ethics/)
 

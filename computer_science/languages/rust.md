@@ -34,6 +34,9 @@
 - [Running JavaScript in Rust with Deno](https://austinpoor.com/blog/js-in-rs)
 - [Iterating on Testing in Rust](https://epage.github.io/blog/2023/06/iterating-on-test/) #rust #testing
 - [Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
+- [Welcome to Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/)
+- [Async Rust: What is a runtime? Here is how tokio works under the hood](https://kerkour.com/rust-async-await-what-is-a-runtime)
+- [Effective Rust](https://www.lurklurk.org/effective-rust/)
 
 ## Projects
 
@@ -57,6 +60,7 @@
 - [Paperclip](https://github.com/paperclip-rs/paperclip) - OpenAPI specification tooling
 - [Progenitor](https://github.com/oxidecomputer/progenitor) - An OpenAPI client generator
 - [rust-sitter](https://github.com/hydro-project/rust-sitter) - Use Tree Sitter to parse your own languages in Rust
+- [pagefine](https://pagefind.app/) ([CloudCannon/pagefind](https://github.com/CloudCannon/pagefind)) - Pagefind is a fully static search library that aims to perform well on large sites, while using as little of your users’ bandwidth as possible, and without hosting any infrastructure.
 
 ## Game Dev
 

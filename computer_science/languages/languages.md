@@ -1,10 +1,7 @@
 # Languages
 
-[Golang](Languages%2044479df6f942483da715f15598204c25/Golang%209389bed5b7cd420eb99762d09d8ab3d1.md)
-
-[Swift](Languages%2044479df6f942483da715f15598204c25/Swift%207a205712e41845e7ab0baa32a8dbc3a7.md)
-
 ## Resources
 
 - [Stack Overflow Developer Survey 2020](https://insights.stackoverflow.com/survey/2020)
--
+- [Pest](https://pest.rs) - pest is a general purpose parser written in Rust with a focus on accessibility, correctness, and performance. It uses parsing expression grammars (or PEG) as input, which are similar in spirit to regular expressions, but which offer the enhanced expressivity needed to parse complex languages.
+

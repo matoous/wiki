@@ -10,7 +10,8 @@
 - [Zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [Charm](https://github.com/charmbracelet/charm) - Set of tools for terminal-based applications; key-value store, cloud based file storage, encryption, and auth - all made super easy.
 - [Script](https://github.com/bitfield/script) - Utilities for scripting with go
-- [georgysavva/scany](https://github.com/georgysavva/scany) - Library for scanning data from a database into Go structs and more
+- [georgysavva/scany](https://github.com/georgysavva/scany) - Library for scanning data from a database into Go structs and more.
+- [jetpack-io/typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs.
 
 ## Tools
 
@@ -69,3 +70,4 @@
 - [Analysis of the Go runtime scheduler](http://www1.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf) #golang #runtime #scheduler
 - [Profiling Go Programs](https://benchkram.de/blog/dev/profiling-go-programs)
 - [Case Study: Algorithmic Trading With Go](https://polygon.io/blog/case-study-algorithmict-trading-with-go/)
+- [How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/)

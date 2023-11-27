@@ -9,6 +9,7 @@
   - [oak](https://github.com/oakserver/oak)
   - [abc](https://github.com/zhmushan/abc)
   - [servest](https://github.com/keroxp/servest)
+- [The Internals of Deno](https://choubey.gitbook.io/internals-of-deno/)
 
 ## Modules
 
