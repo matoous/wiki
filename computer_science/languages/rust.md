@@ -61,6 +61,7 @@
 - [Progenitor](https://github.com/oxidecomputer/progenitor) - An OpenAPI client generator
 - [rust-sitter](https://github.com/hydro-project/rust-sitter) - Use Tree Sitter to parse your own languages in Rust
 - [pagefine](https://pagefind.app/) ([CloudCannon/pagefind](https://github.com/CloudCannon/pagefind)) - Pagefind is a fully static search library that aims to perform well on large sites, while using as little of your users’ bandwidth as possible, and without hosting any infrastructure.
+- [Shader Art using WebGPU](https://github.com/pythops/shader-art-rs)
 
 ## Game Dev
 

@@ -1,5 +1,7 @@
 # Career
 
+> The fastest career growth comes by finding work that aligns with both your interests and what matters most to the company.
+
 ## Resources
 
 - [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
@@ -76,6 +78,19 @@
   - End-to-end product feature ownership
 - [The Grug Brained Developer](https://grugbrain.dev) - _A layman's guide to thinking like the self-aware smol brained_
 - [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
+- [How Google takes the pain out of code reviews, with 97% dev satisfaction](https://read.engineerscodex.com/p/how-google-takes-the-pain-out-of)
+  - Continuous improvement over perfection. 
+  - Maintain or improve the health of the codebase
+  - Follow the [Style Guide](https://google.github.io/styleguide/).
+  - Always Share Knowledge.
+  - Write Small Changes (<200 LoC).
+  - Strict Standards for Lightweightness (reviews under 24h).
+  - Politeness and Professionalism
+    - [Predicting Developers’ Negative Feelings about Code Review](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/7ac08fa960dfe10561c1f5953419a0c945279faa.pdf)
+    - [Destructive Criticism in Software Code Review Impacts Inclusion](https://research.google/pubs/pub51232/)
+    - [Detecting Interpersonal Conflict in Issues and Code Review: Cross Pollinating Open- and Closed-Source Approaches](https://research.google/pubs/pub51204/)
+    - [Using research to make code review more equitable](https://developers.googleblog.com/2022/06/Using-research-to-make-code-review-more-equitable.html)
+- [The surprising connection between after-hours work and decreased productivity](https://slack.com/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity)
 
 ## Senior Software Engineer
 

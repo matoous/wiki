@@ -14,6 +14,7 @@
 - [Your future self will thank you: Building your personal documentation](https://github.com/readme/guides/private-documentation)
 - [I built a perfect note taking system](https://thesloth.me/posts/6/)
   - [dullage/flatnotes](https://github.com/dullage/flatnotes) - self hosted note taking web app
+- [Some tactics for writing in public](https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/)
 
 ## Other wikis
 

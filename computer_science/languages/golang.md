@@ -26,6 +26,8 @@
 ## Resources
 
 - [**Go Style Guide**](https://google.github.io/styleguide/go/index)
+  - [**Go Style Decisions**](https://google.github.io/styleguide/go/decisions)
+  - [**Go Style Best Practices**](https://google.github.io/styleguide/go/best-practices)
 - [**Go Code Review Comments**](https://github.com/golang/go/wiki/CodeReviewComments)
 - [**Effective Go**](https://golang.org/doc/effective_go)
 - [Darker Corners of Go - Rytis Biel](https://rytisbiel.com/2021/03/06/darker-corners-of-go/)

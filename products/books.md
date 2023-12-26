@@ -8,3 +8,6 @@
 - [Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/)
 - [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It](https://www.amazon.com/Myth-Revisited-Small-Businesses-About-ebook/dp/B000RO9VJK/ref=sr_1_1)
 - [The Online Books Page](https://onlinebooks.library.upenn.edu) - Listing over 3 million free books on the Web
+- [Theory of Interstellar Trade](https://www.princeton.edu/~pkrugman/interstellar.pdf), and similar:
+  - [Neptune's Brood](https://en.wikipedia.org/wiki/Neptune%27s_Brood)
+  - [Singularity Sky](https://en.wikipedia.org/wiki/Singularity_Sky)

@@ -18,3 +18,4 @@
 - [The Bezos API Mandate: Amazon’s Manifesto For Externalization](https://nordicapis.com/the-bezos-api-mandate-amazons-manifesto-for-externalization/)
 - [EasySDK](https://easysdk.xyz/upload) - generate SDKs for your OpenAPI specs
 - [Best practices for using webhooks](https://stripe.com/docs/webhooks/best-practices)
+- [How to and how not to design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs)
