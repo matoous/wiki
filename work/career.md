@@ -91,6 +91,7 @@
     - [Detecting Interpersonal Conflict in Issues and Code Review: Cross Pollinating Open- and Closed-Source Approaches](https://research.google/pubs/pub51204/)
     - [Using research to make code review more equitable](https://developers.googleblog.com/2022/06/Using-research-to-make-code-review-more-equitable.html)
 - [The surprising connection between after-hours work and decreased productivity](https://slack.com/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity)
+- [Readability: Google's Temple to Engineering Excellence](https://www.moderndescartes.com/essays/readability/)
 
 ## Senior Software Engineer
 
@@ -175,4 +176,8 @@ specific area, e.g. API design.
 ## Hiring
 
 - [How to Freaking Find Great Developers By Having Them Read Code](https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/#comments)
+
+## VP of Engineering
+
+- [On Becoming a VP of Engineering, Part 2: Doing the Job](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt2)
 

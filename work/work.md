@@ -81,7 +81,7 @@ _Get it done_ - the mandate of your job is not _do the best you can_ but _get it
   - Accountability is caring and being able to explain yourself
   - Accountability should focus on behaviour, not numbers - numbers are often outside the people's control and basing accountability purely on numbers can lead to undesirable outcomes, e.g.:
   > This accountability-to-understand is compatible with systems in ways that accountability-for-outcomes is not. If your job depends on moving a number, you’ll move that number, even if it puts your widget in everyone’s way and pisses off customers. If your job depends on the whole business succeeding with your contributions, then you’ll make your widget compatible with its surroundings, and highlight it in ways that improve the product.
-
+- [How Google Measures and Manages Tech Debt](https://newsletter.getdx.com/p/measuring-and-managing-tech-debt)
 - [IKEA-Oriented Development](https://taylor.town/ikea-oriented-development) #software-engineering
   - Make experimentation effortless
   - Embrace reliable mainstream formats (JSON, RSS, etc)

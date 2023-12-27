@@ -37,6 +37,7 @@
 - [Welcome to Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/)
 - [Async Rust: What is a runtime? Here is how tokio works under the hood](https://kerkour.com/rust-async-await-what-is-a-runtime)
 - [Effective Rust](https://www.lurklurk.org/effective-rust/)
+- [More than you've ever wanted to know about errors in Rust](https://www.shuttle.rs/blog/2022/06/30/error-handling)
 
 ## Projects
 

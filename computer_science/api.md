@@ -19,3 +19,4 @@
 - [EasySDK](https://easysdk.xyz/upload) - generate SDKs for your OpenAPI specs
 - [Best practices for using webhooks](https://stripe.com/docs/webhooks/best-practices)
 - [How to and how not to design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs)
+- [Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
