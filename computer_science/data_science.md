@@ -4,3 +4,4 @@
 
 - [Polars](https://www.pola.rs)
 - [Everyday Data Science](https://tigyog.app/d/C-I1weB9CpTH/r/everyday-data-science), Optimize Your Life: An Interactive Course
+- [Observable](https://observablehq.com/) - easy code-based data visualization tooling
