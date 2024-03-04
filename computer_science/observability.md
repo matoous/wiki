@@ -7,3 +7,4 @@
 - [SLO burn rate alert calculator](https://burnrate.netlify.app/)
 - [Monitoring is a Pain](https://matduggan.com/were-all-doing-metrics-wrong/)
 - [Monitoring Distributed Systems](https://sre.google/sre-book/monitoring-distributed-systems/)
+- [Canonical Log Lines](https://stripe.com/blog/canonical-log-lines)

@@ -2,6 +2,7 @@
 
 ## Resources
 
+- [**Welcome to Comprehensive Rust 🦀**](https://google.github.io/comprehensive-rust/)
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example)
@@ -34,7 +35,6 @@
 - [Running JavaScript in Rust with Deno](https://austinpoor.com/blog/js-in-rs)
 - [Iterating on Testing in Rust](https://epage.github.io/blog/2023/06/iterating-on-test/) #rust #testing
 - [Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
-- [Welcome to Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/)
 - [Async Rust: What is a runtime? Here is how tokio works under the hood](https://kerkour.com/rust-async-await-what-is-a-runtime)
 - [Effective Rust](https://www.lurklurk.org/effective-rust/)
 - [More than you've ever wanted to know about errors in Rust](https://www.shuttle.rs/blog/2022/06/30/error-handling)
@@ -52,7 +52,7 @@
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [wasmer](https://github.com/wasmerio/wasmer)
 - [anki](https://github.com/ankitects/anki) - spaced repetition cards GUI
-- [Tantivy](https://github.com/quickwit-oss/tantivy)
+- [Tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust .
 - [RisingLight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose.
 - [Yew](https://yew.rs/) - Yew is a modern Rust framework for creating multi-threaded front-end web apps using WebAssembly.
 - [Sea ORM](https://github.com/SeaQL/sea-orm) - async ORM package
@@ -63,6 +63,8 @@
 - [rust-sitter](https://github.com/hydro-project/rust-sitter) - Use Tree Sitter to parse your own languages in Rust
 - [pagefine](https://pagefind.app/) ([CloudCannon/pagefind](https://github.com/CloudCannon/pagefind)) - Pagefind is a fully static search library that aims to perform well on large sites, while using as little of your users’ bandwidth as possible, and without hosting any infrastructure.
 - [Shader Art using WebGPU](https://github.com/pythops/shader-art-rs)
+- [Cola](https://github.com/nomad/cola) A text CRDT for real-time collaborative editing #crdt #text-editing
+- [Loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Enhance your app with seamless collaboration and effortless time-travel features #crdt #text-editing
 
 ## Game Dev
 

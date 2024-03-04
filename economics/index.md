@@ -7,7 +7,7 @@
 - **[The Big Mac index](https://en.wikipedia.org/wiki/Big_Mac_Index)** - [published](https://www.economist.com/big-mac-index) by [The Economist](https://www.economist.com/) as a way of measuring the purchasing power parity (PPP) between two currencies and provides a test of the extent to which market exchange rates result in goods costing the same in different countries.
 - **[Purchasing Power Parity (PPP)](https://en.wikipedia.org/wiki/Purchasing_power_parity)** - is a measurement of prices in different countries that uses the prices of specific goods to compare the absolute purchasing power of the countries' currencies.
 
-## Links
+## Resources
 
 - [A Simple Explanation of How Money Moves Around the Banking System](https://gendal.me/2013/11/24/a-simple-explanation-of-how-money-moves-around-the-banking-system/)
   - depositing money = lending money to the bank, i.e. the account is in credit

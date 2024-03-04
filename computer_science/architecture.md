@@ -17,3 +17,5 @@
 - [The different types of events in event-driven systems](https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-systems/)
 - [Demystifying software architecture patterns](https://www.thoughtworks.com/insights/blog/architecture/demystify-software-architecture-patterns)
 - [10 Design Patterns Explained in 10 Minutes](https://www.youtube.com/watch?v=tv-_1er1mWI) (video)
+- [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) #architecture #event-driven
+- [Command Query Responsibility Segregation (CQRS)](https://martinfowler.com/bliki/CQRS.html)

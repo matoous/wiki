@@ -43,7 +43,7 @@ Programs and tools provide many features that can speed things up but first one 
 - [Awesome Console Services](https://github.com/chubin/awesome-console-services)
 - [icanhaz](https://major.io/icanhazip-com-faq/)
 
-# Links
+# Resources
 
 - [docopt](http://docopt.org/) - Command-line interface description language
 - [Text processing in the shell](https://blog.balthazar-rouberol.com/text-processing-in-the-shell)

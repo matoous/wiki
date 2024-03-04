@@ -14,3 +14,4 @@
 - [How to Build Software like an SRE](https://www.willett.io/posts/precepts/)
 - [Move past incident response to reliability](https://github.com/readme/guides/incident-response)
 - [Incident categories I’d like to see](https://surfingcomplexity.blog/2022/12/11/incident-categories-id-like-to-see/)
+- [Counting Forest Fires](https://ferd.ca/counting-forest-fires.html) - about success measures for incidents.

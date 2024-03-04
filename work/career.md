@@ -51,6 +51,7 @@
 - [How to make difficult technical decisions you and your team won't regret](https://careercutler.substack.com/p/how-to-make-difficult-technical-decisions)
   - What is the cost of making the wrong decision?
   - What is the ramp-up time of the decision? E.g. do you have early adopters you can try with?
+- [Mastering Programming](https://tidyfirst.substack.com/p/mastering-programming) by Kent Beck
 
 ## Salary
 
@@ -90,6 +91,22 @@
     - [Destructive Criticism in Software Code Review Impacts Inclusion](https://research.google/pubs/pub51232/)
     - [Detecting Interpersonal Conflict in Issues and Code Review: Cross Pollinating Open- and Closed-Source Approaches](https://research.google/pubs/pub51204/)
     - [Using research to make code review more equitable](https://developers.googleblog.com/2022/06/Using-research-to-make-code-review-more-equitable.html)
+- [The art of good code review](https://philbooth.me/blog/the-art-of-good-code-review)
+  - code review checklist:
+    - Security
+    - Observability
+    - Performance
+    - Robustness
+    - Complexity
+    - Readability
+    - Maintainability
+    - Over-engineering (YAGNI)
+    - Using existing abstractions correctly
+    - Naming stuff
+    - Comments
+    - Tests
+    - Doing one thing at a time (separate PRs)
+    - "Do I want to maintain this?"  
 - [The surprising connection between after-hours work and decreased productivity](https://slack.com/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity)
 - [Readability: Google's Temple to Engineering Excellence](https://www.moderndescartes.com/essays/readability/)
 
@@ -180,4 +197,4 @@ specific area, e.g. API design.
 ## VP of Engineering
 
 - [On Becoming a VP of Engineering, Part 2: Doing the Job](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt2)
-
+- [9 key lessons learned on my path from Engineer to VP 🔑](https://careercutler.substack.com/p/9-key-lessons-learned-on-my-path)
