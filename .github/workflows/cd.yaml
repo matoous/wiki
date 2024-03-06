@@ -1,0 +1,23 @@
+name: CD
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  trigger_deploy:
+    name: Dispatch deploy to mwp
+    runs-on: ubuntu
+    if: (github.event.client_payload.pull_request.head.ref || github.ref) == 'refs/heads/main'
+    steps:
+      - name: Dispatch deploy event to mwp
+        uses: peter-evans/repository-dispatch@ff45666b9427631e3450c54a1bcbee4d9ff4d7c0
+        with:
+          repository: matoous/mwp
+          token: ${{ secrets.GH_ACTIONS_PAT }}
+          event-type: deploy
