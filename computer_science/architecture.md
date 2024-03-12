@@ -1,6 +1,7 @@
 # Architecture
 
-**Entity component system** - Entity Component System is a software architectural pattern mostly used in video game development for the representation of game world objects. An ECS comprises entities composed from components of data, with systems which operate on entities' components.
+- [**Entity component system**](https://en.wikipedia.org/wiki/Entity_component_system) is a software architectural pattern mostly used in video game development for the representation of game world objects. An ECS comprises entities composed from components of data, with systems which operate on entities' components.
+- [**Hexagonal architecture**](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)) is an architectural pattern used in software design. It aims at creating loosely coupled application components that can be easily connected to their software environment by means of ports and adapters. This makes components exchangeable at any level and facilitates test automation.
 
 ## Resources
 

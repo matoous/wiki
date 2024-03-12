@@ -1,39 +1,5 @@
 # Computer Science
 
-- [OSI Model](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/)
-  1. Physical layer
-  2. Data link layer
-  3. Network layer
-  4. Transport layer
-  5. Session layer
-  6. Presentation layer
-  7. Application layer
-
-- **Cross-Cutting Concerns** - Cross-cutting concerns are things that affect many parts of a product. And are hard to separate. For example, monitoring and alerting the health of the services.
-
-- [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
-  - Every good work of software starts by scratching a developer's personal itch.
-  - Good programmers know what to write. Great ones know what to rewrite (and reuse). (edit: _"What not to write"_)
-  - Plan to throw one [version] away; you will, anyhow (copied from Frederick Brooks's [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)).
-  - If you have the right attitude, interesting problems will find you.
-  - When you lose interest in a program, your last duty to it is to hand it off to a competent successor.
-  - Treating your users as co-developers is your least-hassle route to rapid code improvement and effective debugging.
-  - [Release early. Release often.](https://en.wikipedia.org/wiki/Release_early,_release_often) And listen to your customers.
-  - Given a large enough beta-tester and co-developer base, almost every problem will be characterized quickly and the fix obvious to someone.
-  - Smart data structures and dumb code works a lot better than the other way around.
-  - If you treat your beta-testers as if they're your most valuable resource, they will respond by becoming your most valuable resource.
-  - The next best thing to having good ideas is recognizing good ideas from your users. Sometimes the latter is better.
-  - Often, the most striking and innovative solutions come from realizing that your concept of the problem was wrong.
-  - Perfection (in design) is achieved not when there is nothing more to add, but rather when there is nothing more to take away. (attributed to [Antoine de Saint-Exupéry](https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry))
-  - Any tool should be useful in the expected way, but a truly great tool lends itself to uses you never expected.
-  - When writing gateway software of any kind, take pains to disturb the data stream as little as possible—and never throw away information unless the recipient forces you to!
-  - A security system is only as secure as its secret. Beware of pseudo-secrets.
-  - To solve an interesting problem, start by finding a problem that is interesting to you.
-  - Provided the development coordinator has a communications medium at least as good as the Internet, and knows how to lead without coercion, many heads are inevitably better than one.
-
-## Dictionary
-
-- [YAGNI](https://wiki.c2.com/?YouArentGonnaNeedIt) - You Aren't Gonna Need It
 
 ## Books
 

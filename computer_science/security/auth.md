@@ -1,5 +1,12 @@
 # Auth
 
+## OAuth2
+
+- [RFC 9126 - OAuth 2.0 Pushed Authorization Requests](https://datatracker.ietf.org/doc/html/rfc9126)
+- [RFC 9449 - OAuth 2.0 Demonstrating Proof of Possession (DPoP)](https://datatracker.ietf.org/doc/html/rfc9449)
+- [RFC 7591 - OAuth 2.0 Dynamic Client Registration Protocol](https://www.rfc-editor.org/rfc/rfc7591.html)
+- [RFC 8417 - Security Event Token (SET)](https://datatracker.ietf.org/doc/html/rfc8417)
+
 ## Resources
 
 - [Basic HTTP Auth via Cloudflare Workers](https://github.com/dommmel/cloudflare-workers-basic-auth) - Can be used to protect static HTML pages.

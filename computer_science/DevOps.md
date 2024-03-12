@@ -65,4 +65,4 @@
 - [A conversation about how to enable high-velocity DevOps culture at your organization](https://stackoverflow.blog/2021/12/13/a-conversation-about-how-to-enable-high-velocity-devops-culture-at-your-organization/)
 - [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - better foundational knowledge of DevOps in 90 short lessons
 - [State of DevOps 2021](https://services.google.com/fh/files/misc/state-of-devops-2021.pdf)
-
+- [2023 State of DevOps Report: Culture is everything](https://cloud.google.com/blog/products/devops-sre/announcing-the-2023-state-of-devops-report)

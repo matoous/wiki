@@ -72,3 +72,4 @@
 - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition) #memory #life
 - [Scholarsome](https://github.com/hwgilbert16/scholarsome) - an open source system for flashcard sutyding
 - [The Ultimate Deliberate Practice Guide: How to Be the Best](https://fs.blog/deliberate-practice-guide/)
+- [What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me) by [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman)

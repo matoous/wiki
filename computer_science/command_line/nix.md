@@ -15,3 +15,4 @@
 - [Tutorial: Getting started with Home Manager for Nix](https://ghedam.at/24353/tutorial-getting-started-with-home-manager-for-nix)
 - [Using Nix on macOS](https://checkoway.net/musings/nix/) by Stephen Checkoway
 - [Using Nix to install Go tools for VS Code](https://mgdm.net/weblog/vscode-nix-go-tools/) by Michael Maclean
+- [Searching and installing old versions of Nix packages](https://lazamar.github.io/download-specific-package-version-with-nix/)

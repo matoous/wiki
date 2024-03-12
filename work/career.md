@@ -109,6 +109,8 @@
     - "Do I want to maintain this?"  
 - [The surprising connection between after-hours work and decreased productivity](https://slack.com/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity)
 - [Readability: Google's Temple to Engineering Excellence](https://www.moderndescartes.com/essays/readability/)
+- [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
+  - [Knowledge Sharing](https://abseil.io/resources/swe-book/html/ch03.html#readability_standardized_mentorship_thr)
 
 ## Senior Software Engineer
 

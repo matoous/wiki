@@ -10,7 +10,11 @@
 
 - [Maker's schedule](http://www.paulgraham.com/makersschedule.html)
   - maker's need larger units of time (half a day or so), meetings can blow their whole afternoon by breaking their flow.
-- [Productivity by Sam Altman](https://blog.samaltman.com/productivity)
+- [Productivity](https://blog.samaltman.com/productivity) by Sam Altman
+  > Compound growth gets discussed as a financial concept, but it works in careers as well, and it is magic.  A small productivity gain, compounded over 50 years, is worth a lot.  So it’s worth figuring out how to optimize productivity. If you get 10% more done and 1% better every day compared to someone else, the compounded difference is massive. 
+
+  - What you work on
+  - Three key pillars: “Make sure to get the important shit done”, “Don’t waste time on stupid shit”, and “make a lot of lists”.
 - [Why Procrastinators Procrastinate](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
 - [Alexey Guzey on productivity](https://guzey.com/productivity/)
 - [My productivity app for the past 12 years has been a single .txt file](https://news.ycombinator.com/item?id=22276184)

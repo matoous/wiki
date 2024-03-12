@@ -90,6 +90,7 @@ _Get it done_ - the mandate of your job is not _do the best you can_ but _get it
   - Make experimentation effortless
   - Embrace reliable mainstream formats (JSON, RSS, etc)
   - Write code that can be replaced
+- [Team Topologies](https://martinfowler.com/bliki/TeamTopologies.html)
 
 ## Soft Skills
 
