@@ -36,3 +36,6 @@ Example of well written technical paper: [A Mathematical Theory of Communication
 
 - [The Best Notebooks for Every Use](https://www.jetpens.com/blog/The-Best-Notebooks-for-Every-Use/pt/647)
 
+## Short stories
+
+- [They're Made out of Meat](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)

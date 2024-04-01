@@ -35,3 +35,28 @@
 - [LeanBeefPatty | WARMUP ROUTINE - full body mobility (video)](https://youtu.be/SotLyRb8XjE)
 - [Knee Strengthening To Run Fast & Injury Free](https://www.youtube.com/watch?v=9SzlYxuOSpg)
 - [What stretches to do in 10 minutes. Follow along. (video)](https://www.youtube.com/watch?v=eQHmKJh20_c)
+
+## Race fueling
+
+### Before
+
+- Cut out fiber 2 days before the race, most people also mention switchin to whole wheat.
+- Closer to the race mostly plain food such as white rice, white meat, eggs, yogurt.
+- Last meal 3-4 hours before the race.
+
+### During
+
+- Rule of thumb is to have something small every 45 minutes
+- The body can absorb between 150-300 calories an hour (while consuming around 600-1000 during an ultra)
+  - For reference, 40g Muarten gel is 100 calories, their drink mixes come in 160 or 320 calories
+- Some protein intake during the race is also important. Tom Evans mentions 5g every other hour.
+- Tom Evans metions rice balls and pizza rolls during the race
+- Other notable mentions: pre cooked halloumi, soup, nuts
+
+> The biggest risk to you is you stop eating and your stomach shuts down. It’s pretty much game over from there. If you can get something, ANYTHING down, do it.
+
+### Resource
+
+- [Inside the nutrition strategy of pro ultra-runners during the UTMB](https://www.naak.com/blogs/articles/nutrition-tips-from-pro-ultra-runners-and-naak-lab-for-utmb)
+- [Luchos](https://luchos.com/) - Guava energy blocks
+

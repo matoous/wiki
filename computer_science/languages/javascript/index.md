@@ -7,3 +7,4 @@
 ## Libraries
 
 - [TanStack](https://tanstack.com/) - Headless, type-safe, & powerful utilities for State Management, Routing, Data Visualization, Charts, Tables, and more. #javascript #ui
+- [syntastica](https://github.com/RubixDev/syntastica/) - Modern and easy syntax highlighting using tree-sitter.

@@ -92,3 +92,5 @@ Programs and tools provide many features that can speed things up but first one 
 - [What happens when you press a key in your terminal?](https://jvns.ca/blog/2022/07/20/pseudoterminals/)
 - [Development Environments](https://phaazon.net/blog/development-environments) - how should we be developing in modern era?
 - [Nushell - Coming from Bash](https://www.nushell.sh/book/coming_from_bash.html)
+- [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html) - linux tools for debugging and crisis diagnosis
+

@@ -27,3 +27,4 @@
 - [The Fourier Transform, explained in one sentence](https://blog.revolutionanalytics.com/2014/01/the-fourier-transform-explained-in-one-sentence.html)
 - [Estimating Square Roots in Your Head](https://gregorygundersen.com/blog/2023/02/01/estimating-square-roots/)
 - [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/)
+- [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
