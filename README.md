@@ -1,4 +1,4 @@
-# [Wiki](https://matousdzivjak.gitbook.io/personal/)
+# Wiki
 
 👋 Welcome to my personal Wiki/Knowledge base.
 
