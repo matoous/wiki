@@ -244,18 +244,6 @@ gU
 gu
 ```
 
-## Multiple files
-
-TODO
-
-## Recording
-
-TODO
-
-## Marks
-
-TODO
-
 ## Sources
 
 - [VIM Cheat Sheet](https://devhints.io/vim)
@@ -264,3 +252,4 @@ TODO
 - [Vim documentation: help](https://www.cs.auckland.ac.nz/references/gnu/vim/help.html)
 - [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/)
 - [MOVING BLAZINGLY FAST WITH THE CORE VIM MOTIONS](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/)
+- [Best Vim Tips](https://vim.fandom.com/wiki/Best_Vim_Tips)

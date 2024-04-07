@@ -19,7 +19,6 @@ Example of well written technical paper: [A Mathematical Theory of Communication
 - [Writing for Engineers](https://www.heinrichhartmann.com/posts/writing/)
 - [Explaining explaining: a quick guide on explanatory writing](https://lucasfcosta.com/2021/09/30/explaining-in-writing.html)
 - [How to Write Better with The Why, What, How Framework](https://eugeneyan.com/writing/writing-docs-why-what-how/)
-- [They're Made out of Meat](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
 - [Lose the very](https://www.losethevery.com) - atlernatives for _very_ + _subjective_
 - [SHORT-FINGERED VULGARIANS AT THE GATE (OR HOW I BECAME A TYPOGRAPHER, PT. 2)](https://matthewbutterick.com/chron/short-fingered-vulgarians-at-the-gate.html) #typography #writing
 - [En dash, em dash and hyphen; what’s the difference? (also ndash and mdash, or n-dash and m-dash)](https://www.punctuationmatters.com/en-dash-em-dash-hyphen/) #typography #writing

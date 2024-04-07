@@ -45,6 +45,7 @@ Programs and tools provide many features that can speed things up but first one 
 
 # Resources
 
+- [**CLI Guidelines**](https://clig.dev/) - Guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day. ([Code](https://github.com/cli-guidelines/cli-guidelines)) ([HN](https://news.ycombinator.com/item?id=25304257)) ([Lobsters](https://lobste.rs/s/bsgtju/cli_guidelines))
 - [docopt](http://docopt.org/) - Command-line interface description language
 - [Text processing in the shell](https://blog.balthazar-rouberol.com/text-processing-in-the-shell)
 - [Awesome Console Services](https://github.com/chubin/awesome-console-services)
@@ -73,7 +74,6 @@ Programs and tools provide many features that can speed things up but first one 
 - [My growing list of Rust programs to use](https://gist.github.com/Phate6660/76779693f654d48c5c410be658c53f02) ([Lobsters](https://lobste.rs/s/ltd2be/my_growing_list_rust_programs_use))
 - [dasel](https://github.com/TomWright/dasel) - Allows you to query and modify data structures using selector strings.
 - [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - CLI commands as alternatives to GU.
-- [CLI Guidelines](https://clig.dev/) - Guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day. ([Code](https://github.com/cli-guidelines/cli-guidelines)) ([HN](https://news.ycombinator.com/item?id=25304257)) ([Lobsters](https://lobste.rs/s/bsgtju/cli_guidelines))
 - [nq](https://github.com/leahneukirchen/nq) - Utils for creating lightweight job queue systems. ([HN](https://news.ycombinator.com/item?id=25920517))
 - [Building Rich Terminal Dashboards (2021)](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/) ([HN](https://news.ycombinator.com/item?id=26149488))
 - [frawk](https://github.com/ezrosent/frawk) - JITted and SIMD-optimized AWK written in Rust. ([Lobsters](https://lobste.rs/s/bdzlsu/frawk_jitted_simd_optimized_awk_written))
@@ -93,4 +93,8 @@ Programs and tools provide many features that can speed things up but first one 
 - [Development Environments](https://phaazon.net/blog/development-environments) - how should we be developing in modern era?
 - [Nushell - Coming from Bash](https://www.nushell.sh/book/coming_from_bash.html)
 - [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html) - linux tools for debugging and crisis diagnosis
+
+## Tools
+
+- [srgn](https://github.com/alexpovel/srgn) - a code surgeon. Language-aware smart search and replace.
 

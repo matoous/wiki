@@ -1,11 +1,20 @@
 # Nix
 
+Install flake from specific github repo branch:
+
+```sh
+nix profile install github:helix-editor/helix#snippet_placeholder
+```
+
+## Resources
+
 - [NixOS Packages](https://search.nixos.org/packages)
 - [Using Nix on macOS](https://checkoway.net/musings/nix/) by Stephen Checkoway
 - [Some notes on using nix](https://jvns.ca/blog/2023/02/28/some-notes-on-using-nix/) by Julia Evans
 - [Some notes on nix flakes](https://jvns.ca/blog/2023/11/11/notes-on-nix-flakes/) by Julia Evans
 - [Some notes on NixOS](https://jvns.ca/blog/2024/01/01/some-notes-on-nixos/) by Julia Evans
 - [Nix MacOS Setup](https://davi.sh/til/nix/nix-macos-setup/)
+- [Nix - A One Pager](https://github.com/tazjin/nix-1p)
 
 ## Home-manager
 

@@ -38,6 +38,7 @@
 - [Async Rust: What is a runtime? Here is how tokio works under the hood](https://kerkour.com/rust-async-await-what-is-a-runtime)
 - [Effective Rust](https://www.lurklurk.org/effective-rust/)
 - [More than you've ever wanted to know about errors in Rust](https://www.shuttle.rs/blog/2022/06/30/error-handling)
+- [Novel way to Develop, Test and Document C libraries from Rust](https://wasmer.io/posts/novel-way-to-develop--test-and-document-c-libraries-from-rust)
 
 ## Projects
 

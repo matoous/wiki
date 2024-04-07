@@ -73,3 +73,6 @@
 - [Scholarsome](https://github.com/hwgilbert16/scholarsome) - an open source system for flashcard sutyding
 - [The Ultimate Deliberate Practice Guide: How to Be the Best](https://fs.blog/deliberate-practice-guide/)
 - [What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me) by [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman)
+- [Rediscovering Ikigai: What We Got Wrong and How to Find Meaning in Life](https://nesslabs.com/ikigai)
+  ![Ikigai diagram](/static/ikigai.png)
+

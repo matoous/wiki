@@ -52,3 +52,4 @@
 - [Hardening macOS](https://www.bejarano.io/hardening-macos/)
 - [macOS internal](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 - [Advanced macOS Command-Line Tools](https://saurabhs.org/advanced-macos-commands) #cli #macos #terminal #tools #command-line
+

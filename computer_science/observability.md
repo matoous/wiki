@@ -9,3 +9,4 @@
 - [Monitoring Distributed Systems](https://sre.google/sre-book/monitoring-distributed-systems/)
 - [Canonical Log Lines](https://stripe.com/blog/canonical-log-lines)
 - [What Does a Good Trace Look Like?](https://www.honeycomb.io/getting-started/what-does-a-good-trace-look-like)
+- [baselime](https://baselime.io) - Cloud observability made for devs

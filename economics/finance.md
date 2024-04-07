@@ -50,3 +50,4 @@ In general, I try to follow these rules:
 - [Pricing Money](http://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html) - A Beginner's GUide to Money, Bonds, Futures and Swaps #book #finance #money
   - and the [HN Discussion](https://news.ycombinator.com/item?id=36358754)
 - [Plastic Money](https://computer.rip/2023-09-03-plastic-money.html)
+- [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
