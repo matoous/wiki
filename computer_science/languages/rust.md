@@ -12,7 +12,7 @@
 - [Creating a REST API in Rust with Persistence: Rust, Rocket and Diesel](https://genekuo.medium.com/creating-a-rest-api-in-rust-with-persistence-rust-rocket-and-diesel-a4117d400104)
 - [The Adventures of OS: Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com/index.html)
 - [Working with strings in Rust](https://fasterthanli.me/articles/working-with-strings-in-rust)
-- [Zero to Production in Rust](Zero to Production in Rust)
+- [Zero to Production in Rust](https://www.zero2prod.com/index.html)
 - [Understanding Rust futures by going way too deep](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep)
 - [Why is my Rust build so slow?](https://fasterthanli.me/articles/why-is-my-rust-build-so-slow)
 - [Arc and Mutex in Rust](https://itsallaboutthebit.com/arc-mutex/)
