@@ -12,6 +12,8 @@ To get up to speed and learn the basics of sane and mindful investing the best s
 
 - [Short term market trends are less affected by earnings and more by market sentiment. Consistent earnings will make the price rise in the long run but stocks always go through highs and lows.](https://www.reddit.com/r/stocks/comments/ngcedr/can_anyone_explain_why_earnings_no_longer_matter/)
 
+![Portfolio diversification efficient frontier](/static/efficient_frontier_diversification.png)
+
 ## Terms
 
 - **Total Expense Ratio (TER)** - costs associated with managing and operating an investment fund, calculated as `TER = fund costs / fund assets`

@@ -1,6 +1,6 @@
 # Work
 
-_Get it done_ - the mandate of your job is not _do the best you can_ but _get it done_ even if the means asking for help, more resources, or just admitting the things are going poorly.[^get_it_done]
+_Get it done_ - the mandate of your job is not _do the best you can_ but _get it done_ even if the means asking for help, more resources, or admitting that things are going poorly.[^get_it_done]
 
 [_yak shaving_](https://en.wiktionary.org/wiki/yak_shaving) - It refers to engaging in a meaningless task that has no obvious relationship to what's supposed to be worked on but may be necessary to troubleshoot a larger problem. The process of making a simple task unnecessarily complicated may also qualify as yak shaving.
 
