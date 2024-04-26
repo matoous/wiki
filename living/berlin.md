@@ -10,3 +10,4 @@
 - [How to file a tax declaration in Germany (2022)](https://www.simplegermany.com/tax-declaration-germany/)
   - [SteuerGo](https://www.steuergo.de/en/) to fill the tax declaration
 - [How to Adult in Berlin](https://www.der-burtchen.de/2022/07/how-to-adult-in-berlin/)
+- [How to found a company in Germany: 14 "easy" steps and lots of pain](https://eidel.io/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain/)

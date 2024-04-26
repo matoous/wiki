@@ -2,6 +2,8 @@
 
 > The fastest career growth comes by finding work that aligns with both your interests and what matters most to the company.
 
+- Ask ["Empty Question"](https://www.edbatista.com/2024/02/jennifer-ouyang-altman-on-empty-questions.html), questions that are not loaded and biases.
+
 ## Resources
 
 - [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
@@ -111,6 +113,9 @@
 - [Readability: Google's Temple to Engineering Excellence](https://www.moderndescartes.com/essays/readability/)
 - [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
   - [Knowledge Sharing](https://abseil.io/resources/swe-book/html/ch03.html#readability_standardized_mentorship_thr)
+- [The ideal PR is 50 lines long](https://graphite.dev/blog/the-ideal-pr-is-50-lines-long)
+  > 50-line code changes are reviewed and merged ~40% faster than 250-line changes. They’re 15% less likely to be reverted than 250-line changes and have 40% more review comments per line changed. If your median PR is 50 lines long, you’re probably shipping 40% more total code than your teammate writing 200+ line PRs.
+
 
 ## Senior Software Engineer
 
@@ -191,6 +196,7 @@ specific area, e.g. API design.
 - [Get Straight to the Point](https://www.theengineeringmanager.com/growth/get-straight-to-the-point/)
 - [Moving From IC to Engineering Manager](https://staysaasy.com/management/2023/08/13/ic-to-em.html)
 - [Moving From Blame to Accountability](https://thesystemsthinker.com/moving-from-blame-to-accountability/)
+- [Great management and leadership books for the technical track](https://ntietz.com/blog/great-management-and-leadership-books-for-the-technical-track/)
 
 ## Hiring
 

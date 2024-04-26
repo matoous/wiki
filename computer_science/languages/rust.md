@@ -6,6 +6,7 @@
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example)
+- [Embassy](https://embassy.dev) - The next-generation framework for embedded applications
 - [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 - [Tour of Rust's Standard Library Traits](https://github.com/pretzelhammer/rust-blog/blob/master/posts/tour-of-rusts-standard-library-traits.md)
 - [rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code
@@ -39,6 +40,8 @@
 - [Effective Rust](https://www.lurklurk.org/effective-rust/)
 - [More than you've ever wanted to know about errors in Rust](https://www.shuttle.rs/blog/2022/06/30/error-handling)
 - [Novel way to Develop, Test and Document C libraries from Rust](https://wasmer.io/posts/novel-way-to-develop--test-and-document-c-libraries-from-rust)
+- [Rust Stream API visualized and exposed](https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md)
+- [The Rust Calling Convention We Deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
 
 ## Projects
 

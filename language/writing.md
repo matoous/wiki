@@ -5,6 +5,7 @@ Example of well written technical paper: [A Mathematical Theory of Communication
 ## Resources
 
 - [Creating a writing culture](https://learnings.substack.com/p/creating-a-writing-culture)
+- [Write Useful Books: A modern approach to designing and refining recommendable nonfiction](https://writeusefulbooks.com/)
 - [Writing more by Paul Stamatiou](https://paulstamatiou.com/writing-more/), 2020
 - [Writing tools I learned from The Economist](https://builtbywords.substack.com/p/writing-tools-i-learned-from-the)
   - easy to understand and straight to the point, i.e. be little bit less selfish and don't try to show how large your vocabulary is if you can use simplier terms that are easier for the reader to grasp

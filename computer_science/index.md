@@ -79,4 +79,4 @@
   - the network is reliable - you need logic for re-transmission
 - [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 - [What does an idle CPU do?](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
-
+- [Hello World - A deep dive into the world of abstraction behind a modern Hello World program.](https://thecoder08.github.io/hello-world.html)

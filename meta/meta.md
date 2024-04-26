@@ -26,3 +26,4 @@
 - [Nikita Voloboev](https://wiki.nikitavoloboev.xyz)
 - [jbranchaud/til](https://github.com/jbranchaud/til) - Today I Learned for programming, over 1000 notes.
 - [Chris Albon](https://chrisalbon.com/Home)
+- [OpenOrb](https://openorb.idiot.sh/search) - curated search for RSS and Atom feeds

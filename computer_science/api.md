@@ -23,3 +23,4 @@
 - [Give me /events, not webhooks](https://blog.sequin.io/events-not-webhooks/) #webhooks #api #events
 - [Considerations for event APIs (versus webhooks)](https://brandur.org/fragments/events-api) #webhooks #api #events
 - [API Design Style Guides, Guidelines and Best Practices](https://stoplight-site.webflow.io/api-style-guides-guidelines-and-best-practices)
+- [Stainless](https://app.stainlessapi.com/login) - SDK generator, pricing is steep but it generates beautiful SDKs and is good place for inspiration

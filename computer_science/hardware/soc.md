@@ -43,6 +43,8 @@ cargo run
 ### Resources
 
 - [**The Rust on ESP Book**](https://docs.esp-rs.org/book/)
+- [**A Beginner's Guide to the ESP8266**](https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html) - complete guide to ESP8266
+- [**ESP Home**](https://esphome.io/index.html) - everything about using ESP for home automation
 - [espflash](https://github.com/esp-rs/espflash) - A library and command-line tool for flashing Espressif devices.
   ```sh
   ~ espflash board-info

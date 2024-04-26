@@ -8,6 +8,8 @@
 - [*Bio*nic *Read*ing](https://bionic-reading.com/)
 - [Five Books](https://fivebooks.com) - the best books on everything
 - [Ask HN: What are the most eye-opening textbooks you have ever read?](https://news.ycombinator.com/item?id=35929112)
+- [You are what you read, even if you don't always remember it](https://blog.jim-nielsen.com/2024/you-are-what-you-read/)
+  > I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me.
 
 ## Short stories
 

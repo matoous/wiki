@@ -142,6 +142,7 @@
 - [Why Google Zanzibar Shines at Building Authorization](https://blog.warrant.dev/why-zanzibar-shines-at-building-authorization/)
 - [Ory Keto](https://github.com/ory/keto) - Open source implementation of "Zanzibar: Google's Consistent, Global Authorization System".
 - [Zanzibar: Google’s Consistent, Global Authorization System (2019)](https://www.youtube.com/watch?v=mstZT431AeQ) ([Web](https://research.google/pubs/pub48190/))
+- [Google Zanzibar for the rest of us](https://www.osohq.com/post/google-zanzibar-for-the-rest-of-us)
 
 ### Implementations
 
@@ -150,3 +151,7 @@
 - [Ory Keto](https://github.com/ory/keto) - exists for the longest, offered as enterprise product by Ory, typescript based configuration language that is easy to read/write/reason about
 - [Permify](https://permify.co/)
 - [Aserto](https://www.aserto.com/)
+
+## Products and solutions
+
+- [AuthKit](https://www.authkit.com/) - login solution in a box
