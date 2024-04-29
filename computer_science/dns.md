@@ -1,5 +1,8 @@
 # DNS
 
+- [**mDNS**](https://en.wikipedia.org/wiki/Multicast_DNS) (Multicast DNS)
+  > The multicast DNS (mDNS) protocol resolves hostnames to IP addresses within small networks that do not include a local name server. It is a zero-configuration service, using essentially the same programming interfaces, packet formats and operating semantics as unicast Domain Name System (DNS). It was designed to work as either a stand-alone protocol or compatible with standard DNS servers. It uses IP multicast User Datagram Protocol (UDP) packets.
+
 ## Resources
 
 - [Why do domain names sometimes end with a dot?](https://jvns.ca/blog/2022/09/12/why-do-domain-names-end-with-a-dot-/)

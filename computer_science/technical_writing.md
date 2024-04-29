@@ -5,7 +5,7 @@
 - [An Engineer’s Best Tips for Writing Documentation Devs Love](https://thenewstack.io/an-engineers-best-tips-for-writing-documentation-devs-love/)
   - don't tell anyone anything is _simple_
 - [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
-- [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
+- [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) #design-docs
   - purpose:
     - Early identification of design issues when making changes is still cheap.
     - Achieving consensus around a design in the organization.
