@@ -1,5 +1,8 @@
 # Computer Science
 
+
+- **maintain one source of truth** - if there are two sources of truth, one is probably wrong. If it's not wrong, it's not wrong yet. 
+
 ## Dictionary
 
 - [**YAGNI**](https://wiki.c2.com/?YouArentGonnaNeedIt) - You Aren't Gonna Need It
@@ -80,3 +83,12 @@
 - [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 - [What does an idle CPU do?](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
 - [Hello World - A deep dive into the world of abstraction behind a modern Hello World program.](https://thecoder08.github.io/hello-world.html)
+- [Putting the "You" in CPU](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer of how your computer runs programs, from start to finish.
+- [Memory Allocation](https://samwho.dev/memory-allocation/)
+- [QR Codes](https://typefully.com/DanHollick/qr-codes-T7tLlNi)
+- [GDPR For Developers By Example](https://getparthenon.com/blog/gdpr-for-developers-by-example/)
+- [The Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/)
+- [Advanced Data Structures](https://courses.csail.mit.edu/6.851/spring21/lectures/)
+- [A Gentle Introduction to CRDTs (Conflict Free Replicated Data types (CRDTs))](https://vlcn.io/blog/gentle-intro-to-crdts.html)
+- [Bootcamp](https://github.com/Lesabotsy/bootcamp) - guide for people who want to self-study the basics of Computer Science #study #computer-science #guide
+- [What I Learned From Two Years of Teaching High School CS](https://blog.charliemeyer.co/what-i-learned-from-two-years-of-teaching-high-school-cs/) #computer-science #teaching

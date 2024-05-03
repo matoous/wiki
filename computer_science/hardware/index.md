@@ -5,6 +5,8 @@
 - [f-secure-foundry/GoKey](https://github.com/f-secure-foundry/GoKey)
 - [Oxide on My Wrist: Hubris on PineTime was the best worst idea](https://artemis.sh/2022/03/28/oxide-hubris-on-pinetime.html)
 - [How Microchips Work](https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html)
+- [FreeRTOS](https://www.freertos.org/) #operating-system #os #rtos
+
 ## CPU
 
 - [Putting the “You” in CPU](https://cpu.land)

@@ -31,6 +31,7 @@
   - [14 things I recommend you buy and use -- Arden edition (pt. 2)](https://docs.google.com/document/d/1ZrSzGLuwIEWeQJ_2zL5vpYDyV-LmC-8SBy-Q4WPF318/edit#heading=h.6ctkknh27gv8)
 - [Things I recommend you buy, 2020 edition](https://sambowman.substack.com/p/things-i-recommend-you-buy-2020-sam-bowman) by Sam Bowman
 - [Things I recommend you buy and use, Rob edition](https://medium.com/@robertwiblin/things-i-recommend-you-buy-and-use-rob-edition-1d7b2ce27d68)
+- [My Setup, April 2024](https://registerspill.thorstenball.com/p/my-setup-april-2024) - office setup by [Thorsten Ball](https://thorstenball.com/)
 
 ## Amenities
 

@@ -7,7 +7,7 @@
 ## Resources
 
 - [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
-- [Interview Questions to Ask Your Interviewer](https://daveceddia.com/interview-questions-to-ask-company/)
+- [Interview Questions to Ask Your Interviewer](https://daveceddia.com/interview-questions-to-ask-company/) #interviewing
 - [Finding your leadership style](https://sallylait.com/blog/2022/01/25/finding-your-leadership-style/)
   - A few helpful questions that one can ask themself to identify their leadership style.
 - [Managing people 🤯](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
@@ -139,6 +139,10 @@
   - **Measuring Success** - decide on metrics that will tell you whether the project was a success. Is anyone using the new system? Do users manage to accomplish their tasks? You can leverage your Observability suite for this purpose.
 - [The Senior Shift](https://skamille.medium.com/the-senior-shift-315f56b79d5)
 - [Path to Senior Engineer handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
+- [How to find great senior engineers](https://kenkantzer.com/how-to-gauge-engineering-experience/) #interviewing - some suggestions for interview:
+  - "What important truth do very few people agree with you on?"
+  - The Three Why's - similar to what one would do during incident analysis, ask why multiple times to press for more nuanced answer
+  - Use case-studies. You lay out particular technical scenario and ask the candidate to figure out what they would do
 
 ## Staff Engineer
 

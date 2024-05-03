@@ -17,3 +17,5 @@
   - A link to an issue thread providing further context
 - [gitoxide](https://github.com/Byron/gitoxide)
 - [Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/) #git #command-line
+- [Modern Git Commands and Features You Should Be Using](https://martinheinz.dev/blog/109)
+  - `worktree` seems particularly interesting, especially when working on multiple things at once
