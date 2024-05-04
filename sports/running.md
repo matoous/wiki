@@ -38,20 +38,40 @@
 
 ## Race fueling
 
+Everyone is different and what works for one person might not work for another thus it is important to test and train the fueling the same way one would test new shoes or train for a specific race. The same way you wouldn't run a race in new shoes you don't want to change your diet beforehand.
+
 ### Before
 
-- Cut out fiber 2 days before the race, most people also mention switchin to whole wheat.
+- Cut out fiber 2 days before the race. Whole wheat is good for digestion and overall gut health but during the race, the digestion needs to run smoothly and fast which is the opposite of the effect the whole grain and fiber-rich food has.
+- Avoid fat, it takes long time to pass through your digestive tract.
+- Avoid cruciferous vegetables (e.g. brussels sprouts, cauliflower, kale, or cabbage) as they cause bloating.
 - Closer to the race mostly plain food such as white rice, white meat, eggs, yogurt.
-- Last meal 3-4 hours before the race.
+- The last day before the race don't over-eat. You don't want food to sit in your stomach when you start the race. It is ok to go into bed a little hungry. For the dinner, half the plate could be grains and starchy vegetables like potatoes, one-quarter lean protein like chicken or fish, and one-quarter non-starchy vegetables like green beans.
+- Don't forget to hydra, if it's supposed to be hot it might be a good idea to include electrolytes in your drinks as well already the day before.
+- Eat your last meal 3-4 hours before the race and don't over eat, same as the dinner the day before, you don't want the food to sit in your stomach while you run.
+
+Some ideas for meals closer to the race:
+
+- turkey or salmon burger on a bun with green beans and a white potato.
+- palm-sized portion of grilled fish or chicken—which tend to digest easier than steak or pork—with rice, zucchini, and a sweet potato.
+- turkey sandwich or sub on a white roll with veggies like cucumbers, tomatoes, and avocado.
+- sushi rolls—about three, depending on the size—with white rice, lean fish, avocado, and plain veggies like cucumbers (steer clear of higher-fat fillings like cream cheese and tempura).
+- homemade stir-fry with lean chicken, fish, or tofu and veggies, over white rice. Go light on the oil and avoid crucifercous veggies like broccoli and bok choy.
+- pizza can work, if you go light on the cheese and skip greasy sausage or pepperoni—think a couple slices of a Margherita pie, with fresh mozzarella, tomatoes, and basil.
+- pancakes with a side of egg whites (Rudser-Rusin’s go-to from her days racing marathons and Ironman triathlons).
+- bagel with peanut butter
+- smoothie with dairy or dairy alternative beverage with a banana
+- white toast with butter or peanut butter and 1-2 eggs
+- 3/4-1 cup of oatmeal with milk, fruit and peanut butter
 
 ### During
 
-- Rule of thumb is to have something small every 45 minutes
-- The body can absorb between 150-300 calories an hour (while consuming around 600-1000 during an ultra)
+- Rule of thumb is to have something small every 45 minutes.
+- The body can absorb between 150-300 calories an hour (while you exert around 600-1000 calories per hour during an ultra)
   - For reference, 40g Muarten gel is 100 calories, their drink mixes come in 160 or 320 calories
-- Some protein intake during the race is also important. Tom Evans mentions 5g every other hour.
-- Tom Evans metions rice balls and pizza rolls during the race
-- Other notable mentions: pre cooked halloumi, soup, nuts
+- Due to muscle breakdown during long events (over 3 hours) some protein intake is also important. The recommendation vary from 2.5g to 10g per hour.
+- Minimize fat. While it has a lot of energy density it takes time for the body to absorb it and put it to use which can lead to gastrointestinal distress.
+- Notable mentions of race-food and snacks by the pros: rice balls, pizza-rolls, pre cooked halloumi, soup, nuts
 
 > The biggest risk to you is you stop eating and your stomach shuts down. It’s pretty much game over from there. If you can get something, ANYTHING down, do it.
 
@@ -59,4 +79,5 @@
 
 - [Inside the nutrition strategy of pro ultra-runners during the UTMB](https://www.naak.com/blogs/articles/nutrition-tips-from-pro-ultra-runners-and-naak-lab-for-utmb)
 - [Luchos](https://luchos.com/) - Guava energy blocks
+- [Fueling for Success at the UTMB Finals](https://uphillathlete.com/trail-running/fueling-for-utmb/)
 
