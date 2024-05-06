@@ -92,3 +92,4 @@
 - [A Gentle Introduction to CRDTs (Conflict Free Replicated Data types (CRDTs))](https://vlcn.io/blog/gentle-intro-to-crdts.html)
 - [Bootcamp](https://github.com/Lesabotsy/bootcamp) - guide for people who want to self-study the basics of Computer Science #study #computer-science #guide
 - [What I Learned From Two Years of Teaching High School CS](https://blog.charliemeyer.co/what-i-learned-from-two-years-of-teaching-high-school-cs/) #computer-science #teaching
+- [CS109A Introduction to Data Science - Decision Trees (presentation)](https://harvard-iacs.github.io/2019-CS109A/lectures/lecture15/presentation/Lecture15_Decision_Trees.pdf)

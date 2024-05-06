@@ -19,6 +19,11 @@
 - [blogs.hn](https://blogs.hn/#) - Blogs of people posting on Hackernews.
 - [512Kb Club](https://512kb.club)
 - [Hackernews Blogroll](https://dm.hn)
+- [Kagi](https://kagi.com) - paid search engine without ads and tracking
+  - [Kagi Small Web](https://kagi.com/smallweb) - random small web page
+- [Wiby](https://wiby.me) - search engine for small pages with a [surprise me...](https://wiby.me/) feature that teleports you 20 years back.
+- [Marginalia](https://search.marginalia.nu) - search engine for small websites.
+  - [Marginalia - explore](https://search.marginalia.nu/explore/random) - explore random pages.
 
 ## Other wikis
 

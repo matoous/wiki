@@ -6,6 +6,7 @@
 - [Why Haskell is our first choice for building production software systems](https://www.foxhound.systems/blog/why-haskell-for-production/)
 - [Functors and Monads For People Who Have Read Too Many "Tutorials"](http://www.jerf.org/iri/post/2958)
 - [Reflections On Using Haskell For My Startup](https://alistairb.dev/reflections-on-haskell-for-startup/)
+- [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
 
 ## Projects
 

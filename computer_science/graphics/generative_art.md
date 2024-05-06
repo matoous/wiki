@@ -10,3 +10,4 @@
 - [Making Generative Art with Rust (2021)](https://blog.abor.dev/p/making-generative-art-with-rust) ([HN](https://news.ycombinator.com/item?id=27000436))
 - [The wet bird](http://www.oyonale.com/image.php?code=464&mode=info&section=2000&lang=en&) #art #digital-art
 - [Shader Art using WebGPU](https://github.com/pythops/shader-art-rs) - written in rust.
+- [Alex Miller](https://alex.miller.garden) - artist, collaborated with Apple and other large names

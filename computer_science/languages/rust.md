@@ -3,6 +3,7 @@
 ## Resources
 
 - [**Welcome to Comprehensive Rust 🦀**](https://google.github.io/comprehensive-rust/)
+- [The Mediocre Programmer's Guide to Rust](https://www.hezmatt.org/~mpalmer/blog/2024/05/01/the-mediocre-programmers-guide-to-rust.html)
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example)
