@@ -50,6 +50,7 @@
 
 ## Resources
 
+- [Search for RFCs](https://rfc.fyi)
 - [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/#org71f231a)
 - [cs-books/influential-cs-books](https://github.com/cs-books/influential-cs-books#readme)

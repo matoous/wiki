@@ -39,3 +39,6 @@ DDD deals with large domains using [**Bounded Context**](https://martinfowler.co
 - [10 Design Patterns Explained in 10 Minutes](https://www.youtube.com/watch?v=tv-_1er1mWI) (video)
 - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) #architecture #event-driven
 - [Command Query Responsibility Segregation (CQRS)](https://martinfowler.com/bliki/CQRS.html)
+- [Real-time Messaging](https://slack.engineering/real-time-messaging/) #messaging #system-design
+- [What we talk about when we talk about System Design](https://maheshba.bitbucket.io/blog/2023/07/12/Design.html)
+- [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook/dodmain.html)
