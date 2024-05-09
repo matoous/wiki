@@ -1,3 +1,6 @@
 # Presenting
+
 ## Resources
-- [marp-team/marp-core](https://github.com/marp-team/marp-core)
+
+- [iA Presenter](https://ia.net/presenter)
+- [Mark](https://marp.app/) - markdown presentation ecosystem

@@ -9,3 +9,8 @@
   2. **Hard Fact** - You take a pain point universally accepted as a hard fact of life, and see that it’s merely a hard problem that _your product solves_ for the customer. 
   3. **Future Vision** - You enable a new reality through visionary innovation.
 
+## Marketing
+
+- [michael-andreuzza/Marketing-for-Engineers](https://github.com/michael-andreuzza/Marketing-for-Engineers)
+- [User disengagement](https://zerodha.tech/blog/user-disengagement/)
+- [How to design a referral program](https://andrewchen.com/how-to-design-a-referral-program/)
