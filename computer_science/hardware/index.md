@@ -3,6 +3,7 @@
 ## CPU
 
 - [Putting the “You” in CPU](https://cpu.land)
+  > Curious exactly what happens when you run a program on your computer? Read this article to learn how multiprocessing works, what system calls really are, how computers manage memory with hardware interrupts, and how Linux loads executables.
 
 ## MPU
 

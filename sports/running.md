@@ -52,8 +52,8 @@ Everyone is different and what works for one person might not work for another t
 
 Some ideas for meals closer to the race:
 
+- chicken with rice, zucchini, and a sweet potato
 - turkey or salmon burger on a bun with green beans and a white potato.
-- palm-sized portion of grilled fish or chicken—which tend to digest easier than steak or pork—with rice, zucchini, and a sweet potato.
 - turkey sandwich or sub on a white roll with veggies like cucumbers, tomatoes, and avocado.
 - sushi rolls—about three, depending on the size—with white rice, lean fish, avocado, and plain veggies like cucumbers (steer clear of higher-fat fillings like cream cheese and tempura).
 - homemade stir-fry with lean chicken, fish, or tofu and veggies, over white rice. Go light on the oil and avoid crucifercous veggies like broccoli and bok choy.

@@ -54,6 +54,7 @@
   - What is the cost of making the wrong decision?
   - What is the ramp-up time of the decision? E.g. do you have early adopters you can try with?
 - [Mastering Programming](https://tidyfirst.substack.com/p/mastering-programming) by Kent Beck
+- [How do I make sure my work is visible?](https://theengineeringmanager.substack.com/p/how-do-i-make-sure-my-work-is-visible)
 
 ## Salary
 

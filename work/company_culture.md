@@ -12,4 +12,4 @@
   - Well defined and well understood by everybody
   - Strong culture provides sense of belonging, cuts through BS, helps avoid politics
 - [Hashicorp - Our Principles](https://www.hashicorp.com/our-principles)
-
+- [Inside Stripe’s Engineering Culture - Part 1](https://newsletter.pragmaticengineer.com/p/stripe#%C2%A7deployment-tooling)
