@@ -19,6 +19,7 @@
 - [I've locked myself out of my digital life](https://shkspr.mobi/blog/2022/06/ive-locked-myself-out-of-my-digital-life/)
 - [SMS phishing is way too easy](https://www.bejarano.io/sms-phishing/)
 - [How Passwordless Works](https://goteleport.com/blog/how-passwordless-works/?utm_campaign=pwdless&utm_medium=partner&utm_source=Pointer)
+- [Personal Security Checklist](https://digital-defense.io)
 
 ## Projects
 

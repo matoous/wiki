@@ -19,3 +19,4 @@
 - [Movement for Engineers](https://matt.blwt.io/post/movement-for-engineers/)
 - [mtnath (mountains and athletism)](https://mtnath.com) - Articles and tools for training by Killian Jornet and other famous athletes #training #running
   - [Training by Killian Jornet](https://mtnath.com/training/) #training #running
+- [Core strength (by Satisfy)](https://satisfyrunning.com/blogs/possessed/core-strengthening)

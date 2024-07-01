@@ -11,3 +11,6 @@
   - [SteuerGo](https://www.steuergo.de/en/) to fill the tax declaration
 - [How to Adult in Berlin](https://www.der-burtchen.de/2022/07/how-to-adult-in-berlin/)
 - [How to found a company in Germany: 14 "easy" steps and lots of pain](https://eidel.io/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain/)
+
+## Kinos
+- [kinokompendium](https://www.kinokompendium.de/kino_berlin_az.htm)
