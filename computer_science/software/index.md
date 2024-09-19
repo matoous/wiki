@@ -19,6 +19,8 @@
 - [Muse](https://museapp.com/) - App for note-taking and boards #software #macos
 - [Heynote](https://heynote.com) - A dedicated scratchpad for developers #editor #note-taking
 - [Git Tower](https://www.git-tower.com/mac) - The most powerful Git client for Mac and Windows
+- [Outline](https://www.getoutline.com) - Opensource Confluence alternative.
+- [AeroSpec](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 
 ## Resources
 

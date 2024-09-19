@@ -70,9 +70,11 @@
 - [Shader Art using WebGPU](https://github.com/pythops/shader-art-rs)
 - [Cola](https://github.com/nomad/cola) A text CRDT for real-time collaborative editing #crdt #text-editing
 - [Loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Enhance your app with seamless collaboration and effortless time-travel features #crdt #text-editing
+- [nicholassm/disruptor-rs](https://github.com/nicholassm/disruptor-rs) -  Low latency inter-thread communication library in Rust inspired by the LMAX Disruptor. 
 
 ## Game Dev
 
 - [Extreme Bevy: Making a p2p web game with rust and rollback netcode](https://johanhelsing.studio/posts/extreme-bevy)
 - [Chess game in Rust using Bevy](https://caballerocoll.com/blog/bevy-chess-tutorial/)
 - [Write a First Person Game in 2KB With Rust](https://grantshandy.github.io/posts/raycasting/)
+- [Rapier](https://rapier.rs) - 2D and 3D physics engine

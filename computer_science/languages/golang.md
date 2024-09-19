@@ -75,3 +75,4 @@
 - [Case Study: Algorithmic Trading With Go](https://polygon.io/blog/case-study-algorithmict-trading-with-go/)
 - [How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/)
 - [Running the “Reflections on Trusting Trust” Compiler ](https://research.swtch.com/nih) by [Russ Cox](https://swtch.com/~rsc/) on [Reflections on Trusting Trust](https://dl.acm.org/doi/pdf/10.1145/358198.358210) by [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)
+- [What We Got Right, What We Got Wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)

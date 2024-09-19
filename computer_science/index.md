@@ -94,3 +94,8 @@
 - [Bootcamp](https://github.com/Lesabotsy/bootcamp) - guide for people who want to self-study the basics of Computer Science #study #computer-science #guide
 - [What I Learned From Two Years of Teaching High School CS](https://blog.charliemeyer.co/what-i-learned-from-two-years-of-teaching-high-school-cs/) #computer-science #teaching
 - [CS109A Introduction to Data Science - Decision Trees (presentation)](https://harvard-iacs.github.io/2019-CS109A/lectures/lecture15/presentation/Lecture15_Decision_Trees.pdf)
+- [Basic Things](https://matklad.github.io/2024/03/22/basic-things.html)
+  - README
+  - Developer docs
+  - Testing, CI&CD, and the obvious stuff
+  

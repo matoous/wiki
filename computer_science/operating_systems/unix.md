@@ -6,3 +6,4 @@
   - Design and build software, even operating systems, to be tried early, ideally within weeks. Don't hesitate to throw away the clumsy parts and rebuild them.
   - Use tools in preference to unskilled help to lighten a programming task, even if you have to detour to build the tools and expect to throw some of them out after you've finished using them.
 - [The Design of the UNIX Operating System](https://archive.org/details/DesignUNIXOperatingSystem/page/4/mode/2up)
+- [Writing a Unix clone in about a month](https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html)

@@ -25,6 +25,7 @@
 - [Logging practices I follow](https://www.16elt.com/2023/01/06/logging-practices-I-follow/)
 - [How to Learn to Code](https://headlinedev.xyz/2022/08/12/how-to-learn-to-program.html)
 - [When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
+- [Ray tracing in one weekend](https://raytracing.github.io)
 
 ## Code sharing
 

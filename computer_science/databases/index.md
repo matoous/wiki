@@ -22,3 +22,4 @@
 - [From Postgres to Amazon DynamoDB](https://www.instacart.com/company/how-its-made/from-postgres-to-amazon-dynamodb-%EF%BF%BC/)
 - [How Discord Stores Trillions of Messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
 - [Database Fundamentals](https://tontinton.com/posts/database-fundementals/) #databases
+- [Use the index, Luke!](https://use-the-index-luke.com/no-offset) - a guide to database performance for developers
