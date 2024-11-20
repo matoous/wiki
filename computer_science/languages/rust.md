@@ -43,6 +43,7 @@
 - [Novel way to Develop, Test and Document C libraries from Rust](https://wasmer.io/posts/novel-way-to-develop--test-and-document-c-libraries-from-rust)
 - [Rust Stream API visualized and exposed](https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md)
 - [The Rust Calling Convention We Deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
+- [Async Rust in Three Parts](https://jacko.io/async_intro.html)
 
 ## Projects
 

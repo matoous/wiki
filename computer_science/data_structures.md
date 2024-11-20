@@ -25,6 +25,8 @@
 - [Collaborative Editing in ProseMirror](https://marijnhaverbeke.nl/blog/collaborative-editing.html)
 - [CRDTs Turned Inside Out](https://interjectedfuture.com/crdts-turned-inside-out/) #crdt #text-editing
 - [Ink and Switch](https://www.inkandswitch.com) - Articles on collaborative peer-to-peer editing #crdt #text-editing
+- [yjs](https://yjs.dev) - a shared editing framework
+  - [Y-sweet](https://docs.jamsocket.com/y-sweet) - Y-Sweet is an open-source Yjs sync server
 
 ## Resources
 

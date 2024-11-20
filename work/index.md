@@ -6,6 +6,8 @@ _Get it done_ - the mandate of your job is not _do the best you can_ but _get it
 
 [_Bikeshedding_](https://en.wikipedia.org/wiki/Law_of_triviality) (also _Law of triviality_) - tendency to devote a disproportionate amount of our time to menial and trivial matters while leaving important matters unattended.
 
+[_Truck Factor_ (TF)](http://aserg.labsoft.dcc.ufmg.br/truckfactor/) is a tool to identify concentration of knowledge in software development environments. It states the minimal number of developers that have to be hit by a truck (or quit) before a project is incapacitated.
+
 ## Resources
 
 - [Time management](https://en.wikipedia.org/wiki/Time_management)
@@ -91,6 +93,11 @@ _Get it done_ - the mandate of your job is not _do the best you can_ but _get it
   - Embrace reliable mainstream formats (JSON, RSS, etc)
   - Write code that can be replaced
 - [Team Topologies](https://martinfowler.com/bliki/TeamTopologies.html)
+- [Reasonable Person Principle](https://www.cs.cmu.edu/~weigand/staff/)
+  - Everyone will be reasonable.
+  - Everyone expects everyone else to be reasonable.
+  - No one is special.
+  - Do not be offended if someone suggests you are not being reasonable.
 
 ## Soft Skills
 

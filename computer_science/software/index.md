@@ -21,6 +21,7 @@
 - [Git Tower](https://www.git-tower.com/mac) - The most powerful Git client for Mac and Windows
 - [Outline](https://www.getoutline.com) - Opensource Confluence alternative.
 - [AeroSpec](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
+- [Spline](https://spline.design) - a place to design and collaborate in 3D.
 
 ## Resources
 
