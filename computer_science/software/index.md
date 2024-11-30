@@ -32,4 +32,3 @@
     - you are in well known hostile network (WiFi at the Airport, ISP that is known for MITMing)
     - want to hide your IP for very specific non-government-sanctioned adversaries, e.g. circumventing ban in chat room
 
-

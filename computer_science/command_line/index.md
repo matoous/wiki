@@ -19,6 +19,11 @@ Ctrl + l : equivalent to clear.
 Ctrl + x + Ctrl + e : launch editor defined by $EDITOR to input your command. Useful for multi-line commands.
 ```
 
+## Terminal Emulators
+
+- [Wezterm](https://wezfurlong.org/wezterm/index.html)
+  - [Okay, I really like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
+
 ## Editors
 
 - [Helix](https://github.com/helix-editor/helix)
@@ -42,6 +47,8 @@ Programs and tools provide many features that can speed things up but first one 
 - [What's an awesome Linux/Unix command that you wish someone had told you about earlier?](https://twitter.com/b0rk/status/993165679833567233)
 - [Awesome Console Services](https://github.com/chubin/awesome-console-services)
 - [icanhaz](https://major.io/icanhazip-com-faq/)
+- [srgn](https://github.com/alexpovel/srgn) - a code surgeon. Language-aware smart search and replace.
+- [skim](https://github.com/skim-rs/skim) - fuzzy finder written in rust with a preview.
 
 # Resources
 
@@ -93,8 +100,3 @@ Programs and tools provide many features that can speed things up but first one 
 - [Development Environments](https://phaazon.net/blog/development-environments) - how should we be developing in modern era?
 - [Nushell - Coming from Bash](https://www.nushell.sh/book/coming_from_bash.html)
 - [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html) - linux tools for debugging and crisis diagnosis
-
-## Tools
-
-- [srgn](https://github.com/alexpovel/srgn) - a code surgeon. Language-aware smart search and replace.
-

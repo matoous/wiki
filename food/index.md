@@ -22,8 +22,10 @@
 - [Why All Athletes Should Eat Plant-Based Diets](https://www.youtube.com/watch?v=0gHubVSP9sE)
 - [Ultimate list of Japanese Vegetable Cutting Techniques](https://thechefdojo.com/japanese-vegetable-cutting-techniques/)
 - [Cast iron leet](https://erock.prose.sh/cast-iron-leet)
-- [The Surprising Roots of Japan's Indian Curry](https://one-from-nippon.ghost.io/indo-curry/)
+- [The Surprising Roots of Japan's Indian Curry](https://one-from-nippon.ghost.io/indo-curry/) #food
 - [Give babies peanut butter to cut allergy by 77%, study says](https://www.bbc.com/news/health-64987074) #food #allergies #parenting
   - [Bamba (snack)](https://en.wikipedia.org/wiki/Bamba_(snack))
 - [Ten Thousand Ways to Use Chopsticks](https://marcosticks.org/ten-thousand-ways/)
 - [Authentic Thai Recipes and Video Tutorials](https://hot-thai-kitchen.com/)
+- [The Kimchi Masters of South Korea Can Teach You a Thing or Two](https://www.nytimes.com/2024/07/16/dining/south-korea-kimchi-masters.html)
+- [The Kitchen Starter Kit: Essential Tools for Every Cook](https://www.seriouseats.com/basic-starter-kitchen-equipment)

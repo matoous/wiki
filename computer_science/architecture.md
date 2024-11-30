@@ -51,3 +51,6 @@ DDD deals with large domains using [**Bounded Context**](https://martinfowler.co
 - [Real-time Messaging](https://slack.engineering/real-time-messaging/) #messaging #system-design
 - [What we talk about when we talk about System Design](https://maheshba.bitbucket.io/blog/2023/07/12/Design.html)
 - [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook/dodmain.html)
+- [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
+- [A Distributed Systems Reading List](https://ferd.ca/a-distributed-systems-reading-list.html) (different than the previous link)
+- [System Design Resources](https://github.com/InterviewReady/system-design-resources)

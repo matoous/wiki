@@ -4,9 +4,8 @@
 
 - [13 Lessons Learned](https://brightthemag.com/13-lessons-learned-e4f8ceb21e60) by _Matthew McConaughey_
 - [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html)
-  - instead of working back from a goal, work forward from promising situtions. That is, look at the options that you have now and choose those the will give you the most promising range of options afterward
+  - instead of working back from a goal, work forward from promising situations. That is, look at the options that you have now and choose those the will give you the most promising range of options afterward
   - your first task in life should be figuring out what are you interested in, curiosity turns work into play
-- [The ABC’S of Guiding the Child](http://web.archive.org/web/20110725071610/http://www.carterandevans.com:80/portal/images/pdf/article70.pdf) - Rudolf Dreikurs, M.D.
 - [Research Shows People Become Increasingly Unhappy Until Age 47.2](https://www.inc.com/jeff-haden/scientists-just-discovered-mid-life-crisis-peaks-at-age-47-heres-how-to-minimize-effect-of-happiness-curve.html)
 - [Steve Jobs's philosophy](https://www.youtube.com/watch?v=kYfNvmF0Bqw) ([Comic](https://twitter.com/linuz90/status/1318669341072699393))
 - [Handful of long-form posts on lifestyle](https://wiki.xxiivv.com/#lifestyle)
@@ -47,3 +46,31 @@
 - [What is your time really worth to you?](https://programs.clearerthinking.org/what_is_your_time_really_worth_to_you.html#.YtLHvS8RrfZ) -
   tool that helps you estimate how much money each hour is worth to you, so that you can make wiser decisions about how to spend that time.
   - my estimated value of free time is *€39 per hour*
+- [Tracking Everything I Wore For 1 Year](https://andrenader.substack.com/p/nfc-clothes-tracker)
+- [On Tea and the Art of Doing Nothing](https://thomasjbevan.substack.com/p/on-tea-and-the-art-of-doing-nothing)
+- [Why are you so busy?](https://tomlingham.com/articles/why-are-you-so-busy/)
+- [On being tired](https://jukkaniiranen.com/2022/02/on-being-tired/)
+  > As I age, I've learned to distinguish "not being excited" (languor) and "being tired" (exhaustion), which to my younger
+  > self felt like the same thing. The former is not always caused by a lack of energy, but also excessive idleness,
+  > especially if I'm doing things that requires attention but also isn't intellectually stimulating.
+  - [On Tea and the Art of Doing Nothing](https://thomasjbevan.substack.com/p/on-tea-and-the-art-of-doing-nothing)
+  - [Why are you so busy?](https://tomlingham.com/articles/why-are-you-so-busy/)
+  - [It Hurts to Ask](https://scholar.princeton.edu/sites/default/files/rbenabou/files/ihta_august_7.pdf)
+- [How to Build a Life](https://www.theatlantic.com/projects/how-build-life/) - A column about pointing yourself toward happiness 
+- [How To Do Hard Things](https://every.to/no-small-plans/how-to-do-hard-things)
+- [Henry Marsh: ‘Preparing to die has a lot to do with having had a good life’](https://english.elpais.com/science-tech/2023-04-01/henry-marsh-preparing-to-die-has-a-lot-to-do-with-having-had-a-good-life.html)
+- [The Finnish Secret to Happiness? Knowing When You Have Enough.](https://web.archive.org/web/20230402074052/https://www.nytimes.com/2023/04/01/world/europe/finland-happiness-optimism.html)
+- [Carl Braun on Communicating Like a Grown-Up](https://fs.blog/carl-braun-communicating/)
+  - _Assume Good Motives_
+    - we need stimulation of disagreement
+    - question other's information, reasoning, and conclusions — but never their motives
+  - _Remind, Not Tell_
+    - recognition of error and its examination is a sure way to avoid its being repeated
+- [The Kids are Not Okay](https://thezvi.wordpress.com/2023/03/08/the-kids-are-not-okay/) #psychology #life #sociology
+- [Anki-fy Your Life](https://abouttolearn.substack.com/p/anki-fy-your-life) #memory #life
+- [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition) #memory #life
+- [Scholarsome](https://github.com/hwgilbert16/scholarsome) - an open source system for flashcard sutyding
+- [The Ultimate Deliberate Practice Guide: How to Be the Best](https://fs.blog/deliberate-practice-guide/)
+- [What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me) by [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman)
+- [Rediscovering Ikigai: What We Got Wrong and How to Find Meaning in Life](https://nesslabs.com/ikigai)
+  ![Ikigai diagram](/static/ikigai.png)

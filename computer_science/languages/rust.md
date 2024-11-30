@@ -44,6 +44,7 @@
 - [Rust Stream API visualized and exposed](https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md)
 - [The Rust Calling Convention We Deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
 - [Async Rust in Three Parts](https://jacko.io/async_intro.html)
+- [Doing First Grade Math in Rust's Type System](https://fprasx.github.io/articles/type-system-arithmetic/)
 
 ## Projects
 
@@ -72,6 +73,7 @@
 - [Cola](https://github.com/nomad/cola) A text CRDT for real-time collaborative editing #crdt #text-editing
 - [Loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Enhance your app with seamless collaboration and effortless time-travel features #crdt #text-editing
 - [nicholassm/disruptor-rs](https://github.com/nicholassm/disruptor-rs) -  Low latency inter-thread communication library in Rust inspired by the LMAX Disruptor. 
+- [Rayon](https://github.com/rayon-rs/rayon) - A data parallelism library for Rust
 
 ## Game Dev
 

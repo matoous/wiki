@@ -21,4 +21,4 @@
 - [HTML Tips](https://markodenic.com/html-tips/) by _Marko Denic_
 - [Form control infrastructure](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html)
 - [Server-Sent Events: the alternative to WebSockets you should be using](https://germano.dev/sse-websockets/)
-
+- [Getting started with Web Performance](https://www.htmhell.dev/adventcalendar/2023/14/)

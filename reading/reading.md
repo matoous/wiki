@@ -14,4 +14,3 @@
 ## Short stories
 
 - [They're Made out of Meat](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
-

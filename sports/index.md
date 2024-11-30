@@ -20,3 +20,4 @@
 - [mtnath (mountains and athletism)](https://mtnath.com) - Articles and tools for training by Killian Jornet and other famous athletes #training #running
   - [Training by Killian Jornet](https://mtnath.com/training/) #training #running
 - [Core strength (by Satisfy)](https://satisfyrunning.com/blogs/possessed/core-strengthening)
+- [How to Squat with Proper Form: The Definitive Guide](https://stronglifts.com/squat/)
