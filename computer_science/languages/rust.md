@@ -69,7 +69,6 @@
 - [Progenitor](https://github.com/oxidecomputer/progenitor) - An OpenAPI client generator
 - [rust-sitter](https://github.com/hydro-project/rust-sitter) - Use Tree Sitter to parse your own languages in Rust
 - [pagefine](https://pagefind.app/) ([CloudCannon/pagefind](https://github.com/CloudCannon/pagefind)) - Pagefind is a fully static search library that aims to perform well on large sites, while using as little of your users’ bandwidth as possible, and without hosting any infrastructure.
-- [Shader Art using WebGPU](https://github.com/pythops/shader-art-rs)
 - [Cola](https://github.com/nomad/cola) A text CRDT for real-time collaborative editing #crdt #text-editing
 - [Loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Enhance your app with seamless collaboration and effortless time-travel features #crdt #text-editing
 - [nicholassm/disruptor-rs](https://github.com/nicholassm/disruptor-rs) -  Low latency inter-thread communication library in Rust inspired by the LMAX Disruptor. 
