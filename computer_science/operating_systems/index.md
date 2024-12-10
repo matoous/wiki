@@ -13,3 +13,4 @@
 - [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/)
 - [MyViewOfLinuxSystems](https://github.com/lsc4719/MyViewOfLinuxSystems)
   ![Linux process view](/static/linux-process-view.png)
+- [Hermit OS](https://github.com/hermit-os/kernel) - A Rust-based, lightweight unikernel. #rust #os #kernel

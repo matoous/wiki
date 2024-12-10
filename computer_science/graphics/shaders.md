@@ -8,3 +8,4 @@
 - [On Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/) - shader that looks like paintings #shaders
 - [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [shadertoy](https://www.shadertoy.com/) - Build and Share your best shaders with the world and get Inspired
+- [Shadplay](https://github.com/alphastrata/shadplay) - exploring shader in bevy

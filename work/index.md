@@ -145,5 +145,6 @@ The [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem), states that any di
 - **Availability** - Every request receives a (non-error) response, without the guarantee that it contains the most recent write.
 - **Partition tolerance** - The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes.
 
+- [A Critique of the CAP Theorem](https://arxiv.org/abs/1509.05393)
 
 [^get_it_done]: [Get It Done](https://boz.com/articles/get-it-done) by [Andrew Bosworth](https://boz.com)

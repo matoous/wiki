@@ -14,6 +14,10 @@
 
 - [how the append-only btree works](https://www.bzero.se/ldapd/btree.html)
 
+## [**k-d tree**](https://en.wikipedia.org/wiki/K-d_tree)
+
+> k-dimensional tree (k-d tree) is a space-partitioning data structure for organizing points in a k-dimensional space. K-dimensional is that which concerns exactly `k` orthogonal axes or a space of any number of dimensions. k-d trees are a useful data structure for several applications, such as searches involving a multidimensional search key (e.g. range searches and nearest neighbor searches) or creating point clouds. k-d trees are a special case of [binary space partitioning](https://en.wikipedia.org/wiki/Binary_space_partitioning) trees. 
+
 ## Ropes
 
 - [Rope science](https://xi-editor.io/docs/rope_science_00.html)
