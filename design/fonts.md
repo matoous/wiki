@@ -12,3 +12,4 @@
 - [B612](https://b612-font.com) - B612 is an highly legible open source font family designed and tested to be used on aircraft cockpit screens.
 - [Bookerly](https://online-fonts.com/fonts/bookerly) - Serif font used by Kindle
 - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
+- [Daily](https://dailyfont.org/)

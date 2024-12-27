@@ -32,6 +32,8 @@
 - [Things I recommend you buy, 2020 edition](https://sambowman.substack.com/p/things-i-recommend-you-buy-2020-sam-bowman) by Sam Bowman
 - [Things I recommend you buy and use, Rob edition](https://medium.com/@robertwiblin/things-i-recommend-you-buy-and-use-rob-edition-1d7b2ce27d68)
 - [My Setup, April 2024](https://registerspill.thorstenball.com/p/my-setup-april-2024) - office setup by [Thorsten Ball](https://thorstenball.com/)
+- [The Kids Should See This](https://thekidshouldseethis.com/giftguide) - gifts for kids, A
+- [Time Since Launch](https://cwandt.com/products/time-since-launch)
 
 ## Amenities
 

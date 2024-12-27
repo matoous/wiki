@@ -2,4 +2,4 @@
 
 ## Resources
 
-- [ORBITAL MECHANICS](http://www.braeunig.us/space/orbmech.htm)
+- [Orbital Mechanics](http://www.braeunig.us/space/orbmech.htm)

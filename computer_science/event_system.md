@@ -8,3 +8,4 @@
 - [Using Server Sent Events to Simplify Real-time Streaming at Scale](https://shopify.engineering/server-sent-events-data-streaming)
 - [How Shopify Scaled their Black Friday Live Dashboard](https://blog.quastor.org/p/shopify-scaled-dashboards-black-friday)
 - [Event-Driven Architecture Fundamentals and Common Pitfalls (and How to Avoid Them)](https://hookdeck.com/blog/event-driven-architectrure-fundamentals-pitfalls)
+- [Beware! Anti-patterns in Event-Driven Architecture](https://codeopinion.com/beware-anti-patterns-in-event-driven-architecture/)
