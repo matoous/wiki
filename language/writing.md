@@ -8,7 +8,7 @@ Example of well written technical paper: [A Mathematical Theory of Communication
 - [Write Useful Books: A modern approach to designing and refining recommendable nonfiction](https://writeusefulbooks.com/)
 - [Writing more by Paul Stamatiou](https://paulstamatiou.com/writing-more/), 2020
 - [Writing tools I learned from The Economist](https://builtbywords.substack.com/p/writing-tools-i-learned-from-the)
-  - easy to understand and straight to the point, i.e. be little bit less selfish and don't try to show how large your vocabulary is if you can use simplier terms that are easier for the reader to grasp
+  - easy to understand and straight to the point, i.e. be little bit less selfish and don't try to show how large your vocabulary is if you can use simpler terms that are easier for the reader to grasp
   - stack your supporting observations close together to make your point
   - summarize with first sentence, explain with following ones
   - use verbs, nouns, and adjectives the paint the picture, e.g. _entered the building_ vs. _stormed into the building_
@@ -20,7 +20,7 @@ Example of well written technical paper: [A Mathematical Theory of Communication
 - [Writing for Engineers](https://www.heinrichhartmann.com/posts/writing/)
 - [Explaining explaining: a quick guide on explanatory writing](https://lucasfcosta.com/2021/09/30/explaining-in-writing.html)
 - [How to Write Better with The Why, What, How Framework](https://eugeneyan.com/writing/writing-docs-why-what-how/)
-- [Lose the very](https://www.losethevery.com) - atlernatives for _very_ + _subjective_
+- [Lose the very](https://www.losethevery.com) - alternatives for _very_ + _subjective_
 - [SHORT-FINGERED VULGARIANS AT THE GATE (OR HOW I BECAME A TYPOGRAPHER, PT. 2)](https://matthewbutterick.com/chron/short-fingered-vulgarians-at-the-gate.html) #typography #writing
 - [En dash, em dash and hyphen; what’s the difference? (also ndash and mdash, or n-dash and m-dash)](https://www.punctuationmatters.com/en-dash-em-dash-hyphen/) #typography #writing
 - [Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
@@ -31,6 +31,7 @@ Example of well written technical paper: [A Mathematical Theory of Communication
 - [Why Write?](https://bastian.rieck.me/blog/posts/2023/writing_why/)
 - [Some tactics for writing in public](https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/)
 - [The Elements of Style](https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf)
+- [Harper](https://writewithharper.com/) - The Grammar Checker for Developers
 
 ## Paper Writing
 

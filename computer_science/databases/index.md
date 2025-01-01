@@ -23,3 +23,4 @@
 - [How Discord Stores Trillions of Messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
 - [Database Fundamentals](https://tontinton.com/posts/database-fundementals/) #databases
 - [Use the index, Luke!](https://use-the-index-luke.com/no-offset) - a guide to database performance for developers
+- [Postgres Language Server](https://github.com/supabase-community/postgres_lsp)
