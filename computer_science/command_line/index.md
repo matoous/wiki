@@ -50,6 +50,11 @@ Programs and tools provide many features that can speed things up but first one 
 - [srgn](https://github.com/alexpovel/srgn) - a code surgeon. Language-aware smart search and replace.
 - [skim](https://github.com/skim-rs/skim) - fuzzy finder written in rust with a preview.
 
+## Dotfiles
+
+- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. #dot-files #golang
+- [rotz](https://github.com/volllly/rotz) - Fully cross platform dotfile manager and dev environment bootstrapper written in Rust. #dot-files #rust
+
 # Resources
 
 - [**CLI Guidelines**](https://clig.dev/) - Guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day. ([Code](https://github.com/cli-guidelines/cli-guidelines)) ([HN](https://news.ycombinator.com/item?id=25304257)) ([Lobsters](https://lobste.rs/s/bsgtju/cli_guidelines))
@@ -99,4 +104,4 @@ Programs and tools provide many features that can speed things up but first one 
 - [What happens when you press a key in your terminal?](https://jvns.ca/blog/2022/07/20/pseudoterminals/)
 - [Development Environments](https://phaazon.net/blog/development-environments) - how should we be developing in modern era?
 - [Nushell - Coming from Bash](https://www.nushell.sh/book/coming_from_bash.html)
-- [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html) - linux tools for debugging and crisis diagnosis
+- [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html) - linux tools for debugging and crisis diagnosis #linux

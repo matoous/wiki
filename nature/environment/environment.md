@@ -26,6 +26,12 @@
 
 - [Mossy Earth](https://www.mossy.earth/) - Rewilding and Reforestation Membership.
 
+## Books
+
+- [How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need by Bill Gates (2021)](https://www.goodreads.com/book/show/49007883) #book
+- [The Design Pathway](https://earth-regenerators.mn.co/posts/the-design-pathway-preface) - Book about what will need to happen if humanity is to intentionally avoid extinction. #book
+- [Rewiring America](https://www.rewiringamerica.org/handbook) - Handbook for winning the climate fight. #book
+
 ## Resources
 
 - [Albatross Film](https://www.albatrossthefilm.com/) - Eye opening film that shows the horrible impact of plastic use on the animals.
@@ -46,7 +52,6 @@
 - [Tomorrow](https://www.tmrow.com/) - Data Driven Climate Action.
 - [Pachama](https://pachama.com/) - Offset your Carbon Emissions with Verified Reforestation.
 - [Greyparrot](https://greyparrot.ai/) - Computer Vision for Waste Management.
-- [The Design Pathway](https://earth-regenerators.mn.co/posts/the-design-pathway-preface) - Book about what will need to happen if humanity is to intentionally avoid extinction.
 - [The rise and rise of Climate-tech (2020)](https://medium.com/@himanshu_99557/the-rise-and-rise-of-climate-tech-1c8e95da7c7b)
 - [A thread of all things climate change, from history to core tenets and demands, from movement strategy & dynamics to hot takes (2019)](https://twitter.com/n_thanki/status/1159466969755729922)
 - [What can a technologist do about climate change? A personal view. (2015)](http://worrydream.com/ClimateChange/)
@@ -79,7 +84,6 @@
 - [No one believes in climate change. Not really. (2020)](https://www.riknieu.com/no-one-believes-in-climate-change-not-really/)
 - [Preston-Werner Ventures](https://prestonwernerventures.com/) - Working on social justice, climate change, and technology.
 - [Global map of wind, weather, and ocean conditions](https://earth.nullschool.net/)
-- [Rewiring America](https://www.rewiringamerica.org/handbook) - Handbook for winning the climate fight.
 - [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology) - Open technology projects sustaining stable climate, energy supply and vital natural resources. ([Web](https://opensustain.tech/))
 - [The Social Life of Forests (2020)](https://www.nytimes.com/interactive/2020/12/02/magazine/tree-communication-mycorrhiza.html) ([HN](https://news.ycombinator.com/item?id=25330549))
 - [Watershed](https://www.watershedclimate.com/) - Helping companies cut carbon.
@@ -98,7 +102,6 @@
 - [The Climate Crisis Is Worse Than You Can Imagine. Here’s What Happens If You Try. (2021)](https://www.propublica.org/article/the-climate-crisis-is-worse-than-you-can-imagine-heres-what-happens-if-you-try)
 - [Code against Climate Change](https://github.com/daviddao/code-against-climate-change) - Curated list of tech projects against climate change.
 - [How to destroy the Earth (2003)](https://qntm.org/destroy)
-- [How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need by Bill Gates (2021)](https://www.goodreads.com/book/show/49007883)
 - [Will technology save us from climate change? (2021)](https://www.media.mit.edu/events/will-technology-save-us-from-climate-change/) ([HN](https://news.ycombinator.com/item?id=26262667))
 - [Google 2020 environmental report](https://blog.google/outreach-initiatives/sustainability/2020-environmental-report/)
 - [Google for Startups Accelerator: Climate Change Accelerators](https://developers.google.com/community/accelerators/climate)

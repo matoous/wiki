@@ -46,7 +46,7 @@ To get up to speed and learn the basics of sane and mindful investing the best s
 - [DIY Investing Resource #5: Sound Investing Podcast with Paul Merriman](https://eatthefinancialelephant.com/diy-investing-resource-5-sound-investing-podcast-with-paul-merriman/)
 - [The Millionaire Educator](https://www.millionaireeducator.com/)
 - [GoCurryCracker](https://www.gocurrycracker.com/) - tax optimization, asset allocation, etc.
-- [DIY Investing Resource #2: The Little Book of Common Sense Investing](https://www.caniretireyet.com/little-book-common-sense-investing/)
+- [DIY Investing Resource #2: The Little Book of Common Sense Investing](https://www.caniretireyet.com/little-book-common-sense-investing/) #book
 - [Negative Cash](https://tynan.com/negative/) by Tynan
 - [Variance and Investing](https://tynan.com/variance/) by Tynan
   - "Any investment other than a risk-free investment or very safe index-fund based portfolio will be higher variance.

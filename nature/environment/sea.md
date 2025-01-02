@@ -2,7 +2,7 @@
 
 ## Books
 
-- [The Outlaw Ocean](https://www.theoutlawocean.com/) - _Journalism from the Last Untamed Frontier_
+- [The Outlaw Ocean](https://www.theoutlawocean.com/) - _Journalism from the Last Untamed Frontier_ #book #environment #nature
 
 ## Resources
 

@@ -12,3 +12,4 @@
 - [Theory of Interstellar Trade](https://www.princeton.edu/~pkrugman/interstellar.pdf), and similar:
   - [Neptune's Brood](https://en.wikipedia.org/wiki/Neptune%27s_Brood)
   - [Singularity Sky](https://en.wikipedia.org/wiki/Singularity_Sky)
+- [Stripe Press](https://press.stripe.com/) - Publishes books about economic and technological advancement.

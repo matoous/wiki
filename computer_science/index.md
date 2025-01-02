@@ -48,6 +48,10 @@
 - [Koyeb](https://www.koyeb.com)
 - [AsciiFlow](https://asciiflow.com/#/) - ASCII art for semantic code commenting
 
+## Clubs & Organizations
+
+- [Chaos Computer Club](https://en.wikipedia.org/wiki/Chaos_Computer_Club)
+
 ## Resources
 
 - [**A collection of learning resources for curious software engineers**](https://github.com/charlax/professional-programming)
