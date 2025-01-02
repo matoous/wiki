@@ -49,6 +49,7 @@ Programs and tools provide many features that can speed things up but first one 
 - [icanhaz](https://major.io/icanhazip-com-faq/)
 - [srgn](https://github.com/alexpovel/srgn) - a code surgeon. Language-aware smart search and replace.
 - [skim](https://github.com/skim-rs/skim) - fuzzy finder written in rust with a preview.
+- [oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 
 ## Dotfiles
 
@@ -105,3 +106,4 @@ Programs and tools provide many features that can speed things up but first one 
 - [Development Environments](https://phaazon.net/blog/development-environments) - how should we be developing in modern era?
 - [Nushell - Coming from Bash](https://www.nushell.sh/book/coming_from_bash.html)
 - [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html) - linux tools for debugging and crisis diagnosis #linux
+- [Déjà vu: Ghostly CVEs in my terminal title](https://dgl.cx/2024/12/ghostty-terminal-title) #security
