@@ -103,3 +103,7 @@
   - Developer docs
   - Testing, CI&CD, and the obvious stuff
 - [Developer Productivity for Humans, Part 7: Software Quality](https://ieeexplore.ieee.org/document/10372494)
+
+## Conferences
+
+- [CCC](https://www.ccc.de/) - [Chaos Computer Club](https://en.wikipedia.org/wiki/Chaos_Computer_Club)

@@ -66,6 +66,9 @@ To get up to speed and learn the basics of sane and mindful investing the best s
 - [A Wealth of Common Sense](https://awealthofcommonsense.com) - articles about investing for regular people
 - [Bogleheads.org](Bogleheads.org) - HN for investing
 - [Harry Browne’s 17 Golden Rules of Financial Safety](https://thetaoofwealth.wordpress.com/2013/02/17/harry-brownes-17-golden-rules-of-financial-safety/)
+- [Are you trading or gambling?](https://investinglessons.substack.com/p/are-you-trading-or-gambling)
+  - you _bets_ (investments) should be sized in percentage, based on [Kelly criterion](https://en.wikipedia.org/wiki/Kelly_criterion)
+- [Never Hertz to Ask](https://alexdanco.com/2020/06/14/never-hertz-to-ask/)
 
 ## Places to invest at
 
