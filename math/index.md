@@ -2,10 +2,11 @@
 
 ## Resources
 
-- [**Interactive Linear Algebra**](https://textbooks.math.gatech.edu/ila/index.html)
-- [**Quaternions**](https://eater.net/quaternions) 
+- [**Interactive Linear Algebra**](https://textbooks.math.gatech.edu/ila/index.html) #linear-algebra
+- [**Quaternions**](https://eater.net/quaternions) #graphics
   - [Quaternion (Wiki)](https://en.wikipedia.org/wiki/Quaternion)
   - [Quaternions and 3d rotation, explained interactively (video)](https://youtu.be/zjMuIxRvygQ?si=4LvYANrmsuy5lwIt)
+- [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) #linear-algebra
 - [Mathematics Cheat Sheet](https://ourway.keybase.pub/mathematics_cheat_sheet.pdf)
 - [A Programmer’s Introduction to Mathematics](https://www.bit-101.com/blog/2021/08/a-programmers-introduction-to-mathematics/)
 - [Math Foundations from Scratch](https://learnaifromscratch.github.io/math.html)
@@ -24,11 +25,11 @@
 - [Awesome Math](https://github.com/rossant/awesome-math)
 - [Manga Guide Series](https://www.ohmsha.co.jp/english/manga.htm)
 - [Ask HN: How to learn math from zero for adults?](https://news.ycombinator.com/item?id=31539549)
-- [The Animated Elliptic Curve](https://curves.xargs.org)
+- [The Animated Elliptic Curve](https://curves.xargs.org) #cryptography
 - [What Is an Eigenvalue?](https://nhigham.com/2022/11/08/what-is-an-eigenvalue/)
 - [How to Get a Ph.D. in Mathematics in a Timely Fashion](https://sites.math.washington.edu/~billey/advice/timely.fashion.pdf)
 - [The Fourier Transform, explained in one sentence](https://blog.revolutionanalytics.com/2014/01/the-fourier-transform-explained-in-one-sentence.html)
 - [Estimating Square Roots in Your Head](https://gregorygundersen.com/blog/2023/02/01/estimating-square-roots/)
-- [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/)
+- [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/) #category-theory
 - [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
 - [The math exams of my life](https://www.andreinc.net/2024/01/09/the-most-important-math-exams-of-my-life)

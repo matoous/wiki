@@ -12,6 +12,8 @@
 - [On Versioning Observabilities (1.0, 2.0, 3.0…10.0?!?)](https://charity.wtf/2024/12/20/on-versioning-observabilities-1-0-2-0-3-0-10-0/)
 - [Is It Time To Version Observability? (Signs Point To Yes)](https://charity.wtf/2024/08/07/is-it-time-to-version-observability-signs-point-to-yes/)
 - [Redefining Observability](https://hazelweakly.me/blog/redefining-observability/)
+- [Sifter: Scalable Sampling for Distributed Traces, without Feature Engineering](https://dl.acm.org/doi/pdf/10.1145/3357223.3362736) (pdf)
+- [End-to-end tracing with OpenTelemetry](https://dev.to/apisix/end-to-end-tracing-with-opentelemetry-a17)
 
 ## Tools
 

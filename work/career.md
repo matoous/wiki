@@ -202,6 +202,7 @@ specific area, e.g. API design.
 - [Moving From IC to Engineering Manager](https://staysaasy.com/management/2023/08/13/ic-to-em.html)
 - [Moving From Blame to Accountability](https://thesystemsthinker.com/moving-from-blame-to-accountability/)
 - [Great management and leadership books for the technical track](https://ntietz.com/blog/great-management-and-leadership-books-for-the-technical-track/)
+- [Advantages of incompetent management](https://yosefk.com/blog/advantages-of-incompetent-management.html)
 
 ## Hiring
 

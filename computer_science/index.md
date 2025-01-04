@@ -55,6 +55,7 @@
 ## Resources
 
 - [**A collection of learning resources for curious software engineers**](https://github.com/charlax/professional-programming)
+- [Kind Engineering](https://kind.engineering) - honestly, sync vs. async communication, inclusivity, no blame, etc.
 - [Search for RFCs](https://rfc.fyi)
 - [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/#org71f231a)
