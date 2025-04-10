@@ -14,4 +14,5 @@
 ## Resources
 
 - [_False vacuum decay_](https://en.wikipedia.org/wiki/False_vacuum_decay)
-
+- [417-Megapixel Andromeda Galaxy Panorama Took Over a Decade to Make](https://petapixel.com/2025/01/16/417-megapixel-andromeda-galaxy-panorama-took-over-a-decade-to-make/)
+- [High resolution picture of the Sun](https://eopro.esa.int/wp-content/uploads/2024/10/PHI_Visible-light_20230322v2.jpg)

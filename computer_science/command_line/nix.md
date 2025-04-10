@@ -1,6 +1,8 @@
 # Nix
 
-Install flake from specific github repo branch:
+## Notes
+
+Install flake from specific GitHub repo branch:
 
 ```sh
 nix profile install github:helix-editor/helix#snippet_placeholder

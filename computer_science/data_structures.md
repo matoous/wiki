@@ -13,10 +13,16 @@
 > B-tree is a self-balancing tree data structure that maintains sorted data and allows searches, sequential access, insertions, and deletions in logarithmic time. The B-tree generalizes the binary search tree, allowing for nodes with more than two children. Unlike other self-balancing binary search trees, the B-tree is well suited for storage systems that read and write relatively large blocks of data, such as databases and file systems. 
 
 - [how the append-only btree works](https://www.bzero.se/ldapd/btree.html)
+- [To B or not to B: B-Trees with Optimistic Lock Coupling](https://cedardb.com/blog/optimistic_btrees/)
+- [B-Trees: More Than I Thought I'd Want to Know](https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/)
 
 ## [**k-d tree**](https://en.wikipedia.org/wiki/K-d_tree)
 
-> k-dimensional tree (k-d tree) is a space-partitioning data structure for organizing points in a k-dimensional space. K-dimensional is that which concerns exactly `k` orthogonal axes or a space of any number of dimensions. k-d trees are a useful data structure for several applications, such as searches involving a multidimensional search key (e.g. range searches and nearest neighbor searches) or creating point clouds. k-d trees are a special case of [binary space partitioning](https://en.wikipedia.org/wiki/Binary_space_partitioning) trees. 
+> k-dimensional tree (k-d tree) is a space-partitioning data structure for organizing points in a k-dimensional space. K-dimensional is that which concerns exactly `k` orthogonal axes or a space of any number of dimensions. k-d trees are a useful data structure for several applications, such as searches involving a multidimensional search key (e.g. range searches and nearest neighbor searches) or creating point clouds. k-d trees are a special case of [binary space partitioning](https://en.wikipedia.org/wiki/Binary_space_partitioning) trees.
+
+## [**Merkle tree**](https://en.wikipedia.org/wiki/Merkle_tree)
+
+> Merkle tree is a tree in which every "leaf" node is labelled with the cryptographic hash of a data block, and every node that is not a leaf (called a branch, inner node, or inode) is labelled with the cryptographic hash of the labels of its child nodes. A hash tree allows efficient and secure verification of the contents of a large data structure. A hash tree is a generalization of a hash list and a hash chain.
 
 ## Ropes
 

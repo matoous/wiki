@@ -1,4 +1,4 @@
-# Golang
+# Go
 
 ## News
 
@@ -12,6 +12,7 @@
 - [Script](https://github.com/bitfield/script) - Utilities for scripting with go
 - [georgysavva/scany](https://github.com/georgysavva/scany) - Library for scanning data from a database into Go structs and more.
 - [jetpack-io/typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs.
+- [tomakado/dumbql](https://github.com/tomakado/dumbql) - Simple (dumb?) query language
 
 ## Tools
 
@@ -28,7 +29,8 @@
 - **[Go Style Guide](https://google.github.io/styleguide/go/index)**
   - **[Go Style Decisions](https://google.github.io/styleguide/go/decisions)**
   - **[Go Style Best Practices](https://google.github.io/styleguide/go/best-practices)**
-- **[Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)**
+- **[Go Code Review Comments](https://go.dev/wiki/CodeReviewComments)**
+- **[Go Test Comments](https://go.dev/wiki/TestComments)**
 - **[Effective Go](https://golang.org/doc/effective_go)**
 - [Go Testing By Example](https://research.swtch.com/testing)
 - [Darker Corners of Go - Rytis Biel](https://rytisbiel.com/2021/03/06/darker-corners-of-go/)
@@ -68,9 +70,9 @@
 - [The Busy Developer's Guide to Go Profiling, Tracing and Observability](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md)
 - [Why Go Getting Generics Will Not Change Idiomatic Go](https://www.jerf.org/iri/post/2955/)
 - [Unlocking the Power of Zero Knowledge Proofs with Gnark and Go](https://arriqaaq.substack.com/p/unlocking-the-power-of-zero-knowledge)
-- [Diving Deep Into The Golang Channels.](https://codeburst.io/diving-deep-into-the-golang-channels-549fd4ed21a8) #golang
-- [Go runtime: 4 years later](https://go.dev/blog/go119runtime) #golang #runtime #scheduler
-- [Analysis of the Go runtime scheduler](http://www1.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf) #golang #runtime #scheduler
+- [Diving Deep Into The Golang Channels.](https://codeburst.io/diving-deep-into-the-golang-channels-549fd4ed21a8) #go
+- [Go runtime: 4 years later](https://go.dev/blog/go119runtime) #go #runtime #scheduler
+- [Analysis of the Go runtime scheduler](http://www1.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf) #go #runtime #scheduler
 - [Profiling Go Programs](https://benchkram.de/blog/dev/profiling-go-programs)
 - [Case Study: Algorithmic Trading With Go](https://polygon.io/blog/case-study-algorithmict-trading-with-go/)
 - [How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/)

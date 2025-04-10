@@ -21,6 +21,7 @@
 - [How Passwordless Works](https://goteleport.com/blog/how-passwordless-works/?utm_campaign=pwdless&utm_medium=partner&utm_source=Pointer)
 - [Personal Security Checklist](https://digital-defense.io)
 - [Cyber Security: A Pre-War Reality Check](https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/)
+- [The Protesters' Guide to Smartphone Security](https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/)
 
 ## Projects
 

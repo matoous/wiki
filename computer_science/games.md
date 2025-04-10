@@ -11,3 +11,5 @@
   - [Radiance Cascades (Shadertoy)](https://www.shadertoy.com/view/mtlBzX)
   - [Radiance Cascades from scratch](https://tmpvar.com/poc/radiance-cascades/)
 - [How Dwarf Fortress is built](https://stackoverflow.blog/2021/07/28/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/) - Q&A with Tarn Adams, the sole developer of the Dwarf Fortress
+- [5 ways to draw an outline](https://ameye.dev/notes/rendering-outlines/)
+- [QUAKE 3 SOURCE CODE REVIEW: NETWORK MODEL](https://fabiensanglard.net/quake3/network.php)

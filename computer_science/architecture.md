@@ -54,3 +54,4 @@ DDD deals with large domains using [**Bounded Context**](https://martinfowler.co
 - [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
 - [A Distributed Systems Reading List](https://ferd.ca/a-distributed-systems-reading-list.html) (different than the previous link)
 - [System Design Resources](https://github.com/InterviewReady/system-design-resources)
+- [The Architecture of Open Source Applications](https://aosabook.org/en/)

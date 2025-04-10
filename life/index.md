@@ -69,7 +69,7 @@
 - [The Kids are Not Okay](https://thezvi.wordpress.com/2023/03/08/the-kids-are-not-okay/) #psychology #life #sociology
 - [Anki-fy Your Life](https://abouttolearn.substack.com/p/anki-fy-your-life) #memory #life
 - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition) #memory #life
-- [Scholarsome](https://github.com/hwgilbert16/scholarsome) - an open source system for flashcard sutyding
+- [Scholarsome](https://github.com/hwgilbert16/scholarsome) - an open source system for flashcard studying
 - [The Ultimate Deliberate Practice Guide: How to Be the Best](https://fs.blog/deliberate-practice-guide/)
 - [What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me) by [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman)
 - [Rediscovering Ikigai: What We Got Wrong and How to Find Meaning in Life](https://nesslabs.com/ikigai)

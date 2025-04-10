@@ -47,7 +47,7 @@
 - [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management. ([Go package](https://github.com/Nerzal/gocloak))
 - [TokenCLI](https://github.com/imduffy15/token-cli) - Command line utility for interacting with OAuth2 infrastructure to generate tokens.
 - [Decentralized Identifiers (DIDs)](https://www.w3.org/TR/did-core/) - New type of identifier that enables verifiable, decentralized digital identity.
-- [jwt](https://github.com/ucarion/jwt) - Golang implementation of JSON Web Tokens (JWT) that helps you avoid common security mistakes.
+- [jwt](https://github.com/ucarion/jwt) - Go implementation of JSON Web Tokens (JWT) that helps you avoid common security mistakes.
 - [HN: Pioneers of web cryptography on the future of authentication (2020)](https://news.ycombinator.com/item?id=23454954)
 - [openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) - OpenID Connect Library for Rust.
 - [OAuth2 Rust](https://github.com/ramosbugs/oauth2-rs) - Extensible, strongly-typed Rust OAuth2 client library.
@@ -134,6 +134,11 @@
 - [Passwords are dead, long live PassKeys? How to log in, in 2023 ](https://www.ory.sh/overview-login-password-passkey-webauthn-totp-sso-faceid/)
 - [Identity-Native Infrastructure Access Management](https://goteleport.com/static/resources/books/identity-native-infrastructure-access-management-oreilly.pdf)
   - How to authorize users using certificates.
+- [Towards a test-suite for TOTP codes](https://shkspr.mobi/blog/2025/03/towards-a-test-suite-for-totp-codes/)
+
+## RFCs
+
+- [RFC 6238 - TOTP: Time-Based One-Time Password Algorithm](https://datatracker.ietf.org/doc/html/rfc6238)
 
 ## IAM
 
@@ -155,3 +160,4 @@
 ## Products and solutions
 
 - [AuthKit](https://www.authkit.com/) - login solution in a box
+

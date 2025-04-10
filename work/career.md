@@ -55,6 +55,11 @@
   - What is the ramp-up time of the decision? E.g. do you have early adopters you can try with?
 - [Mastering Programming](https://tidyfirst.substack.com/p/mastering-programming) by Kent Beck
 - [How do I make sure my work is visible?](https://theengineeringmanager.substack.com/p/how-do-i-make-sure-my-work-is-visible)
+- [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load)
+- [Good software development habits](https://zarar.dev/good-software-development-habits/)
+- [The Gervais Principle](https://www.ribbonfarm.com/the-gervais-principle/) - the officer according to _The Officer_; how companies are organized into Sociopaths, Losers and the Clueless.
+- [Accountability Sinks](https://aworkinglibrary.com/writing/accountability-sinks)
+  > In [_The Unaccountability Machine_](https://press.uchicago.edu/ucp/books/book/chicago/U/bo252799883.html), Dan Davies argues that organizations form “accountability sinks,” structures that absorb or obscure the consequences of a decision such that no one can be held directly accountable for it.
 
 ## Salary
 
@@ -181,6 +186,7 @@ specific area, e.g. API design.
   - Read (at least partially) the (available) documentation for the hardware, platform, and tools that you use most commonly.
 - [Being a glue](https://noidea.dog/glue)
 - [What does sponsorship look like?](https://larahogan.me/blog/what-sponsorship-looks-like/)
+- [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 
 ## Engineering Manager
 

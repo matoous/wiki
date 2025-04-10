@@ -14,3 +14,6 @@
 - [Bookerly](https://online-fonts.com/fonts/bookerly) - Serif font used by Kindle
 - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
 - [Daily](https://dailyfont.org/)
+
+- [Kerning, the Hard Way](https://home.octetfont.com/blog/kerning-hard.html)
+- [Features of your font you had no idea about](https://sinja.io/blog/get-maximum-out-of-your-font)

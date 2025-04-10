@@ -24,3 +24,6 @@
 - [Database Fundamentals](https://tontinton.com/posts/database-fundementals/) #databases
 - [Use the index, Luke!](https://use-the-index-luke.com/no-offset) - a guide to database performance for developers
 - [Postgres Language Server](https://github.com/supabase-community/postgres_lsp)
+- [Turning the database inside-out](https://martin.kleppmann.com/2015/11/05/database-inside-out-at-oredev.html)
+- [Build a Database in 3000 Lines with 0 Dependencies](https://build-your-own.org/blog/20251015_db_in_3000/)
+- [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)

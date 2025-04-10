@@ -1,9 +1,15 @@
 # API
 
-## Products
+## SDK generators
 
 - [Speakeasy](https://www.speakeasy.com/)
 - [Stainless](https://www.stainlessapi.com/)
+- [Fern](https://buildwithfern.com/)
+
+## Documentation
+
+- [Mintlify](https://mintlify.com/)
+- [Scalar](https://scalar.com/)
 
 ## Resources
 

@@ -11,3 +11,4 @@
   - [CRYSTALS](https://pq-crystals.org/index.shtml)
 - [An incomplete guide to stealth addresses](https://vitalik.ca/general/2023/01/20/stealth.html)
 - [Time-lock encryption](https://gwern.net/self-decrypting)
+- [Practical Cryptography for Developers](https://cryptobook.nakov.com/)

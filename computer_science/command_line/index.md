@@ -53,7 +53,7 @@ Programs and tools provide many features that can speed things up but first one 
 
 ## Dotfiles
 
-- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. #dot-files #golang
+- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. #dot-files #go
 - [rotz](https://github.com/volllly/rotz) - Fully cross platform dotfile manager and dev environment bootstrapper written in Rust. #dot-files #rust
 
 # Resources

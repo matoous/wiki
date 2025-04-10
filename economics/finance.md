@@ -51,3 +51,4 @@ In general, I try to follow these rules:
   - and the [HN Discussion](https://news.ycombinator.com/item?id=36358754)
 - [Plastic Money](https://computer.rip/2023-09-03-plastic-money.html)
 - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
+- [Berkshire Hathaway 2024 Annual Letter](https://www.berkshirehathaway.com/letters/2024ltr.pdf)

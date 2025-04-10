@@ -14,3 +14,4 @@
 - [MyViewOfLinuxSystems](https://github.com/lsc4719/MyViewOfLinuxSystems)
   ![Linux process view](/static/linux-process-view.png)
 - [Hermit OS](https://github.com/hermit-os/kernel) - A Rust-based, lightweight unikernel. #rust #os #kernel
+- [Operating System in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/en/)
