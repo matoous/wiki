@@ -8,4 +8,4 @@
 - [Deepdive-llama3-from-scratch](https://github.com/therealoliver/Deepdive-llama3-from-scratch)
 - [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model)
 - [Getting Started With Embeddings](https://huggingface.co/blog/getting-started-with-embeddings)
-
+- [How has DeepSeek improved the Transformer architecture?](https://epoch.ai/gradient-updates/how-has-deepseek-improved-the-transformer-architecture)
