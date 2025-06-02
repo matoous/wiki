@@ -4,10 +4,11 @@
 
 - [**Welcome to Comprehensive Rust 🦀**](https://google.github.io/comprehensive-rust/)
 - [The Mediocre Programmer's Guide to Rust](https://www.hezmatt.org/~mpalmer/blog/2024/05/01/the-mediocre-programmers-guide-to-rust.html)
+- [Learn Unsafe Rust](https://google.github.io/learn_unsafe_rust/)
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example)
-- [Embassy](https://embassy.dev) - The next-generation framework for embedded applications
+- [Embassy](https://embassy.dev) - The next-generation framework for embedded applications #embed #rust #hardware
 - [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 - [Tour of Rust's Standard Library Traits](https://github.com/pretzelhammer/rust-blog/blob/master/posts/tour-of-rusts-standard-library-traits.md)
 - [rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code
@@ -46,6 +47,7 @@
 - [Async Rust in Three Parts](https://jacko.io/async_intro.html)
 - [Doing First Grade Math in Rust's Type System](https://fprasx.github.io/articles/type-system-arithmetic/)
 - [Dependency Injection like Bevy Engine from Scratch](https://promethia-27.github.io/dependency_injection_like_bevy_from_scratch/introductions.html)
+- [Lock-Free Rust: How to Build a Rollercoaster While It’s on Fire](https://yeet.cx/blog/lock-free-rust/)
 
 ## Projects
 

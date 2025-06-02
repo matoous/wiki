@@ -22,3 +22,4 @@
 - [Nikita Voloboev](https://wiki.nikitavoloboev.xyz)
 - [jbranchaud/til](https://github.com/jbranchaud/til) - Today I Learned for programming, over 1000 notes.
 - [Chris Albon](https://chrisalbon.com/Home)
+- [blogs.hn](https://blogs.hn)

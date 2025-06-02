@@ -34,6 +34,7 @@
 - [My Setup, April 2024](https://registerspill.thorstenball.com/p/my-setup-april-2024) - office setup by [Thorsten Ball](https://thorstenball.com/)
 - [The Kids Should See This](https://thekidshouldseethis.com/giftguide) - gifts for kids, A
 - [Time Since Launch](https://cwandt.com/products/time-since-launch)
+- [Elite Obsolete Electronics](https://eoe.works/)
 
 ## Amenities
 

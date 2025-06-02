@@ -24,6 +24,11 @@
 
 > Merkle tree is a tree in which every "leaf" node is labelled with the cryptographic hash of a data block, and every node that is not a leaf (called a branch, inner node, or inode) is labelled with the cryptographic hash of the labels of its child nodes. A hash tree allows efficient and secure verification of the contents of a large data structure. A hash tree is a generalization of a hash list and a hash chain.
 
+## [**Radix Tree**](https://en.wikipedia.org/wiki/Radix_tree)
+
+- [PruningRadixTrie](https://github.com/wolfgarbe/PruningRadixTrie)
+- [The Adaptive Radix Tree: ARTful Indexing for Main-Memory Databases](https://www.db.in.tum.de/~leis/papers/ART.pdf)
+
 ## Ropes
 
 - [Rope science](https://xi-editor.io/docs/rope_science_00.html)
@@ -40,5 +45,4 @@
 
 ## Resources
 
-- [PruningRadixTrie](https://github.com/wolfgarbe/PruningRadixTrie)
 - [6.851: Advanced Data Structures](https://courses.csail.mit.edu/6.851/spring21/lectures/)

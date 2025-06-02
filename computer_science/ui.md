@@ -24,4 +24,5 @@
 - [CmdK](https://github.com/pacocoursey/cmdk) - fast unstyled command menu React component
 - [React Aria](https://react-spectrum.adobe.com/react-aria/index.html) - Craft world-class accessible components with custom styles.
 - [justd](https://github.com/justdlabs/justd) - Justd is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.
-- [HeadlessUI](https://headlessui.com/react/combobox#basic-example)
+- [HeadlessUI](https://headlessui.com/react/combobox#basic-example) #component-library
+- [shadcn](https://ui.shadcn.com/) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. #component-library

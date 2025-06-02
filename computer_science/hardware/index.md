@@ -24,3 +24,9 @@
 - [How Microchips Work](https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html)
 - [FreeRTOS](https://www.freertos.org/) #operating-system #os #rtos
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
+- [Coffee-Scale](https://github.com/orlopau/coffee-scale)
+
+
+## Libraries
+
+- [ATAT](https://github.com/FactbirdHQ/atat) - `#![no_std]` crate for parsing AT commands ([Hayes command set](https://en.wikipedia.org/wiki/Hayes_AT_command_set)) #rust #embed

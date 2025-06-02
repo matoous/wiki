@@ -17,6 +17,7 @@
 - [A weekend at the foot of the Golden Gate Bridge with the X100V](https://www.arun.is/blog/cavallo-point/)
 - [Earth As Art](https://www.usgs.gov/centers/eros/earth-art) - art of satellite images
 - [Profile Pic Maker](https://pfpmaker.com/) - generate nice profile pictures from any photo
+- [What is HDR, anyway?](https://www.lux.camera/what-is-hdr/)
 
 ## Products
 

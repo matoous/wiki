@@ -7,6 +7,14 @@
 - [RFC 7591 - OAuth 2.0 Dynamic Client Registration Protocol](https://www.rfc-editor.org/rfc/rfc7591.html)
 - [RFC 8417 - Security Event Token (SET)](https://datatracker.ietf.org/doc/html/rfc8417)
 
+## Phantom Token
+
+- [The Phantom Token Approach](https://curity.io/resources/learn/phantom-token-pattern/)
+
+## Split Token
+
+- [The Split Token Approach](https://curity.io/resources/learn/split-token-pattern/)
+
 ## Resources
 
 - [Basic HTTP Auth via Cloudflare Workers](https://github.com/dommmel/cloudflare-workers-basic-auth) - Can be used to protect static HTML pages.
