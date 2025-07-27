@@ -8,12 +8,12 @@
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example)
-- [Embassy](https://embassy.dev) - The next-generation framework for embedded applications #embed #rust #hardware
+- [The Adventures of OS: Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com/index.html) #os
+- [Writing an OS in Rust](https://os.phil-opp.com/) #os
 - [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 - [Tour of Rust's Standard Library Traits](https://github.com/pretzelhammer/rust-blog/blob/master/posts/tour-of-rusts-standard-library-traits.md)
 - [rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code
 - [Creating a REST API in Rust with Persistence: Rust, Rocket and Diesel](https://genekuo.medium.com/creating-a-rest-api-in-rust-with-persistence-rust-rocket-and-diesel-a4117d400104)
-- [The Adventures of OS: Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com/index.html)
 - [Working with strings in Rust](https://fasterthanli.me/articles/working-with-strings-in-rust)
 - [Zero to Production in Rust](https://www.zero2prod.com/index.html)
 - [Understanding Rust futures by going way too deep](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep)
@@ -31,26 +31,28 @@
 - [End-to-end testing for Rust web services](https://blog.logrocket.com/end-to-end-testing-for-rust-web-services/)
 - [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/introduction.html)
 - [Rust in Action](https://www.rustinaction.com/)
-- [Writing an OS in Rust](https://os.phil-opp.com/)
 - [Hard Mode Rust](https://matklad.github.io/2022/10/06/hard-mode-rust.html) - writing a Rust application using only minimal, artificially constrained API (eg, no dynamic memory allocation)
 - [Rust Coreutils: Fixing Low-Hanging Performance Fruit](https://jackson.dev/post/rust-coreutils-dd/)
 - [Rust concepts I wish I learned earlier](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/)
 - [Running JavaScript in Rust with Deno](https://austinpoor.com/blog/js-in-rs)
 - [Iterating on Testing in Rust](https://epage.github.io/blog/2023/06/iterating-on-test/) #rust #testing
 - [Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
-- [Async Rust: What is a runtime? Here is how tokio works under the hood](https://kerkour.com/rust-async-await-what-is-a-runtime)
+- [Async Rust: What is a runtime? Here is how tokio works under the hood](https://kerkour.com/rust-async-await-what-is-a-runtime) #rust #async #runtime
 - [Effective Rust](https://www.lurklurk.org/effective-rust/)
 - [More than you've ever wanted to know about errors in Rust](https://www.shuttle.rs/blog/2022/06/30/error-handling)
 - [Novel way to Develop, Test and Document C libraries from Rust](https://wasmer.io/posts/novel-way-to-develop--test-and-document-c-libraries-from-rust)
 - [Rust Stream API visualized and exposed](https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md)
 - [The Rust Calling Convention We Deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
-- [Async Rust in Three Parts](https://jacko.io/async_intro.html)
+- [Async Rust in Three Parts](https://jacko.io/async_intro.html) #rust #async #runtime
 - [Doing First Grade Math in Rust's Type System](https://fprasx.github.io/articles/type-system-arithmetic/)
 - [Dependency Injection like Bevy Engine from Scratch](https://promethia-27.github.io/dependency_injection_like_bevy_from_scratch/introductions.html)
 - [Lock-Free Rust: How to Build a Rollercoaster While It’s on Fire](https://yeet.cx/blog/lock-free-rust/)
+- [Notes on io-uring](https://without.boats/blog/io-uring/) #rust #io
+- [Request coalescing in async Rust](https://fasterthanli.me/articles/request-coalescing-in-async-rust)
 
 ## Projects
 
+- [Embassy](https://embassy.dev) - The next-generation framework for embedded applications #embed #rust #hardware
 - [Diesel](https://docs.diesel.rs/master/diesel/index.html)
 - [Bevy Game Engine](https://bevyengine.org/)
 - [Amethyst Game Engine](https://amethyst.rs)

@@ -10,6 +10,9 @@
 - [The UX on this Small Child is Terrible](https://www.mcsweeneys.net/articles/the-ux-on-this-small-child-is-terrible) ([HN](https://news.ycombinator.com/item?id=29798712))
 - [Reasons why Babies Cry in the First Three Months, How to Tell The Cries Apart, and What to Do](https://probablydance.com/2022/02/19/reasons-why-babies-cry-in-the-first-three-months-how-to-tell-them-apart-and-what-to-do/)
 - [The Kid Should See This](https://thekidshouldseethis.com)
+- [Safe to Sleep](https://safetosleep.nichd.nih.gov) - Helping to reduce the risk of Sudden Infant Death Syndrome (SIDS) and other sleep-related infant deaths.
+- [red nose](https://rednose.org.au) - advice hub for parents run by the Australian government
+- [Math from Three to Seven](https://sites.icmc.usp.br/sasha_a/zvonkin-e.pdf)
 
 ## Books
 

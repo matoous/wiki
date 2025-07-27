@@ -35,4 +35,4 @@
 - [The math exams of my life](https://www.andreinc.net/2024/01/09/the-most-important-math-exams-of-my-life)
 - [Mathematical Foundation of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
 - [“The Lost Art of Logarithms” by Charles Petzold](https://www.lostartoflogarithms.com/)
-- 
+- [The Graphical Linear Algebra](https://graphicallinearalgebra.net)

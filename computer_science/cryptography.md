@@ -12,3 +12,4 @@
 - [An incomplete guide to stealth addresses](https://vitalik.ca/general/2023/01/20/stealth.html)
 - [Time-lock encryption](https://gwern.net/self-decrypting)
 - [Practical Cryptography for Developers](https://cryptobook.nakov.com/)
+- [Elliptic-curve cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography)

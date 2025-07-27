@@ -10,3 +10,4 @@ A little fun section that came to be from [Ask HN: What would you preserve if th
 - [Where There Is No Dentist](https://library.health.go.ug/sites/default/files/resources/Where%20there%20is%20no%20dentist.pdf)
 - [Where There Is No Doctor](https://archive.org/details/WhereThereIsNoDoctor-English-DavidWerner)
 - [The Encyclopedia of Country Living](https://oceanofpdf.com/authors/carla-emery/pdf-epub-the-encyclopedia-of-country-living-download/)
+- [Start your own Internet Resiliency Club](https://bowshock.nl/irc/#short-version)

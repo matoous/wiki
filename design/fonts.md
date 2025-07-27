@@ -17,3 +17,4 @@
 
 - [Kerning, the Hard Way](https://home.octetfont.com/blog/kerning-hard.html)
 - [Features of your font you had no idea about](https://sinja.io/blog/get-maximum-out-of-your-font)
+- [Dalton Maag](https://www.daltonmaag.com/) - font design, logo refinements, etc.
