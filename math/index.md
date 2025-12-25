@@ -36,3 +36,5 @@
 - [Mathematical Foundation of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
 - [“The Lost Art of Logarithms” by Charles Petzold](https://www.lostartoflogarithms.com/)
 - [The Graphical Linear Algebra](https://graphicallinearalgebra.net)
+- [What Is a Manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/)
+- [What is "good taste" in software engineering?](https://www.seangoedecke.com/taste/)

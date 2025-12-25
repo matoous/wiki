@@ -13,6 +13,8 @@
 - [Safe to Sleep](https://safetosleep.nichd.nih.gov) - Helping to reduce the risk of Sudden Infant Death Syndrome (SIDS) and other sleep-related infant deaths.
 - [red nose](https://rednose.org.au) - advice hub for parents run by the Australian government
 - [Math from Three to Seven](https://sites.icmc.usp.br/sasha_a/zvonkin-e.pdf)
+- [Safe Sleep Environment for Baby](https://safetosleep.nichd.nih.gov/reduce-risk/safe-sleep-environment)
+- [I Built a Synth for My Daughter](https://bitsnpieces.dev/posts/a-synth-for-my-daughter/)
 
 ## Books
 
