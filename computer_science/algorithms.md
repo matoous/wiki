@@ -1,5 +1,7 @@
 # Algorithms
 
+- [Algorithm assembly instructions](https://idea-instructions.com) - Ikea-like instructions for algorithms
+
 ## Books
 
 - [Algorithms for Decision Making](https://algorithmsbook.com/)

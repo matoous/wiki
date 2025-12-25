@@ -16,3 +16,4 @@
 - [Hermit OS](https://github.com/hermit-os/kernel) - A Rust-based, lightweight unikernel. #rust #os #kernel
 - [Operating System in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/en/)
 - [Asterinas](https://asterinas.github.io) - Asterinas is an open-source community dedicated to crafting the next-generation OS kernels using Rust with the framekernel architecture
+- [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/)

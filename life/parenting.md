@@ -15,6 +15,7 @@
 - [Math from Three to Seven](https://sites.icmc.usp.br/sasha_a/zvonkin-e.pdf)
 - [Safe Sleep Environment for Baby](https://safetosleep.nichd.nih.gov/reduce-risk/safe-sleep-environment)
 - [I Built a Synth for My Daughter](https://bitsnpieces.dev/posts/a-synth-for-my-daughter/)
+- [Tonies](https://tonies.com/) - an audio box
 
 ## Books
 

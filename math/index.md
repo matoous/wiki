@@ -38,3 +38,4 @@
 - [The Graphical Linear Algebra](https://graphicallinearalgebra.net)
 - [What Is a Manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/)
 - [What is "good taste" in software engineering?](https://www.seangoedecke.com/taste/)
+- [Calculus for Mathematicians, Computer Scientists, and Physicists](https://mathcs.holycross.edu/~ahwang/print/calc.pdf)
