@@ -129,7 +129,6 @@
 - [GPT-3 Code Experiments](https://github.com/minimaxir/gpt-3-experiments) ([Examples](https://github.com/minimaxir/gpt-3-experiments/tree/master/examples))
 - [How GPT3 Works - Visualizations and Animations (2020)](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) ([Lobsters](https://lobste.rs/s/j54rgh/how_gpt3_works_visualizations)) ([HN](https://news.ycombinator.com/item?id=23967887))
 - [What is GPT-3? written in layman's terms (2020)](https://tinkeredthinking.com/index.php?id=841) ([HN](https://news.ycombinator.com/item?id=23923799))
-- [GPT3 Examples](https://gpt3examples.com/) ([HN](https://news.ycombinator.com/item?id=23993251))
 - [DQI: Measuring Data Quality in NLP (2020)](https://arxiv.org/abs/2005.00816)
 - [Humanloop](https://humanloop.com/) - Train and deploy NLP. ([HN](https://news.ycombinator.com/item?id=23987353))
 - [Do NLP Beyond English (2020)](https://ruder.io/nlp-beyond-english/) ([HN](https://news.ycombinator.com/item?id=24026511))
@@ -243,7 +242,6 @@
 - [Notebooks using the Hugging Face libraries](https://github.com/huggingface/notebooks)
 - [NLP Cloud](https://nlpcloud.io/) - Serve spaCy pre-trained models, and your own custom models, through a RESTful API.
 - [CharacterBERT: Reconciling ELMo and BERT for Word-Level Open-Vocabulary Representations From Characters (2020)](https://arxiv.org/abs/2010.10392) ([Code](https://github.com/helboukkouri/character-bert))
-- [jiant](https://github.com/nyu-mll/jiant) - Multitask and transfer learning toolkit for NLP. ([Web](https://jiant.info/))
 - [Must-read Papers on Textual Adversarial Attack and Defense](https://github.com/thunlp/TAADpapers)
 - [Reranker](https://github.com/luyug/Reranker) - Build Text Rerankers with Deep Language Models.
 - [rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...).
@@ -255,7 +253,6 @@
 - [Controllable Sentence Simplification (2019)](https://arxiv.org/abs/1910.02677) ([Code](https://github.com/facebookresearch/access))
 - [Awesome Relation Extraction](https://github.com/roomylee/awesome-relation-extraction)
 - [retext](https://github.com/retextjs/retext) - Natural language processor powered by plugins part of the unified collective.
-- [CLIP Playground](https://www.clipplayground.co/) - Try OpenAI's CLIP model in your browser.
 - [GPT-3 Demo](https://gpt3demo.com/) - GPT-3 Examples, Demos, Showcase, and NLP Use-cases.
 - [Big Sleep](https://github.com/lucidrains/big-sleep) - Simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN.
 - [Beyond the Imitation Game Benchmark (BIG-bench)](https://github.com/google/BIG-bench) - Collaborative benchmark intended to probe large language models, and extrapolate their future capabilities.
@@ -268,7 +265,6 @@
 - [Classical Language Toolkit (CLTK)](https://github.com/cltk/cltk) - Python library offering natural language processing (NLP) for pre-modern languages. ([Web](http://cltk.org/))
 - [Guide: Finetune GPT2-XL](https://github.com/Xirider/finetune-gpt2xl)
 - [GENRE (Generarive ENtity REtrieval)](https://github.com/facebookresearch/GENRE) - Uses a sequence-to-sequence approach to entity retrieval (e.g., linking), based on fine-tuned BART architecture.
-- [Teachable NLP](https://ainize.ai/teachable-nlp) - GPT-2 Training as a Service.
 - [DensePhrases](https://github.com/princeton-nlp/DensePhrases) - Provides answers to your natural language questions from the entire Wikipedia in real-time.
 - [How to use GPT-3 recursively to solve general problems (2021)](https://twitter.com/sharifshameem/status/1379756878062710789)
 - [Podium](https://github.com/TakeLab/podium) - Framework agnostic Python NLP library for data loading and preprocessing.

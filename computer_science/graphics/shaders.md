@@ -19,3 +19,4 @@
 - [shader-slang/slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
 - [Distance functions](https://iquilezles.org/articles/distfunctions/)
 - [Making Software - Shaders.](https://www.makingsoftware.com/chapters/shaders)
+- [Shader Academy](https://shaderacademy.com/explore)

@@ -6,10 +6,6 @@
 - [**DeFi**](https://en.wikipedia.org/wiki/Decentralized_finance) (Decentralized Finance)  - 
 - [**DEX**](https://en.wikipedia.org/wiki/Decentralized_exchange) (Decentralized Exchange) is a type of cryptocurrency exchange which allows for direct peer-to-peer cryptocurrency transactions to take place online securely and without the need for an intermediary.
 
-## Where to invest
-
-- [Binance](https://www.binance.com/en)
-
 ## Resources
 
 - [Blockchain visualization](https://symphony.iohk.io/en/)

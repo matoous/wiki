@@ -20,10 +20,8 @@
 - [Why is my Rust build so slow?](https://fasterthanli.me/articles/why-is-my-rust-build-so-slow)
 - [Arc and Mutex in Rust](https://itsallaboutthebit.com/arc-mutex/)
 - [(async) Rust doesn't have to be hard](https://itsallaboutthebit.com/async-simple/)
-- [What is `Box<str>` and how is it different from `String` in Rust?](https://mahdi.blog/rust-box-str-vs-string/)
 - [Roguelike tutorial](https://bfnightly.bracketproductions.com/rustbook/chapter_0.html)
 - [Beginner's guide to Error Handling in Rust](https://www.sheshbabu.com/posts/rust-error-handling/)
-- [Async Rust: What is a runtime? Here is how tokio works under the hood](https://kerkour.com/rust-async-await-what-is-a-runtime)
 - [Rewriting my blog in Rust for fun and profit](https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/)
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/title-page.html)
 - [6 things you can do with the Cow 🐄 in Rust 🦀](https://dev.to/kgrech/6-things-you-can-do-with-the-cow-in-rust-4l55)
@@ -37,7 +35,6 @@
 - [Running JavaScript in Rust with Deno](https://austinpoor.com/blog/js-in-rs)
 - [Iterating on Testing in Rust](https://epage.github.io/blog/2023/06/iterating-on-test/) #rust #testing
 - [Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
-- [Async Rust: What is a runtime? Here is how tokio works under the hood](https://kerkour.com/rust-async-await-what-is-a-runtime) #rust #async #runtime
 - [Effective Rust](https://www.lurklurk.org/effective-rust/)
 - [More than you've ever wanted to know about errors in Rust](https://www.shuttle.rs/blog/2022/06/30/error-handling)
 - [Novel way to Develop, Test and Document C libraries from Rust](https://wasmer.io/posts/novel-way-to-develop--test-and-document-c-libraries-from-rust)
@@ -68,7 +65,6 @@
 - [RisingLight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose.
 - [Yew](https://yew.rs/) - Yew is a modern Rust framework for creating multi-threaded front-end web apps using WebAssembly.
 - [Sea ORM](https://github.com/SeaQL/sea-orm) - async ORM package
-- [Rome](https://rome.tools) - linter and formatter for javascript/typescript
 - [SurrealDB](https://surrealdb.com) - cloud native database
 - [Paperclip](https://github.com/paperclip-rs/paperclip) - OpenAPI specification tooling
 - [Progenitor](https://github.com/oxidecomputer/progenitor) - An OpenAPI client generator
