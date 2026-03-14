@@ -28,3 +28,15 @@
 ## Reading
 
 - [A Decade Later, A Decade Lost](https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/)
+- [Janet Lansbury - Elevating child care](https://www.janetlansbury.com/)
+- [Raising Our Children, Raising Ourselves](https://www.goodreads.com/book/show/425540.Raising_Our_Children_Raising_Ourselves)
+- [The Gardener and the Carpenter](https://www.goodreads.com/book/show/28595855-the-gardener-and-the-carpenter)
+- [Selfish Reasons to Have More Kids]
+- [The War Against Boys](https://www.theatlantic.com/magazine/archive/2000/05/the-war-against-boys/304659/)
+- [The Well-Behaved Child: Discipline That Really Works!](https://www.goodreads.com/book/show/6908356-the-well-behaved-child)
+- [How to Talk So Kids Will Listen](https://www.goodreads.com/book/show/769016.How_to_Talk_So_Kids_Will_Listen_Listen_So_Kids_Will_Talk)
+- [Raising An Emotionally Intelligent Child](https://www.goodreads.com/book/show/213186.Raising_An_Emotionally_Intelligent_Child)
+- [And Baby Makes Three](https://www.goodreads.com/book/show/133572.And_Baby_Makes_Three)
+- [The Rational Male - Positive Masculinity]
+- [Parenting With Love And Logic](https://www.goodreads.com/book/show/46186.Parenting_With_Love_and_Logic)
+- [Parenting @ stackexchange](https://parenting.stackexchange.com/)
