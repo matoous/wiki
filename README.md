@@ -26,3 +26,33 @@ This wiki server several purposes, some personal, some public:
 - Locally I prefer to use [ag](https://github.com/ggreer/the_silver_searcher) and search for keywords when looking for something, [Nikita Voloboev uses Alfred workflow](https://wiki.nikitavoloboev.xyz/#using-the-wiki-well) which seems like a great solution too. It's up to you 🤷
 - I build the structure on the fly as I add more links and text thus the wiki is still quite messy in that sense
 
+### Building the static site
+
+The `mwp build` command renders every markdown page via the `mwp-content` renderer, writes ready-to-serve HTML into `dist/`, and generates the Pagefind bundle in one run.
+
+```
+cd ../mwp
+cargo run -p mwp -- build --root ../wiki --output ../wiki/dist --cache-dir ../wiki/.mwp-cache --cache-ttl-hours 720
+```
+
+## Cloudflare Deploy
+
+This repo now contains [wrangler.toml](/Users/matousdzivjak/code/github.com/matoous/wiki/wrangler.toml) configured to deploy the generated site as Cloudflare Workers static assets from `dist/`.
+
+Local flow:
+
+```sh
+cd ../mwp
+cargo run -p mwp -- build --root ../wiki --output ../wiki/dist --cache-dir ../wiki/.mwp-cache --cache-ttl-hours 720
+cd ../wiki
+npx wrangler deploy
+```
+
+The fetch cache lives in `.mwp-cache/`, so repeated builds only revalidate stale linked pages instead of downloading everything again.
+
+CI deploys from `.github/workflows/cd.yaml` and restores the same `.mwp-cache/` directory with GitHub Actions cache before building. To enable deployment, set these repository secrets:
+
+- `CLOUDFLARE_API_TOKEN`
+- `CLOUDFLARE_ACCOUNT_ID`
+
+The current `wrangler.toml` deploys to `workers.dev`. If you want the site on a custom domain, add `routes` or a `custom_domain` mapping there.

@@ -1,4 +1,4 @@
-name: CD
+name: Deploy
 
 on:
   push:
@@ -10,14 +10,61 @@ permissions:
   contents: read
 
 jobs:
-  trigger_deploy:
-    name: Dispatch deploy to mwp
+  deploy:
     runs-on: ubuntu-latest
-    if: (github.event.client_payload.pull_request.head.ref || github.ref) == 'refs/heads/main'
     steps:
-      - name: Dispatch deploy event to mwp
-        uses: peter-evans/repository-dispatch@ff45666b9427631e3450c54a1bcbee4d9ff4d7c0
+      - name: Checkout wiki
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          path: wiki
+
+      - name: Checkout mwp
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
         with:
           repository: matoous/mwp
-          token: ${{ secrets.GH_ACTIONS_PAT }}
-          event-type: deploy
+          path: mwp
+
+      - name: Set up Rust
+        uses: dtolnay/rust-toolchain@e97e2d8cc328f1b50210efc529dca0028893a2d9 # v1
+        with:
+          toolchain: 1.89
+
+      - name: Cache Rust build artifacts
+        uses: Swatinem/rust-cache@c19371144df3bb44fab255c43d04cbc2ab54d1c4 # v2.9.1
+        with:
+          workspaces: |
+            mwp -> target
+
+      - name: Restore fetched page cache
+        uses: actions/cache@cdf6c1fa76f9f475f3d7449005a359c84ca0f306 # v5.0.3
+        with:
+          path: wiki/.mwp-cache
+          key: mwp-fetch-${{ runner.os }}-${{ hashFiles('wiki/**/*.md', 'wiki/*.md', 'wiki/.github/workflows/cd.yaml', 'mwp/Cargo.lock', 'mwp/mwp-cli/src/main.rs') }}
+          restore-keys: |
+            mwp-fetch-${{ runner.os }}-
+
+      - name: Build static site
+        working-directory: wiki
+        run: cargo run -p mwp --manifest-path ../mwp/Cargo.toml -- build --root . --output dist --cache-dir .mwp-cache --cache-ttl-hours 720
+
+      - name: Set up Node
+        uses: actions/setup-node@53b83947a5a98c8d113130e565377fae1a50d02f # v6.3.0
+        with:
+          node-version: 22
+
+      - name: Install Wrangler
+        run: npm install --global wrangler
+
+      - name: Verify Cloudflare auth
+        working-directory: wiki
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: wrangler whoami
+
+      - name: Deploy to Cloudflare Workers
+        working-directory: wiki
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: wrangler deploy

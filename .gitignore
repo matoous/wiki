@@ -1,6 +1,4 @@
 .obsidian
-
-
-# Added by cargo
-
 /target
+/dist
+/.mwp-cache
