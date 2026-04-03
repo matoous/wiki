@@ -1,0 +1,255 @@
+---
+import Breadcrumbs from "@components/Breadcrumbs.astro";
+import SearchDialog from "@components/SearchDialog.astro";
+import SearchTrigger from "@components/SearchTrigger.astro";
+import SiteFooter from "@components/SiteFooter.astro";
+import SiteHeader from "@components/SiteHeader.astro";
+import ThemeToggle from "@components/ThemeToggle.astro";
+import WikiSidebar from "@components/WikiSidebar.astro";
+import type { WikiPage } from "@lib/wiki";
+import "../styles/global.css";
+
+type Props = {
+  page: WikiPage;
+};
+
+const { page } = Astro.props;
+const currentYear = new Date().getFullYear();
+const activeParents = new Set(
+  page.breadcrumbs.slice(1, -1).map((item) => item.route).concat(page.route),
+);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{page.htmlTitle}</title>
+    <meta name="description" content={page.excerpt || "Mat's wiki and notes."} />
+    <link rel="canonical" href={new URL(page.route, Astro.site)} />
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+    <script is:inline>
+      (() => {
+        const storedTheme = localStorage.getItem("theme-preference") || "dark";
+        document.documentElement.dataset.theme = storedTheme;
+      })();
+    </script>
+  </head>
+  <body>
+    <div class="site-shell">
+      <div class="site-grid">
+        <SiteHeader />
+        <SearchTrigger />
+        <ThemeToggle />
+        <WikiSidebar
+          nodes={page.children}
+          currentRoute={page.route}
+          activeParents={activeParents}
+        />
+        <Breadcrumbs items={page.breadcrumbs} />
+
+        <main class="content-panel">
+          <article data-pagefind-body set:html={page.html} />
+          <SiteFooter currentYear={currentYear} />
+        </main>
+      </div>
+    </div>
+
+    <SearchDialog />
+
+    <script is:inline type="module" src="/scripts/app.js"></script>
+    <script is:inline src="/pagefind/pagefind-ui.js"></script>
+  </body>
+</html>
+
+<style is:global>
+  * {
+    box-sizing: border-box;
+    scrollbar-width: thin;
+    scrollbar-color: var(--border-strong) transparent;
+  }
+
+  *::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background: var(--border-strong);
+    border: 2px solid transparent;
+    background-clip: padding-box;
+  }
+
+  html {
+    width: 100%;
+    height: 100%;
+    background: var(--bg);
+    color: var(--text);
+    scroll-behavior: smooth;
+  }
+
+  body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    color: var(--text);
+    font-size: var(--text-base);
+    font-family: var(--font-sans);
+    line-height: var(--text-base--line-height);
+    background: var(--bg);
+  }
+
+  button,
+  input,
+  select,
+  textarea,
+  dialog {
+    font: inherit;
+  }
+
+  a {
+    color: inherit;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  .site-shell {
+    width: 100vw;
+    height: 100vh;
+  }
+
+  .site-grid {
+    display: grid;
+    grid-template-columns: minmax(220px, 280px) minmax(0, 1fr) 180px;
+    grid-template-rows: auto auto minmax(0, 1fr);
+    width: 100%;
+    height: 100%;
+    background: var(--surface);
+  }
+
+  .content-panel {
+    grid-column: 2 / 4;
+    grid-row: 3;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    min-width: 0;
+    min-height: 0;
+    overflow: auto;
+  }
+
+  article {
+    padding: 1.2rem 1.5rem 2rem;
+    width: 100%;
+    max-width: var(--container-6xl);
+    margin: 0 auto;
+  }
+
+  article > :first-child {
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  article h1,
+  article h2,
+  article h3,
+  article h4 {
+    font-family: var(--font-sans);
+    font-weight: var(--font-weight-bold);
+    line-height: 1.1;
+    margin: 2rem 0 0.75rem;
+    scroll-margin-top: 1.5rem;
+  }
+
+  article h1 {
+    font-size: var(--text-5xl);
+    line-height: var(--text-7xl--line-height);
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 1rem;
+  }
+
+  article h2 {
+    font-size: var(--text-3xl);
+    line-height: var(--text-5xl--line-height);
+  }
+
+  article h3 {
+    font-size: var(--text-xl);
+    line-height: var(--text-2xl--line-height);
+  }
+
+  article p,
+  article li,
+  article blockquote {
+    font-size: var(--text-base);
+    line-height: var(--text-base--line-height);
+  }
+
+  article ul {
+    padding-left: 1.25rem;
+  }
+
+  article li + li {
+    margin-top: 0.45rem;
+  }
+
+  article pre {
+    overflow: auto;
+    padding: 1rem 1.1rem;
+    background: var(--surface-muted);
+    border: 1px solid var(--border);
+  }
+
+  article :not(pre) > code {
+    background: var(--surface-muted);
+    color: var(--text);
+    padding: 0.15rem 0.4rem;
+    font-family: inherit;
+  }
+
+  article pre,
+  article pre code,
+  article code,
+  .pagefind-ui__search-input,
+  .pagefind-ui__result,
+  .pagefind-ui__result-title,
+  .pagefind-ui__result-excerpt,
+  .pagefind-ui__button {
+    font-family: inherit !important;
+  }
+
+  article blockquote {
+    margin: 1.5rem 0;
+    padding: 0.2rem 0 0.2rem 1rem;
+    border-left: 1px solid var(--border-strong);
+    color: var(--text-muted);
+  }
+
+  article a {
+    color: var(--text);
+    text-decoration-thickness: 0.08em;
+    text-underline-offset: 0.18em;
+  }
+
+  @media (max-width: 960px) {
+    .site-grid {
+      grid-template-columns: 1fr;
+      grid-template-rows: auto auto auto auto auto auto;
+    }
+
+    .content-panel {
+      grid-column: 1;
+      grid-row: 6;
+      min-height: 0;
+      border-right: 0;
+    }
+  }
+</style>

@@ -1,0 +1,55 @@
+<div class="search-slot" data-pagefind-ignore>
+  <button
+    id="search-open"
+    type="button"
+    class="search-trigger"
+    aria-haspopup="dialog"
+    aria-controls="search-dialog"
+  >
+    <span>Search the docs</span>
+    <span class="search-trigger-hint">/</span>
+  </button>
+</div>
+
+<style>
+  .search-slot {
+    grid-column: 2 / 3;
+    grid-row: 1;
+    min-width: 0;
+    padding: 0.85rem 1rem;
+    border-right: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    background: var(--surface);
+  }
+
+  .search-trigger {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.55rem 0.7rem;
+    appearance: none;
+    border: 1px solid var(--border);
+    background: var(--surface-muted);
+    color: var(--text);
+    font: inherit;
+    font-size: var(--text-sm);
+    line-height: var(--text-sm--line-height);
+    cursor: pointer;
+  }
+
+  .search-trigger-hint {
+    color: var(--text-muted);
+    font-size: var(--text-xs);
+    line-height: var(--text-xs--line-height);
+  }
+
+  @media (max-width: 960px) {
+    .search-slot {
+      grid-column: 1;
+      grid-row: 2;
+      border-right: 0;
+    }
+  }
+</style>
