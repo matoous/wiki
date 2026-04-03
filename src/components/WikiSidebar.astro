@@ -1,0 +1,46 @@
+---
+import SidebarTree from "@components/SidebarTree.astro";
+import type { WikiNode } from "@lib/wiki";
+
+type Props = {
+  nodes: WikiNode[];
+  currentRoute: string;
+  activeParents: Set<string>;
+};
+
+const { nodes, currentRoute, activeParents } = Astro.props;
+---
+
+<aside class="sidebar" data-pagefind-ignore>
+  <div id="sidebar-inner" class="sidebar-inner">
+    <SidebarTree nodes={nodes} currentRoute={currentRoute} activeParents={activeParents} />
+  </div>
+</aside>
+
+<style>
+  .sidebar {
+    grid-column: 1 / 2;
+    grid-row: 2 / 4;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    min-height: 0;
+    border-right: 1px solid var(--border);
+    background: var(--surface);
+  }
+
+  .sidebar-inner {
+    min-height: 0;
+    padding: 0.9rem;
+    overflow: auto;
+  }
+
+  @media (max-width: 960px) {
+    .sidebar {
+      grid-column: 1;
+      grid-row: 4;
+      border-right: 0;
+      border-bottom: 1px solid var(--border);
+    }
+  }
+</style>

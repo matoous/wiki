@@ -28,11 +28,12 @@ This wiki server several purposes, some personal, some public:
 
 ### Building the static site
 
-The `mwp build` command renders every markdown page via the `mwp-content` renderer, writes ready-to-serve HTML into `dist/`, and generates the Pagefind bundle in one run.
+This repo now builds directly with Astro. The markdown tree in the repository root is rendered into a static site, and Pagefind indexes the generated docs pages from `dist/` without crawling linked destinations.
 
-```
-cd ../mwp
-cargo run -p mwp -- build --root ../wiki --output ../wiki/dist --cache-dir ../wiki/.mwp-cache --cache-ttl-hours 720
+```sh
+cd /Users/matousdzivjak/code/github.com/matoous/wiki
+npm install --ignore-scripts
+npm run build
 ```
 
 ## Cloudflare Deploy
@@ -42,17 +43,21 @@ This repo now contains [wrangler.toml](/Users/matousdzivjak/code/github.com/mato
 Local flow:
 
 ```sh
-cd ../mwp
-cargo run -p mwp -- build --root ../wiki --output ../wiki/dist --cache-dir ../wiki/.mwp-cache --cache-ttl-hours 720
-cd ../wiki
+cd /Users/matousdzivjak/code/github.com/matoous/wiki
+npm install --ignore-scripts
+npm run build
+npx wrangler login
 npx wrangler deploy
 ```
 
-The fetch cache lives in `.mwp-cache/`, so repeated builds only revalidate stale linked pages instead of downloading everything again.
+If you are already authenticated locally, you can verify that with:
 
-CI deploys from `.github/workflows/cd.yaml` and restores the same `.mwp-cache/` directory with GitHub Actions cache before building. To enable deployment, set these repository secrets:
+```sh
+npx wrangler whoami
+```
+
+CI deploys from `.github/workflows/cd.yaml`. To enable deployment, set this repository secret:
 
 - `CLOUDFLARE_API_TOKEN`
-- `CLOUDFLARE_ACCOUNT_ID`
 
 The current `wrangler.toml` deploys to `workers.dev`. If you want the site on a custom domain, add `routes` or a `custom_domain` mapping there.

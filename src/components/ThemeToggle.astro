@@ -1,0 +1,89 @@
+---
+import { Icon } from "astro-icon/components";
+---
+
+<div class="theme-slot" data-pagefind-ignore>
+  <button
+    id="theme-toggle"
+    type="button"
+    class="theme-toggle"
+    aria-label="Switch to light theme"
+    title="Switch theme"
+  >
+    <Icon class="theme-icon theme-icon-sun" name="lucide:sun" aria-hidden="true" />
+    <Icon class="theme-icon theme-icon-moon" name="lucide:moon" aria-hidden="true" />
+  </button>
+</div>
+
+<style>
+  .theme-slot {
+    grid-column: 3 / 4;
+    grid-row: 1;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    min-width: 0;
+    padding: 0.85rem 1rem;
+    border-bottom: 1px solid var(--border);
+    background: var(--surface);
+  }
+
+  .theme-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2rem;
+    height: 2rem;
+    padding: 0;
+    appearance: none;
+    border: 0;
+    border-radius: 999px;
+    background: transparent;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition:
+      color 180ms ease,
+      background-color 180ms ease,
+      transform 180ms ease;
+  }
+
+  .theme-toggle:hover,
+  .theme-toggle:focus-visible {
+    color: var(--text);
+    background: var(--surface-muted);
+  }
+
+  .theme-toggle:focus-visible {
+    outline: 1px solid var(--border-strong);
+    outline-offset: 2px;
+  }
+
+  .theme-toggle:active {
+    transform: scale(0.96);
+  }
+
+  .theme-icon {
+    width: 18px;
+    height: 18px;
+  }
+
+  .theme-icon-sun {
+    display: none;
+  }
+
+  :global(:root[data-theme="dark"]) .theme-icon-sun {
+    display: inline-block;
+  }
+
+  :global(:root[data-theme="dark"]) .theme-icon-moon {
+    display: none;
+  }
+
+  @media (max-width: 960px) {
+    .theme-slot {
+      grid-column: 1;
+      grid-row: 3;
+      border-right: 0;
+    }
+  }
+</style>

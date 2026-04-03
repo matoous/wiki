@@ -1,0 +1,37 @@
+<header class="page-titlebar" data-pagefind-ignore>
+  <a class="brand" href="/">
+    <span class="brand-mark">Mat's Wiki</span>
+  </a>
+</header>
+
+<style>
+  .page-titlebar {
+    grid-column: 1 / 2;
+    grid-row: 1;
+    min-width: 0;
+    padding: 1rem 1.2rem;
+    border-right: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    background: var(--surface);
+  }
+
+  .brand {
+    text-decoration: none;
+  }
+
+  .brand-mark {
+    display: inline-block;
+    font-family: var(--font-sans);
+    font-size: var(--text-lg);
+    font-weight: var(--font-weight-semibold);
+    line-height: var(--text-lg--line-height);
+  }
+
+  @media (max-width: 960px) {
+    .page-titlebar {
+      grid-column: 1;
+      grid-row: 1;
+      border-right: 0;
+    }
+  }
+</style>

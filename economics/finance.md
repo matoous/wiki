@@ -9,6 +9,10 @@ In general, I try to follow these rules:
 - Don't by stuff you don't really need.
 - Sell stuff you don't really need.
 
+## Glossary
+
+- **FMI** - Financial Market Infrastructure
+
 ## Notes
 
 - Financial independence isn't really that hard, if one is able to put aside 50% of income, he should be able to retire in 16 years. Save 62% and you can retire in less than 12 years. The key is to minimize spending and maximize savings.[^1]

@@ -1,12 +1,16 @@
-name = "matoous-wiki"
+name = "wiki"
+account_id = "63b8e64f90bbe4f59a59706725d32033"
 compatibility_date = "2026-03-14"
 workers_dev = true
 
 [assets]
 directory = "./dist"
-binding = "ASSETS"
 html_handling = "auto-trailing-slash"
 not_found_handling = "404-page"
 
 [observability]
 enabled = true
+
+[[routes]]
+pattern = "wiki.dzx.com"
+custom_domain = true
