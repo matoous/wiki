@@ -1,0 +1,19 @@
+---
+import { render } from "astro:content";
+import BaseLayout from "@layouts/BaseLayout.astro";
+import { getPageByRoute } from "@lib/wiki";
+
+const page = await getPageByRoute("/");
+
+if (!page) {
+  throw new Error("Missing wiki homepage for route: /");
+}
+
+const { Content } = await render(page.entry);
+---
+
+<BaseLayout page={page}>
+  <article data-pagefind-body>
+    <Content />
+  </article>
+</BaseLayout>

@@ -50,7 +50,7 @@ const activeParents = new Set(
         <Breadcrumbs items={page.breadcrumbs} />
 
         <main class="content-panel">
-          <article data-pagefind-body set:html={page.html} />
+          <slot />
           <SiteFooter currentYear={currentYear} />
         </main>
       </div>
