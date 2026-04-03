@@ -47,9 +47,8 @@ searchOpen?.addEventListener("click", () => {
       initialized: true,
       ui: new PagefindUI({
         element: "#search",
-        bundlePath: "/pagefind/",
+        showImages: false,
         showSubResults: true,
-        resetStyles: false,
       }),
     };
   }

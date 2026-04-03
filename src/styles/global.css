@@ -9,6 +9,15 @@
   --font-sans:
     -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
   --layout-width: min(1480px, calc(100vw - 2rem));
+  --pagefind-ui-primary: var(--text);
+  --pagefind-ui-text: var(--text);
+  --pagefind-ui-background: var(--surface-muted);
+  --pagefind-ui-border: var(--border);
+  --pagefind-ui-tag: var(--surface-muted);
+  --pagefind-ui-border-width: 1px;
+  --pagefind-ui-border-radius: 0px;
+  --pagefind-ui-image-border-radius: 0px;
+  --pagefind-ui-font: var(--font-sans);
 
   --container-xs: 20rem;
   --container-sm: 24rem;
