@@ -1,0 +1,125 @@
+---
+import { Icon } from "astro-icon/components";
+import type { WikiNode } from "@lib/wiki";
+
+type Props = {
+  nodes: WikiNode[];
+  currentRoute: string;
+  activeParents: Set<string>;
+};
+
+const { nodes, currentRoute, activeParents } = Astro.props;
+---
+
+<div class="tree" data-pagefind-ignore>
+  {
+    nodes.map((node) => (
+      <Fragment>
+        <div class="entry">
+          <a
+            href={node.route}
+            class:list={{
+              active: currentRoute === node.route,
+            }}
+          >
+            {node.title}
+          </a>
+          {node.children.length > 0 && (
+            <>
+              <button
+                type="button"
+                class="toggle"
+                data-toggle={node.route}
+                aria-expanded={activeParents.has(node.route) ? "true" : "false"}
+                aria-controls={`tree-${node.route}`}
+              >
+                <Icon name="lucide:chevron-down" aria-hidden="true" />
+              </button>
+              <div
+                id={`tree-${node.route}`}
+                class:list={{
+                  folder: true,
+                  expanded: activeParents.has(node.route),
+                }}
+              >
+                <Astro.self
+                  nodes={node.children}
+                  currentRoute={currentRoute}
+                  activeParents={activeParents}
+                />
+              </div>
+            </>
+          )}
+        </div>
+      </Fragment>
+    ))
+  }
+</div>
+
+<style>
+  .tree {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+
+  .entry {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: start;
+    gap: 0.35rem;
+  }
+
+  .entry > a {
+    padding: 0.45rem 0.65rem;
+    text-decoration: none;
+    color: var(--text-muted);
+    font-size: var(--text-sm);
+    line-height: var(--text-sm--line-height);
+  }
+
+  .entry > a.active,
+  .entry > a:hover {
+    background: var(--surface-muted);
+    color: var(--text);
+  }
+
+  .toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2rem;
+    height: 2rem;
+    border: 0;
+    background: transparent;
+    color: var(--text-muted);
+    cursor: pointer;
+  }
+
+  .toggle[aria-expanded="true"] {
+    color: var(--text);
+  }
+
+  .toggle :global(svg) {
+    display: block;
+    width: 16px;
+    height: 16px;
+    transition: transform 180ms ease;
+  }
+
+  .toggle[aria-expanded="true"] :global(svg) {
+    transform: rotate(180deg);
+  }
+
+  .folder {
+    display: none;
+    grid-column: 1 / -1;
+    margin-left: 0.9rem;
+    padding-left: 0.75rem;
+    border-left: 1px solid var(--border);
+  }
+
+  .folder.expanded {
+    display: block;
+  }
+</style>

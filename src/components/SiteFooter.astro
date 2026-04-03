@@ -1,0 +1,36 @@
+---
+type Props = {
+  currentYear: number;
+};
+
+const { currentYear } = Astro.props;
+---
+
+<footer class="footer" data-pagefind-ignore>
+  <div>
+    © {currentYear} Matous Dzivjak · <a href="https://dzx.cz">dzx.cz</a>
+  </div>
+  <div>Software engineer in Berlin, collecting notes that stay useful.</div>
+</footer>
+
+<style>
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-top: auto;
+    padding: 0.5rem;
+    border-top: 1px solid var(--border);
+    color: var(--text-muted);
+    font-size: var(--text-xs);
+    line-height: var(--text-xs--line-height);
+  }
+
+  @media (max-width: 960px) {
+    .footer {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
+</style>

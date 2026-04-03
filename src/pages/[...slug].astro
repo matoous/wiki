@@ -1,0 +1,22 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import { getAllPages, getPageByRoute } from "@lib/wiki";
+
+export function getStaticPaths() {
+  return getAllPages().map((page) => ({
+    params: {
+      slug: page.route === "/" ? undefined : page.route.split("/").filter(Boolean).join("/"),
+    },
+  }));
+}
+
+const slug = Astro.params.slug;
+const route = slug ? `/${slug}/` : "/";
+const page = getPageByRoute(route);
+
+if (!page) {
+  throw new Error(`Missing wiki page for route: ${route}`);
+}
+---
+
+<BaseLayout page={page} />

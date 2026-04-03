@@ -1,0 +1,88 @@
+<dialog id="search-dialog" class="search-dialog" aria-labelledby="search-title">
+  <div class="search-panel">
+    <div class="search-panel-header">
+      <div>
+        <p class="eyebrow">Search</p>
+        <h2 id="search-title">Search the docs</h2>
+      </div>
+      <button id="search-close" type="button" class="action-button">
+        Close
+      </button>
+    </div>
+    <div id="search" />
+  </div>
+</dialog>
+
+<style>
+  .search-dialog {
+    width: min(var(--container-4xl), calc(100vw - 1.5rem));
+    border: 0;
+    padding: 0;
+    background: transparent;
+  }
+
+  .search-dialog::backdrop {
+    background: rgba(0, 0, 0, 0.3);
+  }
+
+  .search-panel {
+    padding: 1.2rem;
+    border: 1px solid var(--border-strong);
+    background: var(--surface);
+  }
+
+  .search-panel-header {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+
+  .eyebrow {
+    margin: 0;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    font-size: var(--text-xs);
+    font-weight: var(--font-weight-semibold);
+    line-height: var(--text-xs--line-height);
+  }
+
+  .search-panel h2 {
+    margin: 0.15rem 0 0;
+    font-family: var(--font-sans);
+    font-size: var(--text-3xl);
+    font-weight: var(--font-weight-bold);
+    line-height: var(--text-3xl--line-height);
+  }
+
+  .action-button {
+    appearance: none;
+    border: 1px solid var(--border);
+    background: var(--surface-muted);
+    color: var(--text);
+    font: inherit;
+  }
+
+  :global(.pagefind-ui__search-input) {
+    border-color: var(--border) !important;
+    background: var(--surface-muted) !important;
+    color: var(--text) !important;
+  }
+
+  :global(.pagefind-ui__result) {
+    border-top-color: var(--border) !important;
+  }
+
+  :global(.pagefind-ui__result-title),
+  :global(.pagefind-ui__result-link),
+  :global(.pagefind-ui__message) {
+    color: var(--text) !important;
+  }
+
+  :global(.pagefind-ui__result-excerpt),
+  :global(.pagefind-ui__result-nested) {
+    color: var(--text-muted) !important;
+  }
+</style>

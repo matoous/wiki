@@ -1,0 +1,68 @@
+---
+import type { BreadcrumbItem } from "@lib/wiki";
+
+type Props = {
+  items: BreadcrumbItem[];
+};
+
+const { items } = Astro.props;
+---
+
+<div class="breadcrumbs-bar" data-pagefind-ignore>
+  <nav aria-label="Breadcrumb">
+    <ol class="breadcrumbs">
+      {
+        items.map((item) => (
+          <li>
+            <a href={item.route}>{item.title}</a>
+          </li>
+        ))
+      }
+    </ol>
+  </nav>
+</div>
+
+<style>
+  .breadcrumbs-bar {
+    grid-column: 2 / 4;
+    grid-row: 2;
+    min-width: 0;
+    padding: 0.3rem 0.5rem;
+    border-bottom: 1px solid var(--border);
+    background: var(--surface);
+  }
+
+  .breadcrumbs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: var(--text-sm);
+    line-height: var(--text-sm--line-height);
+  }
+
+  .breadcrumbs li:not(:last-child)::after {
+    content: "/";
+    margin-left: 0.5rem;
+    color: var(--text-muted);
+  }
+
+  .breadcrumbs a {
+    text-decoration: none;
+    color: var(--text-muted);
+  }
+
+  .breadcrumbs li:last-child a {
+    color: var(--text);
+  }
+
+  @media (max-width: 960px) {
+    .breadcrumbs-bar {
+      grid-column: 1;
+      grid-row: 5;
+      border-right: 0;
+    }
+  }
+</style>
