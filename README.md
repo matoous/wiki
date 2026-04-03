@@ -60,4 +60,4 @@ CI deploys from `.github/workflows/cd.yaml`. To enable deployment, set this repo
 
 - `CLOUDFLARE_API_TOKEN`
 
-The current `wrangler.toml` deploys to `workers.dev`. If you want the site on a custom domain, add `routes` or a `custom_domain` mapping there.
+The current `wrangler.toml` deploys to `workers.dev` and binds the Worker to the `wiki.dzx.com` custom domain.

@@ -2,6 +2,7 @@ name = "wiki"
 account_id = "63b8e64f90bbe4f59a59706725d32033"
 compatibility_date = "2026-03-14"
 workers_dev = true
+preview_urls = false
 
 [assets]
 directory = "./dist"
@@ -13,4 +14,5 @@ enabled = true
 
 [[routes]]
 pattern = "wiki.dzx.com"
+zone_name = "dzx.com"
 custom_domain = true
