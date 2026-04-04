@@ -11,7 +11,7 @@ type Props = {
 const { nodes, currentRoute, activeParents } = Astro.props;
 ---
 
-<aside class="sidebar" data-pagefind-ignore>
+<aside id="sidebar-panel" class="sidebar" data-pagefind-ignore>
   <div id="sidebar-inner" class="sidebar-inner">
     <SidebarTree nodes={nodes} currentRoute={currentRoute} activeParents={activeParents} />
   </div>
@@ -37,10 +37,22 @@ const { nodes, currentRoute, activeParents } = Astro.props;
 
   @media (max-width: 960px) {
     .sidebar {
-      grid-column: 1;
-      grid-row: 4;
+      display: none;
+      position: fixed;
+      top: var(--mobile-header-height, 4.2rem);
+      bottom: 0;
+      left: 0;
+      z-index: 40;
+      width: 100%;
+      max-width: 100%;
       border-right: 0;
-      border-bottom: 1px solid var(--border);
+      border-top: 1px solid var(--border);
+      border-bottom: 0;
+      box-shadow: none;
+    }
+
+    :global([data-sidebar-open="true"]) .sidebar {
+      display: flex;
     }
   }
 </style>

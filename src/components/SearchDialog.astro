@@ -1,3 +1,8 @@
+---
+import IconButton from "@components/IconButton.astro";
+import { Icon } from "astro-icon/components";
+---
+
 <dialog id="search-dialog" class="search-dialog" aria-labelledby="search-title">
   <div class="search-panel">
     <div class="search-panel-header">
@@ -5,13 +10,61 @@
         <p class="eyebrow">Search</p>
         <h2 id="search-title">Search the docs</h2>
       </div>
-      <button id="search-close" type="button" class="action-button">
-        Close
-      </button>
+      <IconButton id="search-close" label="Close search">
+        <Icon name="lucide:x" aria-hidden="true" />
+      </IconButton>
     </div>
     <div id="search" />
   </div>
 </dialog>
+
+<script>
+  const pagefindWindow = window as Window & {
+    __pagefind?: { initialized: boolean; ui?: unknown };
+    PagefindUI?: new (options: {
+      element: string;
+      showImages: boolean;
+      showSubResults: boolean;
+    }) => unknown;
+  };
+
+  const searchDialog = document.getElementById("search-dialog") as HTMLDialogElement | null;
+  const searchClose = document.getElementById("search-close");
+  const searchOpeners = document.querySelectorAll("[data-search-open]");
+
+  const openSearch = () => {
+    if (typeof searchDialog?.showModal === "function") {
+      searchDialog.showModal();
+    } else {
+      searchDialog?.setAttribute("open", "true");
+    }
+
+    if (!pagefindWindow.__pagefind?.initialized && typeof pagefindWindow.PagefindUI !== "undefined") {
+      pagefindWindow.__pagefind = {
+        initialized: true,
+        ui: new pagefindWindow.PagefindUI({
+          element: "#search",
+          showImages: false,
+          showSubResults: true,
+        }),
+      };
+    }
+  };
+
+  searchOpeners.forEach((button) => {
+    button.addEventListener("click", openSearch);
+  });
+
+  searchClose?.addEventListener("click", () => {
+    searchDialog?.close();
+  });
+
+  searchDialog?.addEventListener("click", (event) => {
+    if (event.target === searchDialog) {
+      searchDialog.close();
+    }
+  });
+</script>
 
 <style>
   .search-dialog {
@@ -57,11 +110,4 @@
     line-height: var(--text-3xl--line-height);
   }
 
-  .action-button {
-    appearance: none;
-    border: 1px solid var(--border);
-    background: var(--surface-muted);
-    color: var(--text);
-    font: inherit;
-  }
 </style>

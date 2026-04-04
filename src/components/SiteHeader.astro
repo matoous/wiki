@@ -1,13 +1,99 @@
+---
+import IconButton from "@components/IconButton.astro";
+import { Icon } from "astro-icon/components";
+---
+
 <header class="page-titlebar" data-pagefind-ignore>
   <a class="brand" href="/">
     <span class="brand-mark">Mat's Wiki</span>
   </a>
+
+  <div class="mobile-actions">
+    <IconButton
+      data-search-open
+      label="Open search"
+      title="Search"
+    >
+      <Icon name="lucide:search" aria-hidden="true" />
+    </IconButton>
+
+    <IconButton
+      data-theme-toggle
+      label="Switch to light theme"
+      title="Switch theme"
+    >
+      <span class="icon-shell theme-icon-sun" aria-hidden="true">
+        <Icon name="lucide:sun" />
+      </span>
+      <span class="icon-shell theme-icon-moon" aria-hidden="true">
+        <Icon name="lucide:moon" />
+      </span>
+    </IconButton>
+
+    <IconButton
+      data-sidebar-toggle
+      aria-controls="sidebar-panel"
+      aria-expanded="false"
+      label="Open navigation menu"
+      title="Menu"
+    >
+      <span class="icon-shell menu-icon-open" aria-hidden="true">
+        <Icon name="lucide:menu" />
+      </span>
+      <span class="icon-shell menu-icon-close" aria-hidden="true">
+        <Icon name="lucide:x" />
+      </span>
+    </IconButton>
+  </div>
 </header>
+
+<script>
+  const root = document.documentElement;
+  const sidebarToggles = document.querySelectorAll("[data-sidebar-toggle]");
+
+  const setSidebarOpen = (isOpen: boolean) => {
+    root.dataset.sidebarOpen = isOpen ? "true" : "false";
+
+    sidebarToggles.forEach((button) => {
+      if (button instanceof HTMLButtonElement) {
+        button.setAttribute("aria-expanded", isOpen ? "true" : "false");
+        button.setAttribute(
+          "aria-label",
+          isOpen ? "Close navigation menu" : "Open navigation menu",
+        );
+      }
+    });
+  };
+
+  sidebarToggles.forEach((button) => {
+    button.addEventListener("click", () => {
+      setSidebarOpen(root.dataset.sidebarOpen !== "true");
+    });
+  });
+
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") {
+      setSidebarOpen(false);
+    }
+  });
+
+  window.addEventListener("resize", () => {
+    if (window.innerWidth > 960) {
+      setSidebarOpen(false);
+    }
+  });
+
+  setSidebarOpen(false);
+</script>
 
 <style>
   .page-titlebar {
     grid-column: 1 / 2;
     grid-row: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
     min-width: 0;
     padding: 1rem 1.2rem;
     border-right: 1px solid var(--border);
@@ -27,11 +113,57 @@
     line-height: var(--text-lg--line-height);
   }
 
+  .mobile-actions {
+    display: none;
+    align-items: center;
+    gap: 0.2rem;
+  }
+
+  .icon-shell {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .theme-icon-sun,
+  .menu-icon-close {
+    display: none;
+  }
+
+  :global(:root[data-theme="dark"]) .theme-icon-sun {
+    display: inline-block;
+  }
+
+  :global(:root[data-theme="dark"]) .theme-icon-moon {
+    display: none;
+  }
+
+  :global([data-sidebar-open="true"]) .menu-icon-open {
+    display: none;
+  }
+
+  :global([data-sidebar-open="true"]) .menu-icon-close {
+    display: inline-block;
+  }
+
   @media (max-width: 960px) {
     .page-titlebar {
       grid-column: 1;
       grid-row: 1;
+      position: sticky;
+      top: 0;
+      z-index: 30;
       border-right: 0;
+      padding: 0.9rem 1rem;
+    }
+
+    .brand-mark {
+      font-size: var(--text-base);
+      line-height: var(--text-base--line-height);
+    }
+
+    .mobile-actions {
+      display: inline-flex;
     }
   }
 </style>

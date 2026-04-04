@@ -4,9 +4,9 @@ import { Icon } from "astro-icon/components";
 
 <div class="theme-slot" data-pagefind-ignore>
   <button
-    id="theme-toggle"
     type="button"
     class="theme-toggle"
+    data-theme-toggle
     aria-label="Switch to light theme"
     title="Switch theme"
   >
@@ -14,6 +14,33 @@ import { Icon } from "astro-icon/components";
     <Icon class="theme-icon theme-icon-moon" name="lucide:moon" aria-hidden="true" />
   </button>
 </div>
+
+<script>
+  const root = document.documentElement;
+  const themeToggles = document.querySelectorAll("[data-theme-toggle]");
+
+  const applyTheme = (theme: string) => {
+    root.dataset.theme = theme;
+    const nextTheme = theme === "dark" ? "light" : "dark";
+
+    themeToggles.forEach((button) => {
+      if (button instanceof HTMLButtonElement) {
+        button.setAttribute("aria-label", `Switch to ${nextTheme} theme`);
+        button.title = `Switch to ${nextTheme} theme`;
+      }
+    });
+  };
+
+  applyTheme(localStorage.getItem("theme-preference") || "dark");
+
+  themeToggles.forEach((button) => {
+    button.addEventListener("click", () => {
+      const nextTheme = root.dataset.theme === "dark" ? "light" : "dark";
+      localStorage.setItem("theme-preference", nextTheme);
+      applyTheme(nextTheme);
+    });
+  });
+</script>
 
 <style>
   .theme-slot {
@@ -81,9 +108,7 @@ import { Icon } from "astro-icon/components";
 
   @media (max-width: 960px) {
     .theme-slot {
-      grid-column: 1;
-      grid-row: 3;
-      border-right: 0;
+      display: none;
     }
   }
 </style>
