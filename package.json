@@ -26,7 +26,7 @@
     "@astrojs/sitemap": "^3.7.1",
     "@biomejs/biome": "^2.4.10",
     "@iconify-json/lucide": "^1.2.44",
-    "@types/node": "^24.6.0",
+    "@types/node": "^25.5.2",
     "astro": "^5.18.1",
     "astro-icon": "^1.1.5",
     "gray-matter": "^4.0.3",
