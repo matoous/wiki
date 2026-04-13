@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.7",
-    "@astrojs/sitemap": "^3.7.1",
+    "@astrojs/sitemap": "^3.7.2",
     "@biomejs/biome": "^2.4.11",
     "@iconify-json/lucide": "^1.2.44",
     "@types/node": "^24.6.0",
