@@ -22,7 +22,7 @@
     "deploy": "npm run build && wrangler deploy"
   },
   "devDependencies": {
-    "@astrojs/check": "^0.9.7",
+    "@astrojs/check": "^0.9.8",
     "@astrojs/sitemap": "^3.7.1",
     "@biomejs/biome": "^2.4.11",
     "@iconify-json/lucide": "^1.2.44",
