@@ -30,7 +30,7 @@
     "astro": "^5.18.1",
     "astro-icon": "^1.1.5",
     "gray-matter": "^4.0.3",
-    "pagefind": "^1.3.0",
+    "pagefind": "^1.5.2",
     "typescript": "^5.9.2",
     "wrangler": "^4.80.0"
   }
