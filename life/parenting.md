@@ -40,3 +40,7 @@
 - [The Rational Male - Positive Masculinity]
 - [Parenting With Love And Logic](https://www.goodreads.com/book/show/46186.Parenting_With_Love_and_Logic)
 - [Parenting @ stackexchange](https://parenting.stackexchange.com/)
+
+## Books
+
+- [Electronics for Kids, 2nd Edition](https://www.goodreads.com/book/show/28084199-electronics-for-kids)

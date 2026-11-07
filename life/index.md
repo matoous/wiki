@@ -1,5 +1,7 @@
 # Life
 
+- **Epistemic anxiety** - Epistemic anxiety is an emotional response to the risk of being wrong, driving individuals to think more carefully, verify information, and invest cognitive resources when high-stakes decisions are involved. It is a form of doubt or anxiety focused on uncertainty, which can motivate learning, exploration, and the acquisition of more accurate beliefs.
+
 ## Resources
 
 - [13 Lessons Learned](https://brightthemag.com/13-lessons-learned-e4f8ceb21e60) by _Matthew McConaughey_
@@ -56,7 +58,7 @@
   - [On Tea and the Art of Doing Nothing](https://thomasjbevan.substack.com/p/on-tea-and-the-art-of-doing-nothing)
   - [Why are you so busy?](https://tomlingham.com/articles/why-are-you-so-busy/)
   - [It Hurts to Ask](https://scholar.princeton.edu/sites/default/files/rbenabou/files/ihta_august_7.pdf)
-- [How to Build a Life](https://www.theatlantic.com/projects/how-build-life/) - A column about pointing yourself toward happiness 
+- [How to Build a Life](https://www.theatlantic.com/projects/how-build-life/) - A column about pointing yourself toward happiness
 - [How To Do Hard Things](https://every.to/no-small-plans/how-to-do-hard-things)
 - [Henry Marsh: ‘Preparing to die has a lot to do with having had a good life’](https://english.elpais.com/science-tech/2023-04-01/henry-marsh-preparing-to-die-has-a-lot-to-do-with-having-had-a-good-life.html)
 - [The Finnish Secret to Happiness? Knowing When You Have Enough.](https://web.archive.org/web/20230402074052/https://www.nytimes.com/2023/04/01/world/europe/finland-happiness-optimism.html)
@@ -74,3 +76,4 @@
 - [What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me) by [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman)
 - [Rediscovering Ikigai: What We Got Wrong and How to Find Meaning in Life](https://nesslabs.com/ikigai)
   ![Ikigai diagram](/static/ikigai.png)
+- [How to live an intellectually rich life](https://utsavmamoria.substack.com/p/how-to-live-an-intellectually-rich)

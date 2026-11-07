@@ -36,3 +36,4 @@
 - [API Design Style Guides, Guidelines and Best Practices](https://stoplight-site.webflow.io/api-style-guides-guidelines-and-best-practices)
 - [Stainless](https://app.stainlessapi.com/login) - SDK generator, pricing is steep but it generates beautiful SDKs and is good place for inspiration
 - [API Guidelines in the Wild](https://dret.github.io/guidelines/)
+- [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)

@@ -46,6 +46,7 @@
 - [Lock-Free Rust: How to Build a Rollercoaster While It’s on Fire](https://yeet.cx/blog/lock-free-rust/)
 - [Notes on io-uring](https://without.boats/blog/io-uring/) #rust #io
 - [Request coalescing in async Rust](https://fasterthanli.me/articles/request-coalescing-in-async-rust)
+- [Marching Events: What does iCalendar have to do with ray marching?](https://pwy.io/posts/marching-events/)
 
 ## Projects
 
@@ -72,7 +73,7 @@
 - [pagefine](https://pagefind.app/) ([CloudCannon/pagefind](https://github.com/CloudCannon/pagefind)) - Pagefind is a fully static search library that aims to perform well on large sites, while using as little of your users’ bandwidth as possible, and without hosting any infrastructure.
 - [Cola](https://github.com/nomad/cola) A text CRDT for real-time collaborative editing #crdt #text-editing
 - [Loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Enhance your app with seamless collaboration and effortless time-travel features #crdt #text-editing
-- [nicholassm/disruptor-rs](https://github.com/nicholassm/disruptor-rs) -  Low latency inter-thread communication library in Rust inspired by the LMAX Disruptor. 
+- [nicholassm/disruptor-rs](https://github.com/nicholassm/disruptor-rs) -  Low latency inter-thread communication library in Rust inspired by the LMAX Disruptor.
 - [Rayon](https://github.com/rayon-rs/rayon) - A data parallelism library for Rust
 
 ## Game Dev

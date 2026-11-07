@@ -9,4 +9,4 @@
 - [Postgres Auditing in 150 lines of SQL](https://supabase.com/blog/2022/03/08/audit)
 - [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
 - [Nine ways to shoot yourself in the foot with PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
-
+- [How we scale PgBouncer in ClickHouse Managed Postgres](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres)
